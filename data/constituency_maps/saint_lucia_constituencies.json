@@ -1,0 +1,1693 @@
+[
+  {
+    "constituency": "Gros Islet – (A)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATION ADDRESS"
+      },
+      {
+        "division": "A1 (a)",
+        "communities": [
+          "CAP ESTATE",
+          "SMUGGLERS COVE",
+          "SALINE POINT RANCH SITE",
+          "BECUNE POINT",
+          "GOLF PARK",
+          "CARIBBEAN PARK",
+          "PIGEON ISLAND",
+          "GROS ISLET TOWN",
+          "MASSADE",
+          "MT",
+          "CAFE",
+          "TROUS GASON"
+        ],
+        "polling_station": "GROS ISLET PRIMARY SCHOOL"
+      },
+      {
+        "division": "A1 (b)",
+        "communities": [
+          "BELLE VUE",
+          "CAS-EN-BAS",
+          "BEAUSEJOUR",
+          "BELLA ROSA",
+          "BONNE TERRE",
+          "LA RETRAITE WEST."
+        ],
+        "polling_station": "SPORTS ACADEMY (formerly  Gros Islet Secondary School)"
+      },
+      {
+        "division": "A1 (c)",
+        "communities": [
+          "RODNEY BAY",
+          "MONGIRAUD",
+          "REDUIT EAST",
+          "REDUIT ORCHARD"
+        ],
+        "polling_station": "INDIES NIGHT CLUB"
+      },
+      {
+        "division": "A1 (d)",
+        "communities": [
+          "MOULIN-A-VENT",
+          "REDUIT WEST",
+          "RODNEY HEIGHTS",
+          "LA RETARITE EAST"
+        ],
+        "polling_station": "AQUATIC CENTER (opposite Habour Club)"
+      },
+      {
+        "division": "A2 (a)",
+        "communities": [
+          "MONCHY",
+          "DAUPHIN",
+          "LA BORNE",
+          "DES RAMEAUX",
+          "BOIS VERRELLE",
+          "MT LAYAU CARDINAL",
+          "MT GARAC",
+          "MT DES BOTTES",
+          "LA BELLE VIE",
+          "MORNE CITON",
+          "MALGRETOUTE",
+          "BAZIN",
+          "RAVIN MACOCK",
+          "TROU SALLEE",
+          "MT DE FEU",
+          "JERMIEA",
+          "OBESSON"
+        ],
+        "polling_station": "MONCHY COMBINED SCHOOL"
+      },
+      {
+        "division": "A2 (b)",
+        "communities": [
+          "CAREFFE",
+          "LA RIVIERE MITAN",
+          "BOIS D’INDE",
+          "HERMITAGE",
+          "LA RETRAITE",
+          "CAYE MANGE",
+          "LA FEUILLET",
+          "BONNE TERRE GARDENS",
+          "TROU SALLE"
+        ],
+        "polling_station": "DARREN SAMMY STADIUM (BEAUSEJOUR)"
+      },
+      {
+        "division": "A3 (a)",
+        "communities": [
+          "GRAND RIVIERE",
+          "VIEUX SUCREIC",
+          "PIAT",
+          "ROSETTE",
+          "MT. JAMBE",
+          "LA VACCANCE",
+          "MT. GRENIER",
+          "MORNE SERPENT",
+          "POSTLEWAITE",
+          "DEGAZON",
+          "MONIER",
+          "RIVERSTONE",
+          "LA BELLAIRE",
+          "PLAUTEAU",
+          "DAVIE NORTH",
+          "NORBERE",
+          "EMERALD DEVELOPMENT",
+          "INGLEWOODS",
+          "ASSOU CANAL"
+        ],
+        "polling_station": "GRANDE RIVIERE PRIMARY SCHOOL"
+      },
+      {
+        "division": "A3 (b)",
+        "communities": [
+          "GRAND RIVIERE",
+          "VIEUX SUCREIC",
+          "PIAT",
+          "ROSETTE",
+          "MT. JAMBE",
+          "LA VACCANCE",
+          "MT. GRENIER",
+          "MORNE SERPENT",
+          "POSTLEWAITE",
+          "DEGAZON",
+          "MONIER",
+          "RIVERSTONE",
+          "LA BELLAIRE",
+          "PLAUTEAU",
+          "DAVIE NORTH",
+          "NORBERE",
+          "EMERALD DEVELOPMENT",
+          "INGLEWOODS",
+          "ASSOU CANAL"
+        ],
+        "polling_station": "GRANDE RIVIERE INFANT SCHOOL"
+      },
+      {
+        "division": "A4 (a)",
+        "communities": [
+          "MARISULE",
+          "BOIS D’ORANGE",
+          "LA BRELOTTE",
+          "BON AIR",
+          "TROUYA",
+          "EASTWINDS"
+        ],
+        "polling_station": "CORINTH SECONDARY SCHOOL"
+      },
+      {
+        "division": "A4 (b)",
+        "communities": [
+          "CHOC ESTATE",
+          "CORINTHE ESTATE",
+          "RIVERSTONE"
+        ],
+        "polling_station": "CORINTH SECONDARY SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Babonneau – (B)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "B1 (a)",
+        "communities": [
+          "DAVIE SOUTH",
+          "MONIER WEST",
+          "BABONNEAU  WEST",
+          "BALATA WEST",
+          "CHRISTOPHER",
+          "LA CROIX CHAUBOURG WEST",
+          "PAIX BOUCHE WEST",
+          "BALATA"
+        ],
+        "polling_station": "BABONNEAU PRIMARY SCHOOL"
+      },
+      {
+        "division": "B1 (b)",
+        "communities": [
+          "UNION",
+          "MORNE DU DON/BALATA"
+        ],
+        "polling_station": "BALATA COMBINED SCHOOL"
+      },
+      {
+        "division": "B1 (c)",
+        "communities": [
+          "TI MORNE",
+          "MONIER SOUTH",
+          "UNION TERRACE",
+          "DEGAZON",
+          "DRIVE SOUTH",
+          "FEREE"
+        ],
+        "polling_station": "UNION ORCHID GARDEN"
+      },
+      {
+        "division": "B2 (a)",
+        "communities": [
+          "PAIX BOUCHE EAST",
+          "NORTH OF MARQUIS ESTATE",
+          "BABONNEAU ROAD",
+          "GARRAND",
+          "THEATISTE",
+          "LA GUERRE",
+          "AMERIC",
+          "MONIER EAST",
+          "PLATEAU",
+          "LA CROIX CHAUBOURG EAST",
+          "MORNE CITON",
+          "LA GUERRE",
+          "PAIX BOUCHE WEST"
+        ],
+        "polling_station": "LA GUERRE COMBINED SCHOOL"
+      },
+      {
+        "division": "B (b)",
+        "communities": [
+          "PAIX BOUCHE EAST",
+          "NORTH OF MARQUIS ESTATE",
+          "BABONNEAU ROAD",
+          "GARRAND",
+          "THEATISTE",
+          "LA GUERRE",
+          "AMERIC",
+          "MONIER EAST",
+          "PLATEAU",
+          "LA CROIX CHAUBOURG EAST",
+          "MORNE CITON",
+          "LA GUERRE"
+        ],
+        "polling_station": "LA GUERRE COMMUNITY CENTRE"
+      },
+      {
+        "division": "B3",
+        "communities": [
+          "BOGUIS",
+          "DESABLOR",
+          "MARQUIS",
+          "GRANDE ANSE NORTH",
+          "THEATISTE EAST"
+        ],
+        "polling_station": "BOGIUS COMBINED SCHOOL"
+      },
+      {
+        "division": "B4",
+        "communities": [
+          "CYDERS",
+          "LOUVET",
+          "DES BARRA",
+          "GRANDE ANSE SOUTH",
+          "CACOLI",
+          "BARRE COULON",
+          "LA SORCIERE",
+          "CAILLE DES"
+        ],
+        "polling_station": "DES BARRA COMBINED SCHOOL"
+      },
+      {
+        "division": "B5 (a)",
+        "communities": [
+          "CHASSIN",
+          "FOND CACAO",
+          "FOND ASSAU",
+          "SOUTH OF MARQUIS ESTATE",
+          "DES BARRA",
+          "EN POIX DOUX",
+          "TALVERN",
+          "BABONNEAU WEST",
+          "PAYS PERDU",
+          "HILL 20",
+          "COMBAT",
+          "TI CHEMIN",
+          "DES BOLLIERES",
+          "FOND CACAO WEST",
+          "CACAO"
+        ],
+        "polling_station": "FOND ASSAU COMBINED SCHOOL"
+      },
+      {
+        "division": "B5 (b)",
+        "communities": [
+          "GARRAND",
+          "RESINARD",
+          "DES BARRA ROAD"
+        ],
+        "polling_station": "GARRAND ITC ACCESS CENTRE"
+      },
+      {
+        "division": "B6 (a)",
+        "communities": [
+          "BABONNEAU WEST",
+          "CABICHE",
+          "HILL 20",
+          "BALATA EAST",
+          "CACAO",
+          "FOND CANNIE"
+        ],
+        "polling_station": "BABONNEAU SECONDARY SCHOOL"
+      },
+      {
+        "division": "B6 (b)",
+        "communities": [
+          "FOND CACAO SOUTH",
+          "GIRARD",
+          "LA FITTE",
+          "GREEN GOLD"
+        ],
+        "polling_station": "BABONNEAU PRIMARY SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Castries North – (C)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "C1 (a)",
+        "communities": [
+          "VIGIE PENINSULA"
+        ],
+        "polling_station": "ST. MARY’S COLLEGE AUDITORIUM, VIGIE"
+      },
+      {
+        "division": "C1 (b)",
+        "communities": [
+          "VIDE BOUTEILLE",
+          "CHOC",
+          "SUNNY ACRES",
+          "SUMMERSDALE",
+          "BISEE",
+          "CITY GATE",
+          "MALABAR",
+          "PALM BEACH",
+          "UNION HILL TOP",
+          "BLACKSTONE"
+        ],
+        "polling_station": "CASTRIES COMPREHENSIVE SECONDARY SCHOOL"
+      },
+      {
+        "division": "C1 (c)",
+        "communities": [
+          "ALMONDALE",
+          "PATVALE",
+          "UNION"
+        ],
+        "polling_station": "WILDLIFE CONSERVATION CENTRE (UNION MINI ZOO), ALMONDALE"
+      },
+      {
+        "division": "C2",
+        "communities": [
+          "CARRIERE",
+          "L’ANSE ROAD EAST",
+          "LA CLERY",
+          "VIDE BOUTEILLE",
+          "YORKE HILL",
+          "ACTIVE HILL"
+        ],
+        "polling_station": "VIDE BOUTIELLE SECONDARY SCHOOL"
+      },
+      {
+        "division": "C3 (a)",
+        "communities": [
+          "LA PANSEE (UPPER PART)",
+          "KARIBELLE GARDENS"
+        ],
+        "polling_station": "VIDE BOUTIELLE PRIMARY SCHOOL"
+      },
+      {
+        "division": "C3 (b)",
+        "communities": [
+          "CARELLIE GARDENS",
+          "CHASE GARDENS"
+        ],
+        "polling_station": "CARELLIE HUMAN RESOURCE CENTRE"
+      },
+      {
+        "division": "C4 (a)",
+        "communities": [
+          "MORNE DU DON (UPPER PART)",
+          "BOIS PATAT",
+          "HILL CREST GARDENS",
+          "AGARD LANDS"
+        ],
+        "polling_station": "MORNE DU DON PRIMARY SCHOOL"
+      },
+      {
+        "division": "C5",
+        "communities": [
+          "SUNBILT",
+          "CEDARS ROAD (UPPER PART)",
+          "WATER WORKS ROAD"
+        ],
+        "polling_station": "ST. JOSEPH’S CONVENT PRE SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Castries East (D)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "D1",
+        "communities": [
+          "GUESNEAU",
+          "BOCAGE",
+          "LA FITTE",
+          "GIRARD"
+        ],
+        "polling_station": "BOCAGE SECONDARY SCHOOL"
+      },
+      {
+        "division": "D2",
+        "communities": [
+          "BOCAGE WEST",
+          "TI ROCHER",
+          "RAVINE CHABOT",
+          "ENTREPOT",
+          "GROS MORNE",
+          "BAGATELLE EAST",
+          "WATER WORKS ROAD (FROM NAZERINE CHURCH UPWARDS)",
+          "UPPER MARCHAND (FROM MINDOO PHILLIP PARK TO BAGATELLE EAST)",
+          "MORNE GIRAUD"
+        ],
+        "polling_station": "ENTREPOT SECONDARY SCHOOL"
+      },
+      {
+        "division": "D3",
+        "communities": [
+          "GEORGE CHARLES BOULEVARD",
+          "(INCLUDING BURKE KING’S LANE)",
+          "PARK LANE",
+          "DE COTEAU LANE",
+          "MARCHAND ROAD"
+        ],
+        "polling_station": "MARCHAND PARISH CENTRE"
+      },
+      {
+        "division": "D4",
+        "communities": [
+          "ROCK HALL ROAD",
+          "RAVINE TOUTERELLE",
+          "ARRUNDELLE HILL",
+          "GEORGE MALLET AVENUE",
+          "BISHOP’S GAP",
+          "GHIRAWOO ROAD",
+          "DERRIERE FORT FOUR ROAD WEST",
+          "BAGATELLE WEST"
+        ],
+        "polling_station": "BISHOP CHARLES GARCHET R.C. COMBINED SCHOOL (MARCHAND COMBINED SCHOOL)"
+      },
+      {
+        "division": "D5 (a)",
+        "communities": [
+          "PAVEE EAST",
+          "MAYNARD HILL",
+          "ETIENNE ROAD EAST",
+          "TOUR ROUGE",
+          "BLACK MALLET GAP",
+          "UPPER BRIDGE STREET",
+          "MORN LINK ROAD",
+          "MAYFIELD",
+          "HOSPITAL ROAD",
+          "DERRIERE FORT EAST",
+          "RIVER SIDE ROAD SOUTH",
+          "CHEF HARRY’S DRIVE",
+          "CHESTERFIELD ROAD",
+          "MARCHAUD",
+          "BRIDGE STREET",
+          "MORNE LINK ROAD",
+          "MAYFIELD",
+          "DERRIERE FORT EAST",
+          "BRIDGE STREET (UPPER PART)",
+          "VICTORIA ROAD"
+        ],
+        "polling_station": "PLAYER’S PAVILLION, MINDOO PHILLIP PARK (MARCHAND)"
+      },
+      {
+        "division": "D5 (b)",
+        "communities": [
+          "PAVEE EAST",
+          "MAYNARD HILL",
+          "ETIENNE ROAD EAST",
+          "TOUR ROUGE",
+          "BLACK MALLET GAP",
+          "UPPER BRIDGE STREET",
+          "MORN LINK ROAD",
+          "MAYFIELD",
+          "HOSPITAL ROAD",
+          "DERRIERE FORT EAST",
+          "RIVER SIDE ROAD SOUTH",
+          "CHEF HARRY’S DRIVE",
+          "CHESTERFIELD ROAD",
+          "MARCHAUD",
+          "BRIDGE STREET",
+          "MORNE LINK ROAD",
+          "MAYFIELD",
+          "DERRIERE FORT EAST",
+          "BRIDGE STREET (UPPER PART)",
+          "VICTORIA ROAD"
+        ],
+        "polling_station": "PANSHED, BELGRAVE COURT, MARCHAND GROUNDS"
+      },
+      {
+        "division": "D6",
+        "communities": [
+          "ETIENNE ROAD",
+          "NORTH OF COMBINERE ROAD",
+          "OLD MILITARY ROAD",
+          "PAVEE ROAD",
+          "CHEF HARRY’S DRIVE",
+          "MORNE ROAD EAST",
+          "PARKER’S LANE",
+          "BOIS CACHET",
+          "DERRIERE FORT",
+          "WEST PAVEE ROAD TO THE STATE HIGHWAY"
+        ],
+        "polling_station": "DU BOULAY BUILDING"
+      }
+    ]
+  },
+  {
+    "constituency": "Castries Central (E)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "E1",
+        "communities": [
+          "SANS SOUCI",
+          "L’ANSE ROAD WEST",
+          "LUNAR PARK",
+          "VIGIE",
+          "POINT SERAPHINE"
+        ],
+        "polling_station": "CARMEN RENE MEMORIAL SCHOOL"
+      },
+      {
+        "division": "E2",
+        "communities": [
+          "BARNARD HILL",
+          "CONWAY",
+          "DARLING ROAD",
+          "CORNER OF HIGH AND BROGLIE STREET TO CHAUSSEE ROAD",
+          "CORNER OF HIGH STREET AND CHAUSSEE ROAD (THROUGH CALVARY ROAD)",
+          "GOVERNMENT HOUSING ESTATE INCLUDING :- (BLOCK E",
+          "G",
+          "J",
+          "K",
+          "P",
+          "Q",
+          "R",
+          "T",
+          "W",
+          "X",
+          "Z",
+          "AS",
+          "BS",
+          "CS",
+          "ES",
+          "FS",
+          "GS)",
+          "NEW CDC BUILDINGS INCLUDING :- (BLOCK A",
+          "B",
+          "C",
+          "E",
+          "G",
+          "F",
+          "J",
+          "K)",
+          "NORTHERN CORNER OF HIGH AND CORAL STREETS",
+          "NORTHERN CORNER OF HIGH AND CHISEL STREETS",
+          "ST. LOUIS STREET",
+          "VICTORIA STREET",
+          "JEREMIE STREET (UPPER PART)"
+        ],
+        "polling_station": "ANGLICAN INFANT SCHOOL"
+      },
+      {
+        "division": "E3",
+        "communities": [
+          "CHAUSSEE ROAD UPPER PART",
+          "MICOUD STREET",
+          "BROGLIE STREET",
+          "BRAZIL STREET",
+          "MARY ANN STREET",
+          "PEYNIER STREET",
+          "MANOEL STREET",
+          "BOURBON STREET",
+          "MONGIRAUD STREET",
+          "LABORIE STREET",
+          "BRIDGE STREET",
+          "QUEEN’S LANE",
+          "WILLIAM PETER BOULEVARD",
+          "GRASS STREET",
+          "CORNER OF HIGH AND CORAL STREETS (UPPER PART)",
+          "CORNER OF HIGH",
+          "CHISEL STREETS (UPPER PART)",
+          "GOVERNMENT HOUSING ESTATE INCLUDING:- (BLOCK B",
+          "C",
+          "F",
+          "H",
+          "L",
+          "M",
+          "N",
+          "R",
+          "U",
+          "V",
+          "DS",
+          "Y",
+          "S)",
+          "LESLIE LAND",
+          "MONGIRAUD ROAD",
+          "WATER WORKS ROAD (FROM FLAMBEAU BRIDGE WESTWARDS TO THE JUNCTION WITH CHAUSSEE ROAD)",
+          "BARNARD HILL"
+        ],
+        "polling_station": "R.C. BOYS PRIMARY SCHOOL"
+      },
+      {
+        "division": "E4",
+        "communities": [
+          "NEW VILLAGE",
+          "PEART’S GAP",
+          "LA PANSE",
+          "GEORGEVILLE",
+          "CALVARY ROAD",
+          "LA ROSERIE",
+          "MT. PLEASANT"
+        ],
+        "polling_station": "CASTRIES CONSTITUENCY COUNCIL (CCC) TOWN HALL PIENIER STREET)"
+      },
+      {
+        "division": "E5",
+        "communities": [
+          "FOND LE GRANDE",
+          "MORNE AVITTE",
+          "ROSE HILL",
+          "WILTON’S YARD",
+          "MORNE DU DON",
+          "BOIS PATAT (WESTERN SIDE)"
+        ],
+        "polling_station": "R.C. BOYS INFANT SCHOOL"
+      },
+      {
+        "division": "E6 (a)",
+        "communities": [
+          "WATER WORKS ROAD",
+          "LOU COUDUCE",
+          "LESLIE LAND",
+          "LASTIC HILL",
+          "PATTERSON’S GAP",
+          "CEDARS ROAD (LOWER PART)"
+        ],
+        "polling_station": "AVE MARIA INFANT SCHOOL"
+      },
+      {
+        "division": "E6 (b)",
+        "communities": [
+          "WATER WORKS ROAD",
+          "LOU COUDUCE",
+          "LESLIE LAND",
+          "LASTIC HILL",
+          "PATTERSON’S GAP",
+          "CEDARS ROAD (LOWER PART)"
+        ],
+        "polling_station": "AVE MARIA PRIMARY SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Castries South (F)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "F1",
+        "communities": [
+          "LA TOC ROAD",
+          "HOSPITAL ROAD",
+          "TAPION",
+          "(FAUX A CHAUX)",
+          "BANANES",
+          "BELLA ROSA",
+          "FAUX A CHAUX",
+          "MORNE ROAD WEST",
+          "COOPER’S ROAD",
+          "BANANES"
+        ],
+        "polling_station": "FERRY TERMINAL BUILDING, PORT CASTRIES /BANAN)"
+      },
+      {
+        "division": "F2(a)",
+        "communities": [
+          "GOODLANDS WEST",
+          "MORNE ROAD SOUTH",
+          "COUBARIL ESTATE SOUTH",
+          "CUL-DE-SAC",
+          "MORNE ROAD WEST"
+        ],
+        "polling_station": "HASCHE BUILDING CAR PARK (MINISTRY OF EDUCATION BUILDING, GOODLANDS)"
+      },
+      {
+        "division": "F2(b)",
+        "communities": [
+          "CICERON",
+          "ANSE FERE",
+          "GREEN BAY",
+          "BELLE VUE",
+          "MONKEY TOWN"
+        ],
+        "polling_station": "CICERON SECONDARY SCHOOL"
+      },
+      {
+        "division": "F3",
+        "communities": [
+          "MT. CABRIT",
+          "LA POINTE",
+          "MARIGOT",
+          "LA PEARLE WEST",
+          "MORNE ST. JOSEPH",
+          "MT. BELLE VUE",
+          "TI COLON WEST",
+          "LA CROIX MAINGOT WEST",
+          "CUL-DE-SAC WEST"
+        ],
+        "polling_station": "LA CROIX MAINGOT (HESS SCHOOL)"
+      }
+    ]
+  },
+  {
+    "constituency": "Anse La Raye / Canaries (G)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "G1",
+        "communities": [
+          "ROSEAU",
+          "MORNE D’OR",
+          "JEAN BAPTISTE",
+          "LA TREILLE",
+          "DERRIERE LAGOON",
+          "JACMEL",
+          "FOND EAU ROUGE",
+          "BOIS D’INDE",
+          "MORNE CISEAUX"
+        ],
+        "polling_station": "ROSEAU COMBINED SCHOOL"
+      },
+      {
+        "division": "G2(a)",
+        "communities": [
+          "MILLET",
+          "TETE CHEMIN ESTATE",
+          "VENUS ESTATE",
+          "DERRIERE DOS",
+          "DEMEDE",
+          "DAM DE TRAVERSAY WEST",
+          "CAICO",
+          "CHANTIN",
+          "ENPAR PWIN",
+          "DUPUI"
+        ],
+        "polling_station": "MILLET PRIMARY SCHOOL"
+      },
+      {
+        "division": "G2(b)",
+        "communities": [
+          "VANARD",
+          "DURANDEAU"
+        ],
+        "polling_station": "CHRISTIAN FAITH ASSEMBLY (VANARD)"
+      },
+      {
+        "division": "G2(c)",
+        "communities": [
+          "TETE CHEMIN ESTATE",
+          "VENUS ESTATE EAST"
+        ],
+        "polling_station": "TETE CHEMIN HUMAN      RESOURCE CENTRE"
+      },
+      {
+        "division": "G3",
+        "communities": [
+          "AU TABOR",
+          "ANSE LA RAYE VILLAGE",
+          "ANSE GALET",
+          "CHANTIN",
+          "SAUROT",
+          "THEODORINE",
+          "ANSE COCHON",
+          "MT. PLAISANT ESTATE",
+          "POINTE D’ORANGE",
+          "EN GER",
+          "MOLE STREET",
+          "PETIT BOUGH STREET",
+          "AUPOS ESTATE",
+          "MASSACRE"
+        ],
+        "polling_station": "ANSE LA RAYE PRIMARY SCHOOL"
+      },
+      {
+        "division": "G4",
+        "communities": [
+          "ANSE LA VERDURE",
+          "CANARIES VILLAGE",
+          "ESPERANCE",
+          "BELVEDERE",
+          "RAVINE DUVAL",
+          "JAMBETTE POINT",
+          "SIBIEUX",
+          "GRANDE BOIS FOREST",
+          "MT. PARASOL",
+          "MT. GIMIE",
+          "PARK ESTATE",
+          "FLORA VILLA"
+        ],
+        "polling_station": "CANARIES PRIMARY SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Soufriere (H)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "H1",
+        "communities": [
+          "Anse Mamin",
+          "Anse Chastenet",
+          "Colombette",
+          "Mt. Lastic",
+          "Fond Cannes",
+          "Mal Mason",
+          "La Perle",
+          "Cresslands",
+          "Poraille",
+          "Mt. Tabac",
+          "Zenon",
+          "Desbotte",
+          "New Development (Phase 2)",
+          "Fond Bernier",
+          "DESRUISSEAUX",
+          "PALMISTE",
+          "RUBY",
+          "LA HAUT",
+          "TORAILLE"
+        ],
+        "polling_station": "SOUFRIERE PRIMARY SCHOOL"
+      },
+      {
+        "division": "H2",
+        "communities": [
+          "Soufriere Town Extending (South of High Street)",
+          "Wingswille",
+          "Soufriere Estate",
+          "Emerald Estate",
+          "New Development (Phase 1)",
+          "Diamond including Saphire North",
+          "Extension Area",
+          "Morne Bel Aire",
+          "Boulevard Street",
+          "Victoria Street"
+        ],
+        "polling_station": "SOURFIERE INFANT SCHOOL"
+      },
+      {
+        "division": "H3",
+        "communities": [
+          "Soufriere Town South",
+          "Calvaine",
+          "Coubaril",
+          "Malgretoute",
+          "Plat",
+          "Stonefield",
+          "NORTH OF HIGH STREET",
+          "Coun-De-Lance",
+          "Blackstone Highway",
+          "Morne La Croix",
+          "Morne Belle",
+          "Baron’s Drive",
+          "Market Road"
+        ],
+        "polling_station": "ST. ISIDORE’S HALL, BOULEVARD  STREET, SOUFRIERE"
+      },
+      {
+        "division": "H4",
+        "communities": [
+          "Plat Pays",
+          "Rabot",
+          "Terre Blanche",
+          "Belfond",
+          "Sulphur Springs",
+          "Jalousie",
+          "Palm Beach",
+          "Plaisance",
+          "Fond Doux",
+          "Beausejour Estate",
+          "La Dauphine Estate",
+          "Hermitage",
+          "Fond Lloyd",
+          "Petit Piton",
+          "Sarphire South",
+          "Dasheen",
+          "Belle Plain WEST",
+          "Etangs",
+          "Chateau Belair",
+          "Union Vale",
+          "Anse Divorgne",
+          "Gros Piton",
+          "St. Remy",
+          "Myers Bridge",
+          "Fond Jn Libre",
+          "Deville Estate",
+          "Morne La Croix"
+        ],
+        "polling_station": "ETANGS COMBINED SCHOOL"
+      },
+      {
+        "division": "H5",
+        "communities": [
+          "Bouton",
+          "Cabanne",
+          "O’Horne",
+          "Mt. Barre Dessolierre",
+          "Mamin",
+          "Mal Mason",
+          "Chemin"
+        ],
+        "polling_station": "BOUTON COMBINED SCHOOL"
+      },
+      {
+        "division": "H6",
+        "communities": [
+          "Fond St. Jacques",
+          "Migny",
+          "Morne Bonin",
+          "Mocha",
+          "Mt. Cochon",
+          "Piton Conaire",
+          "Mt. Casteau",
+          "Marche Gaye",
+          "Piton St. Espr",
+          "Petit Bourg",
+          "Belvedere",
+          "Belle Etoille"
+        ],
+        "polling_station": "FOND ST JACQUES PRIMARY SCHOOL (A)"
+      },
+      {
+        "division": "H7",
+        "communities": [
+          "St. Phillip",
+          "Ravine Claire",
+          "Esperance",
+          "Bois D’Inde",
+          "Mt. Gimie",
+          "Mt. Penapise",
+          "Descolons",
+          "Fond St. Jacques",
+          "Minie Latany"
+        ],
+        "polling_station": "FOND ST JACQUES PRIMARY SCHOOL (B)"
+      }
+    ]
+  },
+  {
+    "constituency": "Choiseul (I)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "I1",
+        "communities": [
+          "La Pointe",
+          "Delcer",
+          "Industry",
+          "Franchou",
+          "Jacobie",
+          "Ravineau",
+          "Bois D’Inde",
+          "Esperance West",
+          "Deville Estate",
+          "Fiette West",
+          "Myers Bridge",
+          "Derriere Morne West",
+          "Anse L’Ivrogne"
+        ],
+        "polling_station": "DELCER COMBINED SCHOOL"
+      },
+      {
+        "division": "I2",
+        "communities": [
+          "Anse John",
+          "Fiette East",
+          "Portalese",
+          "Mongouge",
+          "Morne Sion",
+          "Libereaux",
+          "Martin (excluding la richie)",
+          "Ponyon",
+          "New Field",
+          "Victoria",
+          "Esperance East Derriere Morne East"
+        ],
+        "polling_station": "MONGOUGE INFANT SCHOOL"
+      },
+      {
+        "division": "I3",
+        "communities": [
+          "la Riche",
+          "Savanne George",
+          "Choiseul Village",
+          "Reunion",
+          "La Fargue"
+        ],
+        "polling_station": "CHOISEUL SECONDARY SCHOOL"
+      },
+      {
+        "division": "I4",
+        "communities": [
+          "Belle Vue",
+          "Morne Jacques",
+          "Des Randeaux",
+          "Dacretin",
+          "Manana",
+          "Victoria"
+        ],
+        "polling_station": "DACRETIN COMMUNITY CENTRE"
+      },
+      {
+        "division": "I5",
+        "communities": [
+          "Motete",
+          "Mondesir",
+          "Roblot",
+          "Dupre",
+          "La Maze",
+          "River Doree",
+          "Debreuil",
+          "Monzie",
+          "MIALLY"
+        ],
+        "polling_station": "ROBLOT COMBINED SCHOOL"
+      },
+      {
+        "division": "I6",
+        "communities": [
+          "Sauzay",
+          "Cafeiere",
+          "Capognotte",
+          "Dugard",
+          "Dacretin"
+        ],
+        "polling_station": "DUGARD COMBINED SCHOOL"
+      },
+      {
+        "division": "I7(a)",
+        "communities": [
+          "La Perle",
+          "Londonderry",
+          "Gertrine",
+          "Giraud",
+          "Beausoliel"
+        ],
+        "polling_station": "HANG OUT BAR, JETRINE"
+      },
+      {
+        "division": "I7(b)",
+        "communities": [
+          "La Perle",
+          "Londonderry",
+          "Gertrine",
+          "Giraud",
+          "Beausoliel"
+        ],
+        "polling_station": "ALICIA THOMAS BUILDING- (NEXT TO HANG OUT BAR)"
+      },
+      {
+        "division": "I8",
+        "communities": [
+          "Mont Lezard",
+          "Parc Estate",
+          "Saltibus",
+          "Daban",
+          "Gaya Bois",
+          "Warwick",
+          "Grand Magazin",
+          "Belvedere East"
+        ],
+        "polling_station": "SALTIBUS COMBINED SCHOOL"
+      },
+      {
+        "division": "I9",
+        "communities": [
+          "Piaye",
+          "Balembouche",
+          "La Perle South West",
+          "Balca",
+          "Bongale"
+        ],
+        "polling_station": "PIAYE COMBINED SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Laborie (J)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "J1",
+        "communities": [
+          "Black Bay West",
+          "Pomme",
+          "Augier North",
+          "Catin Neagenier",
+          "Morne Vert",
+          "Dierre Bois",
+          "Aubrier Road North",
+          "MOUNT VERT"
+        ],
+        "polling_station": "AUGIER COMBINED SCHOOL"
+      },
+      {
+        "division": "J2",
+        "communities": [
+          "Black Bay West",
+          "La Riviere",
+          "Petit Bois",
+          "La Croix",
+          "Church Hill",
+          "Roosevelt Road",
+          "St. Isidore Hill East",
+          "La Mar",
+          "Citrus Grove",
+          "Cedars By Pass East",
+          "Back Lane",
+          "Labatric",
+          "Flamboyant Avenue",
+          "Kennedy Highway",
+          "Calvary Hill",
+          "Laborie Village South East",
+          "Fr. Brouchard Street",
+          "Mon Repos Hill"
+        ],
+        "polling_station": "LABORIE BOYS PRIMARY SCHOOL"
+      },
+      {
+        "division": "J3",
+        "communities": [
+          "Laborie Village North West",
+          "Mt. le Blanc North",
+          "Mt. Gomier South",
+          "Sapphire H’Erelle West",
+          "Eucalyptus Avenue",
+          "Testanier Highway",
+          "SAPPIRE ESTATE",
+          "LABORIE VILLAGE NORTH WEST"
+        ],
+        "polling_station": "LABORIE GIRLS PRIMARY SCHOOL"
+      },
+      {
+        "division": "J4",
+        "communities": [
+          "Plateau",
+          "Mt. Le Blanc South",
+          "Morne Cabrit North",
+          "Annus",
+          "La Grace",
+          "Fond Berange",
+          "Solitude",
+          "La Haut",
+          "Olibo",
+          "Magurite",
+          "Morne Paul",
+          "Gomier"
+        ],
+        "polling_station": "LA GRACE COMBINED SCHOOL"
+      },
+      {
+        "division": "J5",
+        "communities": [
+          "Gentil",
+          "Banse",
+          "Veronneau",
+          "Mc Diarmed",
+          "Mac Domel",
+          "H’Erelle East",
+          "Gobb",
+          "MAC DOMEL"
+        ],
+        "polling_station": "TEASER’S DANCE HALL (BANSE)"
+      }
+    ]
+  },
+  {
+    "constituency": "Vieux-Fort South (K)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "K1",
+        "communities": [
+          "Vieux Fort Town East Side",
+          "Moule-A-Chique",
+          "New Dock Lane",
+          "Westhall Group",
+          "St. Paul’s Lane",
+          "Morne Beausejour",
+          "Beane Field",
+          "Clarke Street East"
+        ],
+        "polling_station": "VIEUX FORT PRIMARY SCHOOL"
+      },
+      {
+        "division": "K2",
+        "communities": [
+          "Vieux Fort Town West",
+          "Henry Avenue",
+          "Christopher Row",
+          "Warrican Row",
+          "Market Area",
+          "Jesse Street",
+          "Calvary Row",
+          "Belvedere Hill",
+          "Clarke Street West",
+          "Hospital Hill",
+          "Vieux Fort/ Laborie Highway",
+          "Smith Henry Avenue",
+          "Bacadere West",
+          "Malgretoute",
+          "Martin Luther King Street",
+          "Commercial Street",
+          "AUGIER (SOUTH)",
+          "BLACK BAY"
+        ],
+        "polling_station": "VIEUX FORT INFANT SCHOOL"
+      },
+      {
+        "division": "K3",
+        "communities": [
+          "La Ressource",
+          "La Tourney",
+          "Dierriere Morne",
+          "Beane Field",
+          "St. Judes’ Highway",
+          "CANTONEMENT"
+        ],
+        "polling_station": "PLAIN VIEW COMBINED SCHOOL"
+      },
+      {
+        "division": "K4",
+        "communities": [
+          "Black Bay",
+          "Augier South",
+          "Vieux Fort/Laborie Highway",
+          "Coco Dan Estate",
+          "Georgie Point",
+          "Cantonement",
+          "Industrial Estate",
+          "St. Jude Highway West"
+        ],
+        "polling_station": "VIEUX FORT SECONDARY SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Vieux-Fort North (L)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "L1",
+        "communities": [
+          "VigIeR",
+          "Cacao",
+          "Rouarne",
+          "Cannelles South"
+        ],
+        "polling_station": "VIGIER COMBINED SCHOOL"
+      },
+      {
+        "division": "L2",
+        "communities": [
+          "St. Urbain",
+          "Morne Cayenne",
+          "Pierrot",
+          "Morne Rouge",
+          "Morne Caillandre",
+          "Mt. Victorin",
+          "Fond Sabot",
+          "Bamboo",
+          "Wannay",
+          "Eau Piquant",
+          "Savannes Bay",
+          "Savanne"
+        ],
+        "polling_station": "PIERROT COMBINED SCHOOL"
+      },
+      {
+        "division": "L3",
+        "communities": [
+          "De Mailly",
+          "Belle Vue",
+          "Fond Blanchard",
+          "Esperance",
+          "Viancelle",
+          "Morne Noel"
+        ],
+        "polling_station": "BELLE VUE COMBINED SCHOOL"
+      },
+      {
+        "division": "L4",
+        "communities": [
+          "Plut",
+          "Grace",
+          "Woodlands",
+          "Joyeux",
+          "Carriere",
+          "La Retraite",
+          "Coolietown",
+          "Hope Estate",
+          "Pomme"
+        ],
+        "polling_station": "GRACE COMBINED SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Micoud South (M)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "M1",
+        "communities": [
+          "Dugard",
+          "Planard",
+          "L’Eau MINEUR",
+          "Troumasse",
+          "Fond D’Or",
+          "Cazuka"
+        ],
+        "polling_station": "DUGARD HUMAN RESOURCE CENTRE"
+      },
+      {
+        "division": "M2 (a)",
+        "communities": [
+          "BEAUCHAMP",
+          "TI ROCHER",
+          "MOREAU",
+          "TOU COCHAN",
+          "GOMIER",
+          "CALYPSO",
+          "CHOUCOMEL",
+          "DES BLANCHARD",
+          "BEASEJOUR"
+        ],
+        "polling_station": "TI ROCHER MULTI PURPOSE CENTRE"
+      },
+      {
+        "division": "M2 (b)",
+        "communities": [
+          "LA-COUR-VILLE. DES BLANCHARD",
+          "SAUT",
+          "PAIX BOUCHE"
+        ],
+        "polling_station": "LA COURVILLE PRE-SCHOOL"
+      },
+      {
+        "division": "M3 (a)",
+        "communities": [
+          "ST HELEN ESTATE",
+          "CANELLES",
+          "Anse Ger"
+        ],
+        "polling_station": "ANSE GER SECONDARY SCHOOL"
+      },
+      {
+        "division": "M3 (b)",
+        "communities": [
+          "DESRUISSEAUX",
+          "CAMP BRIGAUD",
+          "DELOMEL",
+          "LONDON ROAD",
+          "FOND",
+          "EN MANGO"
+        ],
+        "polling_station": "DESRUISSEAUX COMBINED SCHOOL"
+      },
+      {
+        "division": "M3 (c)",
+        "communities": [
+          "BLANCHARD",
+          "GOUETTE",
+          "MORNE VIENT",
+          "CHIQUE",
+          "GOMIER",
+          "LEZY"
+        ],
+        "polling_station": "BLANCHARD COMBINED SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Micoud North (N)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "N1",
+        "communities": [
+          "Praslin Village"
+        ],
+        "polling_station": "PRASLIN COMMUNITY CENTRE"
+      },
+      {
+        "division": "N2",
+        "communities": [
+          "Mamiku",
+          "Mon Repos",
+          "Lombard",
+          "Mt. Eole"
+        ],
+        "polling_station": "DECOMMISSIONED MON REPOS R.C. COMBINED SCHOOL (FORMERLY MON REPOS COMBINED SCHOOL"
+      },
+      {
+        "division": "N3",
+        "communities": [
+          "Patience",
+          "La Pointe",
+          "Malgretoute",
+          "Fond Devaux",
+          "Madoir",
+          "Fond Estate",
+          "St. Marc"
+        ],
+        "polling_station": "PATIENCE COMBINED SCHOOL"
+      },
+      {
+        "division": "N4",
+        "communities": [
+          "Micoud Village North",
+          "Mahaut",
+          "La Teille",
+          "Jn. Baptiste Hill",
+          "New Village",
+          "Up The Line",
+          "Over The Bridge",
+          "All Souls Lane",
+          "Riverside Drive"
+        ],
+        "polling_station": "MICOUD PRIMARY SCHOOL"
+      },
+      {
+        "division": "N5",
+        "communities": [
+          "Micoud Village South",
+          "New Extension",
+          "New Row",
+          "Pater Noster Row",
+          "Rotten Row",
+          "Philadelphia Row",
+          "Over the Bridge",
+          "All Souls Lane",
+          "French Row",
+          "Back Street",
+          "Lady Mico Street",
+          "Dix Street",
+          "Downing Street",
+          "Myers Gardens",
+          "Ave Maria Street"
+        ],
+        "polling_station": "MICOUD SECONDARY SCHOOL"
+      }
+    ]
+  },
+  {
+    "constituency": "Dennery South (O)",
+    "polling_divisions": [
+      {
+        "division": "POLLING DIVISION",
+        "communities": [
+          "COMMUNITIES"
+        ],
+        "polling_station": "POLLING STATIONS"
+      },
+      {
+        "division": "O1",
+        "communities": [
+          "Bousequet D’Or",
+          "Delaide",
+          "La Caye",
+          "Clavier",
+          "Bois Joli",
+          "Bazile",
+          "Morne Vent",
+          "Pays Perdu",
+          "Mt. Beaujolas",
+          "Deaux Branches",
+          "Lumiere"
+        ],
+        "polling_station": "ECO TOURISM BUILDING OLD (LA CAYE POLICE STATION)"
+      },
+      {
+        "division": "O2",
+        "communities": [
+          "Dennery Village North",
+          "New Field",
+          "Upper Hill Row",
+          "Over the Bridge",
+          "Hospital Road",
+          "Cork Street",
+          "High Street (Northern Part)",
+          "Church Street",
+          "By Pass North",
+          "Praslin Lane",
+          "La Pointe"
+        ],
+        "polling_station": "Dennery INFANT & pRIMARY School"
+      },
+      {
+        "division": "O3",
+        "communities": [
+          "Dennery Village (SOUTHERN SIDE) – Victoria Street",
+          "St. Peter’s Lane",
+          "High Street (Southern Part)",
+          "By Pass South",
+          "Bay Street",
+          "Mole Road",
+          "Grass Street",
+          "Anse Canot",
+          "St. Joseph",
+          "Errand Deaux Branches",
+          "Green Mountain"
+        ],
+        "polling_station": "CLENDON MASON MEMORIAL Dennery Secondary School"
+      }
+    ]
+  },
+  {
+    "constituency": "Dennery North (P)",
+    "polling_divisions": [
+      {
+        "division": "pOLLING DIVISION",
+        "communities": [
+          "Communities"
+        ],
+        "polling_station": "Polling Stations"
+      },
+      {
+        "division": "P1",
+        "communities": [
+          "Grande Riviere",
+          "Morne Panache",
+          "Thomazo",
+          "Du Bonair",
+          "Tournesse",
+          "Mt. La Combe"
+        ],
+        "polling_station": "Grand Riviere SECONDARY SCHOOL"
+      },
+      {
+        "division": "P2",
+        "communities": [
+          "Richfond",
+          "Grande Ravine",
+          "Compare",
+          "La Belle Vie"
+        ],
+        "polling_station": "Richfond COMBINED School"
+      },
+      {
+        "division": "P3",
+        "communities": [
+          "Derniere Riviere",
+          "De Barra",
+          "Fond Petit",
+          "Belmont",
+          "MORNE PANCHE",
+          "MARDI Gras"
+        ],
+        "polling_station": "DERNIERE RIVIERE Combined School"
+      },
+      {
+        "division": "P4",
+        "communities": [
+          "La Pelle",
+          "Duncan",
+          "La Ressource",
+          "Gadette",
+          "Dennery Knob",
+          "Anse Povert"
+        ],
+        "polling_station": "La RESSOURCE R. C. COMBINED School"
+      },
+      {
+        "division": "P5",
+        "communities": [
+          "Despinoze",
+          "Au Leon",
+          "Trou Halhal",
+          "Tou Cadet"
+        ],
+        "polling_station": "Aux Lyon Combined School"
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "Constituency": "Gros Islet",
+    "SLP": 489,
+    "UWP": 1558,
+    "PLP": 920,
+    "Total": 2967
+  },
+  {
+    "Constituency": "Babonneau",
+    "SLP": 163,
+    "UWP": 1880,
+    "PLP": 810,
+    "Total": 2853
+  },
+  {
+    "Constituency": "Castries North",
+    "SLP": 254,
+    "UWP": 1880,
+    "PLP": 767,
+    "Total": 2901
+  },
+  {
+    "Constituency": "Castries East",
+    "SLP": 926,
+    "UWP": 1335,
+    "PLP": 992,
+    "Total": 3253
+  },
+  {
+    "Constituency": "Castries Central",
+    "SLP": 182,
+    "UWP": 1612,
+    "PLP": 574,
+    "Total": 2368
+  },
+  {
+    "Constituency": "Castries South",
+    "SLP": 344,
+    "UWP": 1700,
+    "PLP": 859,
+    "Total": 2903
+  },
+  {
+    "Constituency": "Castries South East",
+    "SLP": 479,
+    "UWP": 2526,
+    "PLP": 137,
+    "Total": 3142
+  },
+  {
+    "Constituency": "Anse La Raye/Canaries",
+    "SLP": 347,
+    "UWP": 1600,
+    "PLP": 742,
+    "Total": 2689
+  },
+  {
+    "Constituency": "Soufriere",
+    "SLP": 637,
+    "UWP": 1701,
+    "PLP": 611,
+    "Total": 2949
+  },
+  {
+    "Constituency": "Choiseul",
+    "SLP": 574,
+    "UWP": 1582,
+    "PLP": 571,
+    "Total": 2727
+  },
+  {
+    "Constituency": "Vieux Fort South",
+    "SLP": 2410,
+    "UWP": 1454,
+    "PLP": 657,
+    "Total": 4521
+  },
+  {
+    "Constituency": "Vieux Fort North",
+    "SLP": 1952,
+    "UWP": 924,
+    "PLP": 544,
+    "Total": 3420
+  },
+  {
+    "Constituency": "Laborie",
+    "SLP": 764,
+    "UWP": 1167,
+    "PLP": 660,
+    "Total": 2591
+  },
+  {
+    "Constituency": "Micoud North",
+    "SLP": 282,
+    "UWP": 1580,
+    "PLP": 592,
+    "Total": 2454
+  },
+  {
+    "Constituency": "Micoud South",
+    "SLP": 295,
+    "UWP": 1748,
+    "PLP": 390,
+    "Total": 2433
+  },
+  {
+    "Constituency": "Dennery North",
+    "SLP": 356,
+    "UWP": 1400,
+    "PLP": 714,
+    "Total": 2470
+  },
+  {
+    "Constituency": "Dennery South",
+    "SLP": 330,
+    "UWP": 1885,
+    "PLP": 596,
+    "Total": 2811
+  },
+  {
+    "Constituency": "TOTAL",
+    "SLP": 8122,
+    "UWP": 27252,
+    "PLP": 13133,
+    "Total": 48507
+  }
+]

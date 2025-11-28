@@ -1,0 +1,182 @@
+[
+  {
+    "Constituency": "Gros Islet",
+    "Registered Votes": 9137,
+    "SLP": 3989,
+    "UWP": 1999,
+    "IND": 608,
+    "Rejected": 150,
+    "Votes Cast": 6746,
+    "Turnout": "73.83%"
+  },
+  {
+    "Constituency": "Babonneau",
+    "Registered Votes": 7717,
+    "SLP": 1227,
+    "UWP": 2864,
+    "IND": 93,
+    "Rejected": 68,
+    "Votes Cast": 4252,
+    "Turnout": "55.11%"
+  },
+  {
+    "Constituency": "Castries North",
+    "Registered Votes": 10018,
+    "SLP": 1861,
+    "UWP": 3827,
+    "IND": 56,
+    "Rejected": 162,
+    "Votes Cast": 5906,
+    "Turnout": "58.95%"
+  },
+  {
+    "Constituency": "Castries East",
+    "Registered Votes": 10740,
+    "SLP": 3685,
+    "UWP": 3049,
+    "IND": 46,
+    "Rejected": 233,
+    "Votes Cast": 7013,
+    "Turnout": "65.28%"
+  },
+  {
+    "Constituency": "Castries Central",
+    "Registered Votes": 3897,
+    "SLP": 689,
+    "UWP": 2017,
+    "IND": 10,
+    "Rejected": 64,
+    "Votes Cast": 2780,
+    "Turnout": "71.38%"
+  },
+  {
+    "Constituency": "Castries South",
+    "Registered Votes": 6244,
+    "SLP": 2444,
+    "UWP": 2016,
+    "IND": 30,
+    "Rejected": 92,
+    "Votes Cast": 4582,
+    "Turnout": "73.40%"
+  },
+  {
+    "Constituency": "Castries South East",
+    "Registered Votes": 6262,
+    "SLP": 182,
+    "UWP": 2160,
+    "IND": 1466,
+    "Rejected": 99,
+    "Votes Cast": 3907,
+    "Turnout": "62.40%"
+  },
+  {
+    "Constituency": "Anse La Raye/Canaries",
+    "Registered Votes": 5833,
+    "SLP": 2298,
+    "UWP": 2164,
+    "IND": 133,
+    "Rejected": 91,
+    "Votes Cast": 4686,
+    "Turnout": "80.32%"
+  },
+  {
+    "Constituency": "Soufriere",
+    "Registered Votes": 5408,
+    "SLP": 2131,
+    "UWP": 1735,
+    "IND": 87,
+    "Rejected": 69,
+    "Votes Cast": 4022,
+    "Turnout": "74.37%"
+  },
+  {
+    "Constituency": "Choiseul",
+    "Registered Votes": 4362,
+    "SLP": 2116,
+    "UWP": 1237,
+    "IND": 70,
+    "Rejected": 31,
+    "Votes Cast": 3454,
+    "Turnout": "79.21%"
+  },
+  {
+    "Constituency": "Vieux Fort South",
+    "Registered Votes": 7887,
+    "SLP": 4047,
+    "UWP": 1468,
+    "IND": 27,
+    "Rejected": 117,
+    "Votes Cast": 5659,
+    "Turnout": "71.79%"
+  },
+  {
+    "Constituency": "Vieux Fort North",
+    "Registered Votes": 5591,
+    "SLP": 2729,
+    "UWP": 1205,
+    "IND": 53,
+    "Rejected": 48,
+    "Votes Cast": 4035,
+    "Turnout": "72.16%"
+  },
+  {
+    "Constituency": "Laborie",
+    "Registered Votes": 5208,
+    "SLP": 2661,
+    "UWP": 1269,
+    "IND": 30,
+    "Rejected": 79,
+    "Votes Cast": 4039,
+    "Turnout": "77.60%"
+  },
+  {
+    "Constituency": "Micoud North",
+    "Registered Votes": 6914,
+    "SLP": 1622,
+    "UWP": 2818,
+    "IND": 20,
+    "Rejected": 82,
+    "Votes Cast": 4542,
+    "Turnout": "65.68%"
+  },
+  {
+    "Constituency": "Micoud South",
+    "Registered Votes": 7067,
+    "SLP": 1025,
+    "UWP": 3148,
+    "IND": 28,
+    "Rejected": 73,
+    "Votes Cast": 4274,
+    "Turnout": "60.48%"
+  },
+  {
+    "Constituency": "Dennery North",
+    "Registered Votes": 7216,
+    "SLP": 2526,
+    "UWP": 2017,
+    "IND": 44,
+    "Rejected": 68,
+    "Votes Cast": 4655,
+    "Turnout": "64.49%"
+  },
+  {
+    "Constituency": "Dennery South",
+    "Registered Votes": 5976,
+    "SLP": 2800,
+    "UWP": 1377,
+    "IND": 29,
+    "Rejected": 57,
+    "Votes Cast": 4263,
+    "Turnout": "71.34%"
+  },
+  {
+    "Constituency": "TOTAL",
+    "Registered Votes": 110563,
+    "SLP": 44203,
+    "UWP": 26325,
+    "IND": 1494,
+    "Rejected": 1563,
+    "Votes Cast": 73585,
+    "Turnout": "66.55%"
+  }
+]

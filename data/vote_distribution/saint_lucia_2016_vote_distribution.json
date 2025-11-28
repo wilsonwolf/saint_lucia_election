@@ -1,0 +1,42 @@
+[
+  {
+    "Constituency": "St. Lucia Labour Party",
+    "Code": "SLP",
+    "Total Votes": 37172,
+    "% Votes": "44.06%",
+    "Candidates": 17.0,
+    "Seats": 6.0
+  },
+  {
+    "Constituency": "United Workers Party",
+    "Code": "UWP",
+    "Total Votes": 46165,
+    "% Votes": "54.76%",
+    "Candidates": 17.0,
+    "Seats": 11.0
+  },
+  {
+    "Constituency": "Lucian Peoples Movement",
+    "Code": "LPM",
+    "Total Votes": 152,
+    "% Votes": "0.18%",
+    "Candidates": 3.0,
+    "Seats": 0.0
+  },
+  {
+    "Constituency": "Independent",
+    "Code": "IND",
+    "Total Votes": 813,
+    "% Votes": "0.96%",
+    "Candidates": 6.0,
+    "Seats": 0.0
+  },
+  {
+    "Constituency": "TOTAL VALID VOTES",
+    "Code": NaN,
+    "Total Votes": 84305,
+    "% Votes": "100%",
+    "Candidates": NaN,
+    "Seats": NaN
+  }
+]

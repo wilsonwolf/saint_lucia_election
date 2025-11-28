@@ -1,0 +1,33 @@
+[
+  {
+    "Party": "United Workers Party",
+    "Code": "UWP",
+    "Total Votes": 28046,
+    "% Votes": 53.18,
+    "Candidates": 17,
+    "Seats": 9
+  },
+  {
+    "Party": "Saint Lucia Labour Party",
+    "Code": "SLP",
+    "Total Votes": 21515,
+    "% Votes": 40.80,
+    "Candidates": 17,
+    "Seats": 8
+  },
+  {
+    "Party": "Progressive Labour Party",
+    "Code": "PLP",
+    "Total Votes": 3176,
+    "% Votes": 6.02,
+    "Candidates": 15,
+    "Seats": 0
+  },
+  {
+    "Party": "TOTAL VALID VOTES",
+    "Total Votes": 52737,
+    "% Votes": 100.0,
+    "Candidates": 49,
+    "Seats": 17
+  }
+]
