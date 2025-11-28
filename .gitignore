@@ -2,7 +2,7 @@
 .venv/
 venv/
 env/
-
+run.sh
 # Python
 __pycache__/
 *.py[cod]
