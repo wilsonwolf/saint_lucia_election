@@ -1689,5 +1689,123 @@
         "polling_station": "Aux Lyon Combined School"
       }
     ]
+  },
+  {
+    "constituency": "Castries South East (Q)",
+    "polling_divisions": [
+      {
+        "division": "Q1",
+        "communities": [
+          "Fort Charlotte",
+          "Morne Fortune east",
+          "Goodlands east",
+          "Incommode",
+          "Ferrand",
+          "Deglos",
+          "Dubrassay",
+          "Trois Piton West",
+          "Four Road Junctions",
+          "Chef Harry’s Drive"
+        ],
+        "polling_station": "Sir Arthur Lewis Community College"
+      },
+      {
+        "division": "Q2",
+        "communities": [
+          "Trois Piton East",
+          "Mt. Du Chazeau",
+          "Guesneau South",
+          "Forestiere",
+          "Piton Flore",
+          "Fond Cacao",
+          "Ti Rocher"
+        ],
+        "polling_station": "Ti Rocher Combined School"
+      },
+      {
+        "division": "Q3",
+        "communities": [
+          "Floissac",
+          "Crownlands",
+          "Marc",
+          "L’Abbayee East",
+          "Ravine Poisson East",
+          "Barre D’Isle North",
+          "Minnielle",
+          "Des Gras",
+          "Bexon East",
+          "Ravine Poisson",
+          "Barre D’Isle eastern"
+        ],
+        "polling_station": "Bexon Primary School"
+      },
+      {
+        "division": "Q4",
+        "communities": [
+          "Sarot south",
+          "L’Abbayee South",
+          "Dupui (southern side)",
+          "Chopin West",
+          "Damede",
+          "Traversay East",
+          "Barre D’Isle South",
+          "Ravine Poisson West",
+          "Barre D’Isle (west side)"
+        ],
+        "polling_station": "RAVINE POISSON SDA SCHOOL"
+      },
+      {
+        "division": "Q5",
+        "communities": [
+          "Wellson",
+          "Bexon West",
+          "Sarot North",
+          "Terrellee",
+          "Chopin East",
+          "Odsan East",
+          "Odsan west."
+        ],
+        "polling_station": "BEXON INFANT School"
+      },
+      {
+        "division": "Q6 (a)",
+        "communities": [
+          "La Croix Maingot South",
+          "Barre Du Chaussee South",
+          "Fond Manger",
+          "Perou",
+          "La Perle East",
+          "Mt. Terre Fallea",
+          "BEAUSEJOUR",
+          "BELAIR",
+          "Coolietown",
+          "Barre Denis"
+        ],
+        "polling_station": "BARRE DU CHAUSSEE PRE SCHOOL"
+      },
+      {
+        "division": "Q6 (b)",
+        "communities": [
+          "Belair"
+        ],
+        "polling_station": "BELAIR HUMAN RESOURCE DEVELOPMENT CENTRE"
+      },
+      {
+        "division": "Q7",
+        "communities": [
+          "Barre Du Chaussee North",
+          "La Croix Mainkgot East",
+          "Ti Colon East",
+          "Soucis",
+          "Tourat",
+          "Odsan West",
+          "Cul-De-Sac East",
+          "Industrial Estate",
+          "barre DENIS",
+          "CUL-De-Sac (west side)"
+        ],
+        "polling_station": "Odsan Combined School"
+      }
+    ]
   }
 ]
