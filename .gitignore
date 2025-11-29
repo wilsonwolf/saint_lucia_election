@@ -29,3 +29,14 @@ Thumbs.db
 *.log
 *.csv
 outputs/
+
+# AI assistants
+CLAUDE.md
+agents.md
+.serena/
+
+#Internal files
+/generate_constituency_table.py
+/constituency_table.md
+
+/analysis/
