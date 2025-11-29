@@ -80,10 +80,17 @@ def extract_results(url):
                 "Votes Cast", "Turnout", "Turnout %", "Turnout%",
                 "Rejected"
             ]):
+                # Find the first non-empty value after the label (value might be in column 2, 3, etc.)
+                summary_value = ""
+                for val in values[1:]:
+                    if val and val.strip() and val.strip() not in ["", "–", "\u2013"]:
+                        summary_value = val.strip()
+                        break
+                
                 all_data.append({
                     "district": current_district,
                     "summary_label": values[0],
-                    "summary_value": values[1] if len(values) > 1 else ""
+                    "summary_value": summary_value
                 })
 
     return all_data

@@ -38,8 +38,7 @@ constituency_links = [
     "https://www.sluelectoral.com/electoral/constituences/micoud-north-n-information/",
     "https://www.sluelectoral.com/electoral/constituences/dennery-south-o/",
     "https://www.sluelectoral.com/electoral/constituences/dennery-north-p-information/",
-    # Note: Castries South East (Q) URL returns 404 - may need to update if page becomes available
-    "https://www.sluelectoral.com/electoral/constituences/castries-south-east-q/"
+    "https://www.sluelectoral.com/electoral/constituences/castries-south-east-q-information/"
 ]
 
 def get_soup(url: str) -> BeautifulSoup:
