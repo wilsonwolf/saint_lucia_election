@@ -105,6 +105,7 @@ def scrape_with_fallback(
     primary_data = None
     secondary_data = None
     granular_data = None
+    granular_raw = None
     granular_aggregated = None
 
     # Try PRIMARY source
