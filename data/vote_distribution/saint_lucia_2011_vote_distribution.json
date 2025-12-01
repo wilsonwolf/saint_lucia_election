@@ -1,57 +1,57 @@
 [
   {
-    "Constituency": "St. Lucia Labour Party",
+    "Party": "Saint Lucia Labour Party",
     "Code": "SLP",
     "Total Votes": 42640,
-    "% Votes": "49,68%",
+    "% Votes": 4968.0,
     "Candidates": 17,
     "Seats": 11
   },
   {
-    "Constituency": "United Workers Party",
+    "Party": "United Workers Party",
     "Code": "UWP",
     "Total Votes": 38894,
-    "% Votes": "45.83%",
+    "% Votes": 45.83,
     "Candidates": 17,
     "Seats": 6
   },
   {
-    "Constituency": "National Development Movement",
+    "Party": "National Development Movement",
     "Code": "NDM",
     "Total Votes": 156,
-    "% Votes": "0.18%",
+    "% Votes": 0.18,
     "Candidates": 5,
     "Seats": 0
   },
   {
-    "Constituency": "Lucian Peoples Movement",
+    "Party": "Lucian Peoples Movement",
     "Code": "LPM",
     "Total Votes": 163,
-    "% Votes": "0.19%",
+    "% Votes": 0.19,
     "Candidates": 6,
     "Seats": 0
   },
   {
-    "Constituency": "Lucian Greens",
+    "Party": "Lucian Greens",
     "Code": "LG",
     "Total Votes": 17,
-    "% Votes": "0.02%",
+    "% Votes": 0.02,
     "Candidates": 3,
     "Seats": 0
   },
   {
-    "Constituency": "Independent",
+    "Party": "Independent",
     "Code": "IND",
     "Total Votes": 1343,
-    "% Votes": "1.56%",
+    "% Votes": 1.56,
     "Candidates": 4,
     "Seats": 0
   },
   {
-    "Constituency": "TOTAL VALID VOTES",
-    "Code": NaN,
+    "Party": "TOTAL VALID VOTES",
+    "Code": "",
     "Total Votes": 85821,
-    "% Votes": "100%",
+    "% Votes": 100.0,
     "Candidates": 52,
     "Seats": 17
   }

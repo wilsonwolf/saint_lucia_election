@@ -398,151 +398,137 @@ def wrap_text(text: str, max_width: int) -> str:
     return "\n".join(lines)
 
 
-def create_swing_chart(swing_data: Dict, all_swings: List, constituency_name: str, 
+def create_swing_chart(swing_data: Dict, all_swings: List, constituency_name: str,
                        year1: str, year2: str, winner_party: str, mapping: Dict):
     """
     Create a chart showing all polling divisions with swings towards and away from the winner.
-    
+
     The chart shows:
-    - Division codes with communities (wrapped to fit)
-    - Swing values: positive (towards winner) and negative (away from winner)
-    - Final vote percentages for each division
+    - Division codes with communities (truncated to fit)
+    - Swing values at the end of each bar
+    - Final vote percentages inside the bars
     """
     if not all_swings:
         print("\nNo polling division data found.")
         return
-    
+
     divisions = []
     swings = []
     colors = []
     communities_list = []
     vote_splits = []
-    
+
     # Determine color scheme
     winner_color = "#FF6B6B" if winner_party == "SLP" else "#4ECDC4"
     loser_color = "#4ECDC4" if winner_party == "SLP" else "#FF6B6B"
-    
+
     for div, data in all_swings:
         divisions.append(div)
         swing_value = data['swing_value']
         swings.append(swing_value)
-        
-        # Color: green for positive (towards winner), red for negative (away from winner)
+
+        # Color: for positive (towards winner), for negative (away from winner)
         if swing_value > 0:
             colors.append(winner_color)
         else:
             colors.append(loser_color)
-        
+
         communities = get_communities_for_division(constituency_name, div, mapping)
         if communities:
-            # Include more communities, but wrap them
-            comm_str = ", ".join(communities)
+            # Truncate to max 5 communities to avoid overcrowding
+            if len(communities) > 5:
+                comm_str = ", ".join(communities[:5]) + f" (+{len(communities)-5} more)"
+            else:
+                comm_str = ", ".join(communities)
             communities_list.append(comm_str)
         else:
             communities_list.append("")
-        
+
         vote_splits.append(f"SLP: {data['year2_slp_pct']:.1f}% | UWP: {data['year2_uwp_pct']:.1f}%")
-    
-    # Calculate figure size - match original sizing approach exactly
-    fig, ax = plt.subplots(figsize=(14, max(8, len(divisions) * 0.9)))
-    
+
+    # Calculate figure size - more height per bar for readability
+    fig, ax = plt.subplots(figsize=(14, max(8, len(divisions) * 1.1)))
+
     y_pos = range(len(divisions))
     bars = ax.barh(y_pos, swings, color=colors, alpha=0.7, edgecolor='black', linewidth=1.5)
-    
+
     # Add a vertical line at 0
     ax.axvline(x=0, color='black', linestyle='-', linewidth=1, alpha=0.5)
-    
+
     # Calculate x-axis range
     max_abs_swing = max(abs(s) for s in swings) if swings else 1
-    if len(swings) > 1:
-        x_range = max(swings) - min(swings)
-        x_min = min(swings) - x_range * 0.15
-        x_max = max(swings) + x_range * 0.35  # Extra padding on right for swing label
-    else:
-        x_min = -max_abs_swing * 0.2
-        x_max = max_abs_swing * 1.4
-    
-    # Position swing labels at the absolute right edge (outside the chart area)
-    # Position vote percentages to avoid overlap
+    min_swing = min(swings) if swings else 0
+    max_swing = max(swings) if swings else 0
+
+    # Add padding for labels
+    x_min = min_swing - max_abs_swing * 0.1 if min_swing < 0 else -max_abs_swing * 0.05
+    x_max = max_swing + max_abs_swing * 0.25  # Space for swing label
+
+    # Add labels for each bar
     for i, (bar, swing, split) in enumerate(zip(bars, swings, vote_splits)):
         bar_width = abs(swing)
-        
-        # Swing magnitude label - ALWAYS at the absolute right edge of chart
-        swing_label_x = x_max * 0.98  # Very close to right edge
-        if swing > 0:
-            swing_label_text = f'+{swing:.1f}%'
+
+        # Swing magnitude label - position just after the end of the bar
+        if swing >= 0:
+            swing_label_x = swing + max_abs_swing * 0.02
+            swing_ha = 'left'
         else:
-            swing_label_text = f'{swing:.1f}%'
-        
-        # Vote percentages - position to avoid overlap with swing label on right
-        # Position them well before the right edge where swing labels will be
-        if swing > 0:
-            # Positive swing: position percentage at fixed position (like original)
-            # Use a position that's well before the right edge
-            pct_x = max_abs_swing * 0.5  # Fixed at 50% of max swing, before right edge
-            if pct_x > swing:
-                pct_x = swing * 0.5  # If fixed position is beyond bar, use bar center
-            pct_ha = 'center'
-            pct_color = 'white' if bar_width > max_abs_swing * 0.3 else 'black'
-            pct_weight = 'bold' if pct_color == 'white' else 'normal'
-        else:
-            # Negative swing: position on left side (negative values)
-            pct_x = swing * 0.5  # Middle of negative bar
-            pct_ha = 'center'
-            pct_color = 'white'
-            pct_weight = 'bold'
-        
-        # Add swing magnitude label (always on the far right, outside chart area)
+            swing_label_x = swing - max_abs_swing * 0.02
+            swing_ha = 'right'
+
+        swing_label_text = f'{swing:+.1f}%'
+
         ax.text(swing_label_x, i, swing_label_text,
-                va='center', fontweight='bold', fontsize=11,
-                ha='left', clip_on=False)  # clip_on=False allows text outside axes
-        
-        # Add vote percentage label (positioned to avoid overlap)
-        ax.text(pct_x, i, split,
-                va='center', fontsize=9, style='italic',
-                ha=pct_ha, color=pct_color,
-                weight=pct_weight)
-    
-    # Y-axis labels with communities - simpler format, wrap only if needed
+                va='center', fontweight='bold', fontsize=10,
+                ha=swing_ha)
+
+        # Vote percentage label - position inside the bar if wide enough, else skip
+        if bar_width > max_abs_swing * 0.25:
+            if swing >= 0:
+                pct_x = swing * 0.5  # Middle of positive bar
+            else:
+                pct_x = swing * 0.5  # Middle of negative bar
+
+            ax.text(pct_x, i, split,
+                    va='center', fontsize=8, style='italic',
+                    ha='center', color='white', weight='bold')
+
+    # Y-axis labels with communities - truncate long labels
     y_labels = []
-    max_label_width = 60  # Characters before wrapping
-    
+    max_label_chars = 50  # Max characters for y-label
+
     for div, comm in zip(divisions, communities_list):
         if comm:
-            # Try single line first, wrap only if too long
-            single_line = f"{div} - {comm}"
-            if len(single_line) > max_label_width:
-                # Wrap only if necessary
-                wrapped_comm = wrap_text(comm, max_label_width - len(div) - 3)
-                label = f"{div}\n{wrapped_comm}" if wrapped_comm else div
-            else:
-                label = single_line
+            label = f"{div}\n{comm}"
+            # Truncate community string if too long
+            if len(comm) > max_label_chars:
+                # Find a good break point
+                truncated = comm[:max_label_chars-3].rsplit(", ", 1)[0] + "..."
+                label = f"{div}\n{truncated}"
         else:
             label = div
         y_labels.append(label)
-    
+
     ax.set_yticks(y_pos)
-    ax.set_yticklabels(y_labels, fontsize=10, ha='right')
-    
-    # Adjust left margin to accommodate wrapped labels
-    ax.set_xlabel('Swing (Positive = Towards Winner, Negative = Away from Winner) (%)', 
+    ax.set_yticklabels(y_labels, fontsize=9, ha='right', linespacing=0.9)
+
+    ax.set_xlabel('Swing (Positive = Towards Winner, Negative = Away from Winner) (%)',
                   fontsize=12, fontweight='bold')
     ax.set_title(f'{constituency_name}: All Polling Divisions by Swing\n'
-                 f'({year1} → {year2}, Winner: {winner_party})', 
+                 f'({year1} → {year2}, Winner: {winner_party})',
                  fontsize=14, fontweight='bold', pad=20)
     ax.grid(axis='x', alpha=0.3, linestyle='--')
-    
-    # Set x-axis limits with padding
+
+    # Set x-axis limits
     ax.set_xlim(x_min, x_max)
-    
+
     # Legend
     ax.barh([], [], color=winner_color, label=f'Towards {winner_party}', alpha=0.7)
     ax.barh([], [], color=loser_color, label=f'Away from {winner_party}', alpha=0.7)
     ax.legend(loc='lower right', fontsize=10)
-    
-    # Adjust layout
+
     plt.tight_layout()
-    
+
     output_dir = Path("analysis")
     output_dir.mkdir(exist_ok=True)
     safe_const_name = constituency_name.replace(" ", "_").replace("/", "_")

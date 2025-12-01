@@ -4,197 +4,197 @@
     "Registered Votes": 20593,
     "SLP": 4552,
     "UWP": 6334,
-    "LPM": "152",
-    "IND": "\u2013",
+    "LPM": 152,
+    "IND": null,
     "Rejected": 168,
     "Votes Cast": 11216,
-    "Turnout": "54.47%"
+    "Turnout": 54.47
   },
   {
     "Constituency": "Babonneau",
     "Registered Votes": 11264,
     "SLP": 2483,
     "UWP": 3788,
-    "LPM": "\u2013",
-    "IND": "\u2013",
+    "LPM": null,
+    "IND": null,
     "Rejected": 265,
     "Votes Cast": 6563,
-    "Turnout": "58.12%"
+    "Turnout": 58.12
   },
   {
     "Constituency": "Castries North",
     "Registered Votes": 11681,
     "SLP": 1482,
     "UWP": 3774,
-    "LPM": "\u2013",
-    "IND": "\u2013",
+    "LPM": null,
+    "IND": null,
     "Rejected": 70,
     "Votes Cast": 5326,
-    "Turnout": "45.60%"
+    "Turnout": 45.6
   },
   {
     "Constituency": "Castries East",
     "Registered Votes": 12298,
     "SLP": 2901,
     "UWP": 2565,
-    "LPM": "\u2013",
-    "IND": "\u2013",
+    "LPM": null,
+    "IND": null,
     "Rejected": 100,
     "Votes Cast": 5566,
-    "Turnout": "45.26%"
+    "Turnout": 45.26
   },
   {
     "Constituency": "Castries Central",
     "Registered Votes": 9359,
     "SLP": 1870,
     "UWP": 2249,
-    "LPM": "\u2013",
-    "IND": "12",
+    "LPM": null,
+    "IND": 12,
     "Rejected": 40,
     "Votes Cast": 4171,
-    "Turnout": "44.57%"
+    "Turnout": 44.57
   },
   {
     "Constituency": "Castries South",
     "Registered Votes": 8858,
     "SLP": 2215,
     "UWP": 2172,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 80,
     "Votes Cast": 4467,
-    "Turnout": "50.43%"
+    "Turnout": 50.43
   },
   {
     "Constituency": "Anse La Raye & Canaries",
     "Registered Votes": 8036,
     "SLP": 2087,
     "UWP": 2472,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 310,
     "Votes Cast": 4869,
-    "Turnout": "60.59%"
+    "Turnout": 60.59
   },
   {
     "Constituency": "Soufriere",
     "Registered Votes": 7854,
     "SLP": 2104,
     "UWP": 2564,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 113,
     "Votes Cast": 4784,
-    "Turnout": "60.91%"
+    "Turnout": 60.91
   },
   {
     "Constituency": "Choiseul",
     "Registered Votes": 8864,
     "SLP": 2148,
     "UWP": 2973,
-    "LPM": "\u2013",
-    "IND": "3",
+    "LPM": null,
+    "IND": 3,
     "Rejected": 189,
     "Votes Cast": 5304,
-    "Turnout": "59.84%"
+    "Turnout": 59.84
   },
   {
     "Constituency": "Laborie",
     "Registered Votes": 6504,
     "SLP": 2094,
     "UWP": 1468,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 42,
     "Votes Cast": 3604,
-    "Turnout": "55.41%"
+    "Turnout": 55.41
   },
   {
     "Constituency": "Vieux Fort South",
     "Registered Votes": 8693,
     "SLP": 2439,
     "UWP": 2199,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 106,
     "Votes Cast": 4744,
-    "Turnout": "54.57%"
+    "Turnout": 54.57
   },
   {
     "Constituency": "Vieux Fort North",
     "Registered Votes": 6574,
     "SLP": 1743,
     "UWP": 1275,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 53,
     "Votes Cast": 3071,
-    "Turnout": "46.71%"
+    "Turnout": 46.71
   },
   {
     "Constituency": "Micoud South",
     "Registered Votes": 6994,
     "SLP": 1446,
     "UWP": 2495,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 135,
     "Votes Cast": 4076,
-    "Turnout": "58.28%"
+    "Turnout": 58.28
   },
   {
     "Constituency": "Micoud North",
     "Registered Votes": 7430,
     "SLP": 885,
     "UWP": 1930,
-    "LPM": "\u2013",
-    "IND": "791",
+    "LPM": null,
+    "IND": 791,
     "Rejected": 127,
     "Votes Cast": 3733,
-    "Turnout": "50.24%"
+    "Turnout": 50.24
   },
   {
     "Constituency": "Dennery South",
     "Registered Votes": 5005,
     "SLP": 1283,
     "UWP": 1432,
-    "LPM": "\u2013",
-    "IND": "7",
+    "LPM": null,
+    "IND": 7,
     "Rejected": 215,
     "Votes Cast": 2937,
-    "Turnout": "58.68%"
+    "Turnout": 58.68
   },
   {
     "Constituency": "Dennery North",
     "Registered Votes": 8135,
     "SLP": 2271,
     "UWP": 2140,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 60,
     "Votes Cast": 4471,
-    "Turnout": "54.96%"
+    "Turnout": 54.96
   },
   {
     "Constituency": "Castries South East",
     "Registered Votes": 13759,
     "SLP": 3169,
     "UWP": 4325,
-    "LPM": "\u2013",
-    "IND": NaN,
+    "LPM": null,
+    "IND": null,
     "Rejected": 156,
     "Votes Cast": 7650,
-    "Turnout": "55.60%"
+    "Turnout": 55.6
   },
   {
     "Constituency": "TOTAL",
     "Registered Votes": 161883,
     "SLP": 37172,
     "UWP": 46165,
-    "LPM": "152",
-    "IND": "813",
+    "LPM": 152,
+    "IND": 813,
     "Rejected": 2223,
     "Votes Cast": 86525,
-    "Turnout": "53.45%"
+    "Turnout": 53.45
   }
 ]

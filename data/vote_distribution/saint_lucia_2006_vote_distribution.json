@@ -1,1 +1,34 @@
-[{"Party": "St. Lucia Labour Party", "Code": "SLP", "Total Votes": 36604, "% Votes": "48.32%", "Candidates": 17, "Seats": 6}, {"Party": "United Workers Party", "Code": "UWP", "Total Votes": 38894, "% Votes": "51.34%", "Candidates": 17, "Seats": 11}, {"Party": "Independent", "Code": "IND", "Total Votes": 358, "% Votes": "0.34%", "Candidates": 4, "Seats": 0}, {"Party": "TOTAL VALID VOTES", "Code": NaN, "Total Votes": 75756, "% Votes": "100%", "Candidates": 38, "Seats": 17}]
+[
+  {
+    "Party": "Saint Lucia Labour Party",
+    "Code": "SLP",
+    "Total Votes": 36604,
+    "% Votes": 48.32,
+    "Candidates": 17,
+    "Seats": 6
+  },
+  {
+    "Party": "United Workers Party",
+    "Code": "UWP",
+    "Total Votes": 38894,
+    "% Votes": 51.34,
+    "Candidates": 17,
+    "Seats": 11
+  },
+  {
+    "Party": "Independent",
+    "Code": "IND",
+    "Total Votes": 358,
+    "% Votes": 0.34,
+    "Candidates": 4,
+    "Seats": 0
+  },
+  {
+    "Party": "TOTAL VALID VOTES",
+    "Code": "",
+    "Total Votes": 75756,
+    "% Votes": 100.0,
+    "Candidates": 38,
+    "Seats": 17
+  }
+]

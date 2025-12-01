@@ -63,18 +63,17 @@ def load_election_data(data_dir: str = "data") -> Dict[str, Dict]:
                 data = json.load(f)
                 
             # Extract year
+            # Filename format: saint_lucia_{year}_summary_results.json
+            # or for 1987: saint_lucia_1987_apr6_summary_results.json
             parts = filename.replace("saint_lucia_", "").split("_")
-            if parts[0].startswith("apr"):
-                # Handle 1987 special cases - two separate elections
-                # Extract just the date part (apr30 or apr6) without "summary" or "vote"
-                date_part = parts[0]  # "apr30" or "apr6"
-                year = "1987"
-                # Use full date identifier to distinguish the two 1987 elections
-                # Normalize to just the date (apr30 or apr6)
+            year = parts[0]
+
+            # Handle 1987 special cases - two separate elections (apr6 and apr30)
+            if year == "1987" and len(parts) > 1 and parts[1].startswith("apr"):
+                date_part = parts[1]  # "apr6" or "apr30"
                 year_identifier = f"1987_{date_part}"
                 key = f"{year_identifier}_{key_type}"
             else:
-                year = parts[0]
                 year_identifier = year
                 key = f"{year}_{key_type}"
                 

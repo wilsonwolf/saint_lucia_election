@@ -1,0 +1,1747 @@
+{
+  "baseline_year": "2016",
+  "threshold_pct": 10.0,
+  "generated_at": "2025-12-01T13:15:40.120675",
+  "constituencies": {
+    "ANSE LA RAYE/CANARIES": {
+      "status": "contested",
+      "original_name": "AnseLa Raye/Canaries",
+      "winner": {
+        "party": "UWP",
+        "candidate": "Fedee",
+        "votes": 2472,
+        "pct": 54.22
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "Victorin",
+        "votes": 2087,
+        "pct": 45.78
+      },
+      "other_combined": {
+        "votes": 2087,
+        "pct": 45.78
+      },
+      "margin": {
+        "votes": 385,
+        "pct": 8.44
+      },
+      "total_votes": 4559,
+      "summary": {
+        "electors": 8036,
+        "votes_cast": 4559,
+        "turnout_pct": 56.73,
+        "rejected": 310
+      },
+      "breakeven_swing_pct": 4.22,
+      "meaningful_districts": [
+        "G1",
+        "G2(a)",
+        "G3",
+        "G4"
+      ],
+      "all_districts": {
+        "G1": {
+          "baseline_total_votes": 1208,
+          "pct_of_constituency": 26.5,
+          "is_meaningful": true,
+          "winner_party_votes": 805,
+          "winner_party_pct": 66.64,
+          "other_votes": 403,
+          "other_pct": 33.36,
+          "breakeven_absolute_swing": 50
+        },
+        "G2(a)": {
+          "baseline_total_votes": 629,
+          "pct_of_constituency": 13.8,
+          "is_meaningful": true,
+          "winner_party_votes": 358,
+          "winner_party_pct": 56.92,
+          "other_votes": 271,
+          "other_pct": 43.08,
+          "breakeven_absolute_swing": 26
+        },
+        "G2(b)": {
+          "baseline_total_votes": 450,
+          "pct_of_constituency": 9.87,
+          "is_meaningful": false,
+          "winner_party_votes": 289,
+          "winner_party_pct": 64.22,
+          "other_votes": 161,
+          "other_pct": 35.78,
+          "breakeven_absolute_swing": 18
+        },
+        "G3": {
+          "baseline_total_votes": 1314,
+          "pct_of_constituency": 28.82,
+          "is_meaningful": true,
+          "winner_party_votes": 673,
+          "winner_party_pct": 51.22,
+          "other_votes": 641,
+          "other_pct": 48.78,
+          "breakeven_absolute_swing": 55
+        },
+        "G4": {
+          "baseline_total_votes": 958,
+          "pct_of_constituency": 21.01,
+          "is_meaningful": true,
+          "winner_party_votes": 347,
+          "winner_party_pct": 36.22,
+          "other_votes": 611,
+          "other_pct": 63.78,
+          "breakeven_absolute_swing": 40
+        }
+      }
+    },
+    "BABONNEAU": {
+      "status": "contested",
+      "original_name": "Babonneau",
+      "winner": {
+        "party": "UWP",
+        "candidate": "JOSEPH",
+        "votes": 3790,
+        "pct": 60.42
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "REYNOLDS+",
+        "votes": 2483,
+        "pct": 39.58
+      },
+      "other_combined": {
+        "votes": 2483,
+        "pct": 39.58
+      },
+      "margin": {
+        "votes": 1307,
+        "pct": 20.84
+      },
+      "total_votes": 6273,
+      "summary": {
+        "electors": 11246,
+        "votes_cast": 6273,
+        "turnout_pct": 55.78,
+        "rejected": 265
+      },
+      "breakeven_swing_pct": 10.42,
+      "meaningful_districts": [
+        "B1(a)",
+        "B2(a)",
+        "B5(a)",
+        "B6(a)",
+        "B6(b)"
+      ],
+      "all_districts": {
+        "B1(a)": {
+          "baseline_total_votes": 782,
+          "pct_of_constituency": 12.47,
+          "is_meaningful": true,
+          "winner_party_votes": 537,
+          "winner_party_pct": 68.67,
+          "other_votes": 245,
+          "other_pct": 31.33,
+          "breakeven_absolute_swing": 81
+        },
+        "B1(b)": {
+          "baseline_total_votes": 325,
+          "pct_of_constituency": 5.18,
+          "is_meaningful": false,
+          "winner_party_votes": 214,
+          "winner_party_pct": 65.85,
+          "other_votes": 111,
+          "other_pct": 34.15,
+          "breakeven_absolute_swing": 33
+        },
+        "B2(a)": {
+          "baseline_total_votes": 759,
+          "pct_of_constituency": 12.1,
+          "is_meaningful": true,
+          "winner_party_votes": 583,
+          "winner_party_pct": 76.81,
+          "other_votes": 176,
+          "other_pct": 23.19,
+          "breakeven_absolute_swing": 79
+        },
+        "B2(b)": {
+          "baseline_total_votes": 449,
+          "pct_of_constituency": 7.16,
+          "is_meaningful": false,
+          "winner_party_votes": 329,
+          "winner_party_pct": 73.27,
+          "other_votes": 120,
+          "other_pct": 26.73,
+          "breakeven_absolute_swing": 46
+        },
+        "B3": {
+          "baseline_total_votes": 420,
+          "pct_of_constituency": 6.7,
+          "is_meaningful": false,
+          "winner_party_votes": 223,
+          "winner_party_pct": 53.1,
+          "other_votes": 197,
+          "other_pct": 46.9,
+          "breakeven_absolute_swing": 43
+        },
+        "B4": {
+          "baseline_total_votes": 143,
+          "pct_of_constituency": 2.28,
+          "is_meaningful": false,
+          "winner_party_votes": 77,
+          "winner_party_pct": 53.85,
+          "other_votes": 66,
+          "other_pct": 46.15,
+          "breakeven_absolute_swing": 14
+        },
+        "B5(a)": {
+          "baseline_total_votes": 1157,
+          "pct_of_constituency": 18.44,
+          "is_meaningful": true,
+          "winner_party_votes": 470,
+          "winner_party_pct": 40.62,
+          "other_votes": 687,
+          "other_pct": 59.38,
+          "breakeven_absolute_swing": 120
+        },
+        "B5(b)": {
+          "baseline_total_votes": 612,
+          "pct_of_constituency": 9.76,
+          "is_meaningful": false,
+          "winner_party_votes": 341,
+          "winner_party_pct": 55.72,
+          "other_votes": 271,
+          "other_pct": 44.28,
+          "breakeven_absolute_swing": 63
+        },
+        "B6(a)": {
+          "baseline_total_votes": 817,
+          "pct_of_constituency": 13.02,
+          "is_meaningful": true,
+          "winner_party_votes": 506,
+          "winner_party_pct": 61.93,
+          "other_votes": 311,
+          "other_pct": 38.07,
+          "breakeven_absolute_swing": 85
+        },
+        "B6(b)": {
+          "baseline_total_votes": 809,
+          "pct_of_constituency": 12.9,
+          "is_meaningful": true,
+          "winner_party_votes": 510,
+          "winner_party_pct": 63.04,
+          "other_votes": 299,
+          "other_pct": 36.96,
+          "breakeven_absolute_swing": 84
+        }
+      }
+    },
+    "CASTRIES CENTRAL": {
+      "status": "contested",
+      "original_name": "Castries Central",
+      "winner": {
+        "party": "UWP",
+        "candidate": "Beabrun",
+        "votes": 2249,
+        "pct": 54.35
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "FELIX",
+        "votes": 1876,
+        "pct": 45.34
+      },
+      "other_combined": {
+        "votes": 1889,
+        "pct": 45.65
+      },
+      "margin": {
+        "votes": 360,
+        "pct": 8.7
+      },
+      "total_votes": 4138,
+      "summary": {
+        "electors": 9359,
+        "votes_cast": 4138,
+        "turnout_pct": 44.21,
+        "rejected": 41
+      },
+      "breakeven_swing_pct": 4.35,
+      "meaningful_districts": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5(a)",
+        "E5(b)",
+        "E6"
+      ],
+      "all_districts": {
+        "E1": {
+          "baseline_total_votes": 443,
+          "pct_of_constituency": 10.71,
+          "is_meaningful": true,
+          "winner_party_votes": 296,
+          "winner_party_pct": 66.82,
+          "other_votes": 147,
+          "other_pct": 33.18,
+          "breakeven_absolute_swing": 19
+        },
+        "E2": {
+          "baseline_total_votes": 550,
+          "pct_of_constituency": 13.29,
+          "is_meaningful": true,
+          "winner_party_votes": 306,
+          "winner_party_pct": 55.64,
+          "other_votes": 244,
+          "other_pct": 44.36,
+          "breakeven_absolute_swing": 23
+        },
+        "E3": {
+          "baseline_total_votes": 523,
+          "pct_of_constituency": 12.64,
+          "is_meaningful": true,
+          "winner_party_votes": 292,
+          "winner_party_pct": 55.83,
+          "other_votes": 231,
+          "other_pct": 44.17,
+          "breakeven_absolute_swing": 22
+        },
+        "E4": {
+          "baseline_total_votes": 738,
+          "pct_of_constituency": 17.83,
+          "is_meaningful": true,
+          "winner_party_votes": 369,
+          "winner_party_pct": 50.0,
+          "other_votes": 369,
+          "other_pct": 50.0,
+          "breakeven_absolute_swing": 32
+        },
+        "E5(a)": {
+          "baseline_total_votes": 717,
+          "pct_of_constituency": 17.33,
+          "is_meaningful": true,
+          "winner_party_votes": 387,
+          "winner_party_pct": 53.97,
+          "other_votes": 330,
+          "other_pct": 46.03,
+          "breakeven_absolute_swing": 31
+        },
+        "E5(b)": {
+          "baseline_total_votes": 433,
+          "pct_of_constituency": 10.46,
+          "is_meaningful": true,
+          "winner_party_votes": 228,
+          "winner_party_pct": 52.66,
+          "other_votes": 205,
+          "other_pct": 47.34,
+          "breakeven_absolute_swing": 18
+        },
+        "E6": {
+          "baseline_total_votes": 734,
+          "pct_of_constituency": 17.74,
+          "is_meaningful": true,
+          "winner_party_votes": 371,
+          "winner_party_pct": 50.54,
+          "other_votes": 363,
+          "other_pct": 49.46,
+          "breakeven_absolute_swing": 31
+        }
+      }
+    },
+    "CASTRIES EAST": {
+      "status": "contested",
+      "original_name": "Castries East",
+      "winner": {
+        "party": "SLP",
+        "candidate": "PIERRE+",
+        "votes": 2903,
+        "pct": 52.98
+      },
+      "runner_up": {
+        "party": "UWP",
+        "candidate": "Belrose",
+        "votes": 2576,
+        "pct": 47.02
+      },
+      "other_combined": {
+        "votes": 2576,
+        "pct": 47.02
+      },
+      "margin": {
+        "votes": 327,
+        "pct": 5.97
+      },
+      "total_votes": 5479,
+      "summary": {
+        "electors": 12298,
+        "votes_cast": 5479,
+        "turnout_pct": 44.55,
+        "rejected": 82
+      },
+      "breakeven_swing_pct": 2.98,
+      "meaningful_districts": [
+        "D2",
+        "D4"
+      ],
+      "all_districts": {
+        "D1": {
+          "baseline_total_votes": 480,
+          "pct_of_constituency": 8.76,
+          "is_meaningful": false,
+          "winner_party_votes": 249,
+          "winner_party_pct": 51.88,
+          "other_votes": 231,
+          "other_pct": 48.12,
+          "breakeven_absolute_swing": 14
+        },
+        "D2": {
+          "baseline_total_votes": 1697,
+          "pct_of_constituency": 30.97,
+          "is_meaningful": true,
+          "winner_party_votes": 812,
+          "winner_party_pct": 47.85,
+          "other_votes": 885,
+          "other_pct": 52.15,
+          "breakeven_absolute_swing": 50
+        },
+        "D3": {
+          "baseline_total_votes": 262,
+          "pct_of_constituency": 4.78,
+          "is_meaningful": false,
+          "winner_party_votes": 132,
+          "winner_party_pct": 50.38,
+          "other_votes": 130,
+          "other_pct": 49.62,
+          "breakeven_absolute_swing": 7
+        },
+        "D4": {
+          "baseline_total_votes": 1665,
+          "pct_of_constituency": 30.39,
+          "is_meaningful": true,
+          "winner_party_votes": 918,
+          "winner_party_pct": 55.14,
+          "other_votes": 747,
+          "other_pct": 44.86,
+          "breakeven_absolute_swing": 49
+        },
+        "D5(a)": {
+          "baseline_total_votes": 518,
+          "pct_of_constituency": 9.45,
+          "is_meaningful": false,
+          "winner_party_votes": 338,
+          "winner_party_pct": 65.25,
+          "other_votes": 180,
+          "other_pct": 34.75,
+          "breakeven_absolute_swing": 15
+        },
+        "D5(b)": {
+          "baseline_total_votes": 405,
+          "pct_of_constituency": 7.39,
+          "is_meaningful": false,
+          "winner_party_votes": 230,
+          "winner_party_pct": 56.79,
+          "other_votes": 175,
+          "other_pct": 43.21,
+          "breakeven_absolute_swing": 12
+        },
+        "D6": {
+          "baseline_total_votes": 452,
+          "pct_of_constituency": 8.25,
+          "is_meaningful": false,
+          "winner_party_votes": 224,
+          "winner_party_pct": 49.56,
+          "other_votes": 228,
+          "other_pct": 50.44,
+          "breakeven_absolute_swing": 13
+        }
+      }
+    },
+    "CASTRIES NORTH": {
+      "status": "contested",
+      "original_name": "Castries North",
+      "winner": {
+        "party": "UWP",
+        "candidate": "KING+",
+        "votes": 3774,
+        "pct": 71.8
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "Charlery",
+        "votes": 1482,
+        "pct": 28.2
+      },
+      "other_combined": {
+        "votes": 1482,
+        "pct": 28.2
+      },
+      "margin": {
+        "votes": 2292,
+        "pct": 43.61
+      },
+      "total_votes": 5256,
+      "summary": {
+        "electors": 11681,
+        "votes_cast": 5256,
+        "turnout_pct": 45.0,
+        "rejected": 70
+      },
+      "breakeven_swing_pct": 21.8,
+      "meaningful_districts": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "all_districts": {
+        "C1": {
+          "baseline_total_votes": 1175,
+          "pct_of_constituency": 22.36,
+          "is_meaningful": true,
+          "winner_party_votes": 883,
+          "winner_party_pct": 75.15,
+          "other_votes": 292,
+          "other_pct": 24.85,
+          "breakeven_absolute_swing": 256
+        },
+        "C2": {
+          "baseline_total_votes": 1460,
+          "pct_of_constituency": 27.78,
+          "is_meaningful": true,
+          "winner_party_votes": 1114,
+          "winner_party_pct": 76.3,
+          "other_votes": 346,
+          "other_pct": 23.7,
+          "breakeven_absolute_swing": 318
+        },
+        "C3": {
+          "baseline_total_votes": 914,
+          "pct_of_constituency": 17.39,
+          "is_meaningful": true,
+          "winner_party_votes": 598,
+          "winner_party_pct": 65.43,
+          "other_votes": 316,
+          "other_pct": 34.57,
+          "breakeven_absolute_swing": 199
+        },
+        "C4": {
+          "baseline_total_votes": 1211,
+          "pct_of_constituency": 23.04,
+          "is_meaningful": true,
+          "winner_party_votes": 824,
+          "winner_party_pct": 68.04,
+          "other_votes": 387,
+          "other_pct": 31.96,
+          "breakeven_absolute_swing": 264
+        },
+        "C5": {
+          "baseline_total_votes": 496,
+          "pct_of_constituency": 9.44,
+          "is_meaningful": false,
+          "winner_party_votes": 355,
+          "winner_party_pct": 71.57,
+          "other_votes": 141,
+          "other_pct": 28.43,
+          "breakeven_absolute_swing": 108
+        }
+      }
+    },
+    "CASTRIES SOUTH": {
+      "status": "contested",
+      "original_name": "Castries South",
+      "winner": {
+        "party": "SLP",
+        "candidate": "Hilaire",
+        "votes": 2212,
+        "pct": 50.53
+      },
+      "runner_up": {
+        "party": "UWP",
+        "candidate": "Issac",
+        "votes": 2166,
+        "pct": 49.47
+      },
+      "other_combined": {
+        "votes": 2166,
+        "pct": 49.47
+      },
+      "margin": {
+        "votes": 46,
+        "pct": 1.05
+      },
+      "total_votes": 4378,
+      "summary": {
+        "electors": 8858,
+        "votes_cast": 4378,
+        "turnout_pct": 49.42,
+        "rejected": 96
+      },
+      "breakeven_swing_pct": 0.53,
+      "meaningful_districts": [
+        "F1",
+        "F2",
+        "F3"
+      ],
+      "all_districts": {
+        "F1": {
+          "baseline_total_votes": 1339,
+          "pct_of_constituency": 30.58,
+          "is_meaningful": true,
+          "winner_party_votes": 707,
+          "winner_party_pct": 52.8,
+          "other_votes": 632,
+          "other_pct": 47.2,
+          "breakeven_absolute_swing": 7
+        },
+        "F2": {
+          "baseline_total_votes": 2047,
+          "pct_of_constituency": 46.76,
+          "is_meaningful": true,
+          "winner_party_votes": 1004,
+          "winner_party_pct": 49.05,
+          "other_votes": 1043,
+          "other_pct": 50.95,
+          "breakeven_absolute_swing": 10
+        },
+        "F3": {
+          "baseline_total_votes": 992,
+          "pct_of_constituency": 22.66,
+          "is_meaningful": true,
+          "winner_party_votes": 501,
+          "winner_party_pct": 50.5,
+          "other_votes": 491,
+          "other_pct": 49.5,
+          "breakeven_absolute_swing": 5
+        }
+      }
+    },
+    "CASTRIES SOUTH EAST": {
+      "status": "contested",
+      "original_name": "Castries South East",
+      "winner": {
+        "party": "UWP",
+        "candidate": "JOSEPH+",
+        "votes": 4325,
+        "pct": 57.71
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "Henry",
+        "votes": 3169,
+        "pct": 42.29
+      },
+      "other_combined": {
+        "votes": 3169,
+        "pct": 42.29
+      },
+      "margin": {
+        "votes": 1156,
+        "pct": 15.43
+      },
+      "total_votes": 7494,
+      "summary": {
+        "electors": 13759,
+        "votes_cast": 7494,
+        "turnout_pct": 54.47,
+        "rejected": 156
+      },
+      "breakeven_swing_pct": 7.71,
+      "meaningful_districts": [
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q7"
+      ],
+      "all_districts": {
+        "Q1": {
+          "baseline_total_votes": 1002,
+          "pct_of_constituency": 13.37,
+          "is_meaningful": true,
+          "winner_party_votes": 523,
+          "winner_party_pct": 52.2,
+          "other_votes": 479,
+          "other_pct": 47.8,
+          "breakeven_absolute_swing": 77
+        },
+        "Q2": {
+          "baseline_total_votes": 1052,
+          "pct_of_constituency": 14.04,
+          "is_meaningful": true,
+          "winner_party_votes": 630,
+          "winner_party_pct": 59.89,
+          "other_votes": 422,
+          "other_pct": 40.11,
+          "breakeven_absolute_swing": 81
+        },
+        "Q3": {
+          "baseline_total_votes": 1046,
+          "pct_of_constituency": 13.96,
+          "is_meaningful": true,
+          "winner_party_votes": 637,
+          "winner_party_pct": 60.9,
+          "other_votes": 409,
+          "other_pct": 39.1,
+          "breakeven_absolute_swing": 80
+        },
+        "Q4": {
+          "baseline_total_votes": 846,
+          "pct_of_constituency": 11.29,
+          "is_meaningful": true,
+          "winner_party_votes": 481,
+          "winner_party_pct": 56.86,
+          "other_votes": 365,
+          "other_pct": 43.14,
+          "breakeven_absolute_swing": 65
+        },
+        "Q5": {
+          "baseline_total_votes": 1280,
+          "pct_of_constituency": 17.08,
+          "is_meaningful": true,
+          "winner_party_votes": 783,
+          "winner_party_pct": 61.17,
+          "other_votes": 497,
+          "other_pct": 38.83,
+          "breakeven_absolute_swing": 98
+        },
+        "Q6(a)": {
+          "baseline_total_votes": 748,
+          "pct_of_constituency": 9.98,
+          "is_meaningful": false,
+          "winner_party_votes": 415,
+          "winner_party_pct": 55.48,
+          "other_votes": 333,
+          "other_pct": 44.52,
+          "breakeven_absolute_swing": 57
+        },
+        "Q6(b)": {
+          "baseline_total_votes": 223,
+          "pct_of_constituency": 2.98,
+          "is_meaningful": false,
+          "winner_party_votes": 122,
+          "winner_party_pct": 54.71,
+          "other_votes": 101,
+          "other_pct": 45.29,
+          "breakeven_absolute_swing": 17
+        },
+        "Q7": {
+          "baseline_total_votes": 1297,
+          "pct_of_constituency": 17.31,
+          "is_meaningful": true,
+          "winner_party_votes": 734,
+          "winner_party_pct": 56.59,
+          "other_votes": 563,
+          "other_pct": 43.41,
+          "breakeven_absolute_swing": 100
+        }
+      }
+    },
+    "CHOISEUL": {
+      "status": "contested",
+      "original_name": "Choisuel",
+      "winner": {
+        "party": "UWP",
+        "candidate": "Felix",
+        "votes": 2995,
+        "pct": 58.29
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "THEOPHILUS+",
+        "votes": 2143,
+        "pct": 41.71
+      },
+      "other_combined": {
+        "votes": 2143,
+        "pct": 41.71
+      },
+      "margin": {
+        "votes": 852,
+        "pct": 16.58
+      },
+      "total_votes": 5138,
+      "summary": {
+        "electors": 8864,
+        "votes_cast": 5138,
+        "turnout_pct": 57.96,
+        "rejected": 183
+      },
+      "breakeven_swing_pct": 8.29,
+      "meaningful_districts": [
+        "I1",
+        "I2",
+        "I3",
+        "I5",
+        "I7",
+        "I8",
+        "I9"
+      ],
+      "all_districts": {
+        "I1": {
+          "baseline_total_votes": 807,
+          "pct_of_constituency": 15.71,
+          "is_meaningful": true,
+          "winner_party_votes": 647,
+          "winner_party_pct": 80.17,
+          "other_votes": 160,
+          "other_pct": 19.83,
+          "breakeven_absolute_swing": 66
+        },
+        "I2": {
+          "baseline_total_votes": 662,
+          "pct_of_constituency": 12.88,
+          "is_meaningful": true,
+          "winner_party_votes": 317,
+          "winner_party_pct": 47.89,
+          "other_votes": 345,
+          "other_pct": 52.11,
+          "breakeven_absolute_swing": 54
+        },
+        "I3": {
+          "baseline_total_votes": 679,
+          "pct_of_constituency": 13.22,
+          "is_meaningful": true,
+          "winner_party_votes": 317,
+          "winner_party_pct": 46.69,
+          "other_votes": 362,
+          "other_pct": 53.31,
+          "breakeven_absolute_swing": 56
+        },
+        "I4": {
+          "baseline_total_votes": 491,
+          "pct_of_constituency": 9.56,
+          "is_meaningful": false,
+          "winner_party_votes": 360,
+          "winner_party_pct": 73.32,
+          "other_votes": 131,
+          "other_pct": 26.68,
+          "breakeven_absolute_swing": 40
+        },
+        "I5": {
+          "baseline_total_votes": 570,
+          "pct_of_constituency": 11.09,
+          "is_meaningful": true,
+          "winner_party_votes": 347,
+          "winner_party_pct": 60.88,
+          "other_votes": 223,
+          "other_pct": 39.12,
+          "breakeven_absolute_swing": 47
+        },
+        "I6": {
+          "baseline_total_votes": 242,
+          "pct_of_constituency": 4.71,
+          "is_meaningful": false,
+          "winner_party_votes": 112,
+          "winner_party_pct": 46.28,
+          "other_votes": 130,
+          "other_pct": 53.72,
+          "breakeven_absolute_swing": 20
+        },
+        "I7": {
+          "baseline_total_votes": 540,
+          "pct_of_constituency": 10.51,
+          "is_meaningful": true,
+          "winner_party_votes": 228,
+          "winner_party_pct": 42.22,
+          "other_votes": 312,
+          "other_pct": 57.78,
+          "breakeven_absolute_swing": 44
+        },
+        "I8": {
+          "baseline_total_votes": 588,
+          "pct_of_constituency": 11.44,
+          "is_meaningful": true,
+          "winner_party_votes": 382,
+          "winner_party_pct": 64.97,
+          "other_votes": 206,
+          "other_pct": 35.03,
+          "breakeven_absolute_swing": 48
+        },
+        "I9": {
+          "baseline_total_votes": 559,
+          "pct_of_constituency": 10.88,
+          "is_meaningful": true,
+          "winner_party_votes": 285,
+          "winner_party_pct": 50.98,
+          "other_votes": 274,
+          "other_pct": 49.02,
+          "breakeven_absolute_swing": 46
+        }
+      }
+    },
+    "DENNERY NORTH": {
+      "status": "contested",
+      "original_name": "DenneryNorth",
+      "winner": {
+        "party": "SLP",
+        "candidate": "EDWARD+",
+        "votes": 2283,
+        "pct": 51.53
+      },
+      "runner_up": {
+        "party": "UWP",
+        "candidate": "Henry",
+        "votes": 2147,
+        "pct": 48.47
+      },
+      "other_combined": {
+        "votes": 2147,
+        "pct": 48.47
+      },
+      "margin": {
+        "votes": 136,
+        "pct": 3.07
+      },
+      "total_votes": 4430,
+      "summary": {
+        "electors": 8135,
+        "votes_cast": 4430,
+        "turnout_pct": 0.0,
+        "rejected": 40
+      },
+      "breakeven_swing_pct": 1.53,
+      "meaningful_districts": [
+        "P1",
+        "P2",
+        "P3",
+        "P4",
+        "P5"
+      ],
+      "all_districts": {
+        "P1": {
+          "baseline_total_votes": 875,
+          "pct_of_constituency": 19.75,
+          "is_meaningful": true,
+          "winner_party_votes": 377,
+          "winner_party_pct": 43.09,
+          "other_votes": 498,
+          "other_pct": 56.91,
+          "breakeven_absolute_swing": 13
+        },
+        "P2": {
+          "baseline_total_votes": 869,
+          "pct_of_constituency": 19.62,
+          "is_meaningful": true,
+          "winner_party_votes": 586,
+          "winner_party_pct": 67.43,
+          "other_votes": 283,
+          "other_pct": 32.57,
+          "breakeven_absolute_swing": 13
+        },
+        "P3": {
+          "baseline_total_votes": 1058,
+          "pct_of_constituency": 23.88,
+          "is_meaningful": true,
+          "winner_party_votes": 607,
+          "winner_party_pct": 57.37,
+          "other_votes": 451,
+          "other_pct": 42.63,
+          "breakeven_absolute_swing": 16
+        },
+        "P4": {
+          "baseline_total_votes": 564,
+          "pct_of_constituency": 12.73,
+          "is_meaningful": true,
+          "winner_party_votes": 185,
+          "winner_party_pct": 32.8,
+          "other_votes": 379,
+          "other_pct": 67.2,
+          "breakeven_absolute_swing": 8
+        },
+        "P5": {
+          "baseline_total_votes": 1064,
+          "pct_of_constituency": 24.02,
+          "is_meaningful": true,
+          "winner_party_votes": 528,
+          "winner_party_pct": 49.62,
+          "other_votes": 536,
+          "other_pct": 50.38,
+          "breakeven_absolute_swing": 16
+        }
+      }
+    },
+    "DENNERY SOUTH": {
+      "status": "contested",
+      "original_name": "DennerySouth",
+      "winner": {
+        "party": "UWP",
+        "candidate": "ESTAPHANE+",
+        "votes": 1432,
+        "pct": 52.61
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "Jerome",
+        "votes": 1283,
+        "pct": 47.13
+      },
+      "other_combined": {
+        "votes": 1290,
+        "pct": 47.39
+      },
+      "margin": {
+        "votes": 142,
+        "pct": 5.22
+      },
+      "total_votes": 2722,
+      "summary": {
+        "electors": 5005,
+        "votes_cast": 2722,
+        "turnout_pct": 0.0,
+        "rejected": 215
+      },
+      "breakeven_swing_pct": 2.61,
+      "meaningful_districts": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "all_districts": {
+        "O1": {
+          "baseline_total_votes": 592,
+          "pct_of_constituency": 21.75,
+          "is_meaningful": true,
+          "winner_party_votes": 307,
+          "winner_party_pct": 51.86,
+          "other_votes": 285,
+          "other_pct": 48.14,
+          "breakeven_absolute_swing": 15
+        },
+        "O2": {
+          "baseline_total_votes": 1453,
+          "pct_of_constituency": 53.38,
+          "is_meaningful": true,
+          "winner_party_votes": 839,
+          "winner_party_pct": 57.74,
+          "other_votes": 614,
+          "other_pct": 42.26,
+          "breakeven_absolute_swing": 37
+        },
+        "O3": {
+          "baseline_total_votes": 677,
+          "pct_of_constituency": 24.87,
+          "is_meaningful": true,
+          "winner_party_votes": 286,
+          "winner_party_pct": 42.25,
+          "other_votes": 391,
+          "other_pct": 57.75,
+          "breakeven_absolute_swing": 17
+        }
+      }
+    },
+    "GROS ISLET": {
+      "status": "contested",
+      "original_name": "Gros – Islet",
+      "winner": {
+        "party": "UWP",
+        "candidate": "MONTOUTE",
+        "votes": 6339,
+        "pct": 57.43
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "HIPPOLYTE+",
+        "votes": 4548,
+        "pct": 41.2
+      },
+      "other_combined": {
+        "votes": 4699,
+        "pct": 42.57
+      },
+      "margin": {
+        "votes": 1640,
+        "pct": 14.86
+      },
+      "total_votes": 11038,
+      "summary": {
+        "electors": 20593,
+        "votes_cast": 11038,
+        "turnout_pct": 53.6,
+        "rejected": 157
+      },
+      "breakeven_swing_pct": 7.43,
+      "meaningful_districts": [
+        "A1(a)",
+        "A1(b)",
+        "A3",
+        "A4"
+      ],
+      "all_districts": {
+        "A1(a)": {
+          "baseline_total_votes": 1353,
+          "pct_of_constituency": 12.26,
+          "is_meaningful": true,
+          "winner_party_votes": 781,
+          "winner_party_pct": 57.72,
+          "other_votes": 572,
+          "other_pct": 42.28,
+          "breakeven_absolute_swing": 100
+        },
+        "A1(b)": {
+          "baseline_total_votes": 1568,
+          "pct_of_constituency": 14.21,
+          "is_meaningful": true,
+          "winner_party_votes": 903,
+          "winner_party_pct": 57.59,
+          "other_votes": 665,
+          "other_pct": 42.41,
+          "breakeven_absolute_swing": 116
+        },
+        "A1(c)": {
+          "baseline_total_votes": 903,
+          "pct_of_constituency": 8.18,
+          "is_meaningful": false,
+          "winner_party_votes": 567,
+          "winner_party_pct": 62.79,
+          "other_votes": 336,
+          "other_pct": 37.21,
+          "breakeven_absolute_swing": 67
+        },
+        "A1(d)": {
+          "baseline_total_votes": 225,
+          "pct_of_constituency": 2.04,
+          "is_meaningful": false,
+          "winner_party_votes": 136,
+          "winner_party_pct": 60.44,
+          "other_votes": 89,
+          "other_pct": 39.56,
+          "breakeven_absolute_swing": 16
+        },
+        "A2(a)": {
+          "baseline_total_votes": 1101,
+          "pct_of_constituency": 9.97,
+          "is_meaningful": false,
+          "winner_party_votes": 732,
+          "winner_party_pct": 66.49,
+          "other_votes": 369,
+          "other_pct": 33.51,
+          "breakeven_absolute_swing": 81
+        },
+        "A2(b)": {
+          "baseline_total_votes": 1048,
+          "pct_of_constituency": 9.49,
+          "is_meaningful": false,
+          "winner_party_votes": 578,
+          "winner_party_pct": 55.15,
+          "other_votes": 470,
+          "other_pct": 44.85,
+          "breakeven_absolute_swing": 77
+        },
+        "A3": {
+          "baseline_total_votes": 2389,
+          "pct_of_constituency": 21.64,
+          "is_meaningful": true,
+          "winner_party_votes": 1302,
+          "winner_party_pct": 54.5,
+          "other_votes": 1087,
+          "other_pct": 45.5,
+          "breakeven_absolute_swing": 177
+        },
+        "A4": {
+          "baseline_total_votes": 2451,
+          "pct_of_constituency": 22.21,
+          "is_meaningful": true,
+          "winner_party_votes": 1340,
+          "winner_party_pct": 54.67,
+          "other_votes": 1111,
+          "other_pct": 45.33,
+          "breakeven_absolute_swing": 182
+        }
+      }
+    },
+    "LABORIE": {
+      "status": "contested",
+      "original_name": "Laborie",
+      "winner": {
+        "party": "SLP",
+        "candidate": "BAPTISTE+",
+        "votes": 2094,
+        "pct": 58.79
+      },
+      "runner_up": {
+        "party": "UWP",
+        "candidate": "Jn. Pierre",
+        "votes": 1468,
+        "pct": 41.21
+      },
+      "other_combined": {
+        "votes": 1468,
+        "pct": 41.21
+      },
+      "margin": {
+        "votes": 626,
+        "pct": 17.57
+      },
+      "total_votes": 3562,
+      "summary": {
+        "electors": 6504,
+        "votes_cast": 3562,
+        "turnout_pct": 0.0,
+        "rejected": 32
+      },
+      "breakeven_swing_pct": 8.79,
+      "meaningful_districts": [
+        "J1",
+        "J2",
+        "J3",
+        "J4",
+        "J5"
+      ],
+      "all_districts": {
+        "J1": {
+          "baseline_total_votes": 1106,
+          "pct_of_constituency": 31.05,
+          "is_meaningful": true,
+          "winner_party_votes": 559,
+          "winner_party_pct": 50.54,
+          "other_votes": 547,
+          "other_pct": 49.46,
+          "breakeven_absolute_swing": 97
+        },
+        "J2": {
+          "baseline_total_votes": 1091,
+          "pct_of_constituency": 30.63,
+          "is_meaningful": true,
+          "winner_party_votes": 733,
+          "winner_party_pct": 67.19,
+          "other_votes": 358,
+          "other_pct": 32.81,
+          "breakeven_absolute_swing": 95
+        },
+        "J3": {
+          "baseline_total_votes": 551,
+          "pct_of_constituency": 15.47,
+          "is_meaningful": true,
+          "winner_party_votes": 302,
+          "winner_party_pct": 54.81,
+          "other_votes": 249,
+          "other_pct": 45.19,
+          "breakeven_absolute_swing": 48
+        },
+        "J4": {
+          "baseline_total_votes": 432,
+          "pct_of_constituency": 12.13,
+          "is_meaningful": true,
+          "winner_party_votes": 288,
+          "winner_party_pct": 66.67,
+          "other_votes": 144,
+          "other_pct": 33.33,
+          "breakeven_absolute_swing": 37
+        },
+        "J5": {
+          "baseline_total_votes": 382,
+          "pct_of_constituency": 10.72,
+          "is_meaningful": true,
+          "winner_party_votes": 212,
+          "winner_party_pct": 55.5,
+          "other_votes": 170,
+          "other_pct": 44.5,
+          "breakeven_absolute_swing": 33
+        }
+      }
+    },
+    "MICOUD NORTH": {
+      "status": "contested",
+      "original_name": "Micoud North",
+      "winner": {
+        "party": "UWP",
+        "candidate": "RIGOBERT+",
+        "votes": 1930,
+        "pct": 53.52
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "Roserie",
+        "votes": 885,
+        "pct": 24.54
+      },
+      "other_combined": {
+        "votes": 1676,
+        "pct": 46.48
+      },
+      "margin": {
+        "votes": 254,
+        "pct": 7.04
+      },
+      "total_votes": 3606,
+      "summary": {
+        "electors": 7430,
+        "votes_cast": 3606,
+        "turnout_pct": 48.53,
+        "rejected": 127
+      },
+      "breakeven_swing_pct": 3.52,
+      "meaningful_districts": [
+        "N2",
+        "N3",
+        "N4",
+        "N5"
+      ],
+      "all_districts": {
+        "N1": {
+          "baseline_total_votes": 223,
+          "pct_of_constituency": 6.18,
+          "is_meaningful": false,
+          "winner_party_votes": 109,
+          "winner_party_pct": 48.88,
+          "other_votes": 114,
+          "other_pct": 51.12,
+          "breakeven_absolute_swing": 7
+        },
+        "N2": {
+          "baseline_total_votes": 696,
+          "pct_of_constituency": 19.3,
+          "is_meaningful": true,
+          "winner_party_votes": 380,
+          "winner_party_pct": 54.6,
+          "other_votes": 316,
+          "other_pct": 45.4,
+          "breakeven_absolute_swing": 24
+        },
+        "N3": {
+          "baseline_total_votes": 981,
+          "pct_of_constituency": 27.2,
+          "is_meaningful": true,
+          "winner_party_votes": 420,
+          "winner_party_pct": 42.81,
+          "other_votes": 561,
+          "other_pct": 57.19,
+          "breakeven_absolute_swing": 34
+        },
+        "N4": {
+          "baseline_total_votes": 725,
+          "pct_of_constituency": 20.11,
+          "is_meaningful": true,
+          "winner_party_votes": 417,
+          "winner_party_pct": 57.52,
+          "other_votes": 308,
+          "other_pct": 42.48,
+          "breakeven_absolute_swing": 25
+        },
+        "N5": {
+          "baseline_total_votes": 981,
+          "pct_of_constituency": 27.2,
+          "is_meaningful": true,
+          "winner_party_votes": 604,
+          "winner_party_pct": 61.57,
+          "other_votes": 377,
+          "other_pct": 38.43,
+          "breakeven_absolute_swing": 34
+        }
+      }
+    },
+    "MICOUD SOUTH": {
+      "status": "contested",
+      "original_name": "Micoud South",
+      "winner": {
+        "party": "UWP",
+        "candidate": "Chastanet",
+        "votes": 2541,
+        "pct": 64.33
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "Ferdinand",
+        "votes": 1409,
+        "pct": 35.67
+      },
+      "other_combined": {
+        "votes": 1409,
+        "pct": 35.67
+      },
+      "margin": {
+        "votes": 1132,
+        "pct": 28.66
+      },
+      "total_votes": 3950,
+      "summary": {
+        "electors": 6994,
+        "votes_cast": 3950,
+        "turnout_pct": 56.48,
+        "rejected": 134
+      },
+      "breakeven_swing_pct": 14.33,
+      "meaningful_districts": [
+        "M1",
+        "M2(a)",
+        "M3(a)",
+        "M3(b)",
+        "M3(c)"
+      ],
+      "all_districts": {
+        "M1": {
+          "baseline_total_votes": 468,
+          "pct_of_constituency": 11.85,
+          "is_meaningful": true,
+          "winner_party_votes": 328,
+          "winner_party_pct": 70.09,
+          "other_votes": 140,
+          "other_pct": 29.91,
+          "breakeven_absolute_swing": 67
+        },
+        "M2(a)": {
+          "baseline_total_votes": 987,
+          "pct_of_constituency": 24.99,
+          "is_meaningful": true,
+          "winner_party_votes": 697,
+          "winner_party_pct": 70.62,
+          "other_votes": 290,
+          "other_pct": 29.38,
+          "breakeven_absolute_swing": 141
+        },
+        "M2(b)": {
+          "baseline_total_votes": 165,
+          "pct_of_constituency": 4.18,
+          "is_meaningful": false,
+          "winner_party_votes": 90,
+          "winner_party_pct": 54.55,
+          "other_votes": 75,
+          "other_pct": 45.45,
+          "breakeven_absolute_swing": 23
+        },
+        "M3(a)": {
+          "baseline_total_votes": 518,
+          "pct_of_constituency": 13.11,
+          "is_meaningful": true,
+          "winner_party_votes": 346,
+          "winner_party_pct": 66.8,
+          "other_votes": 172,
+          "other_pct": 33.2,
+          "breakeven_absolute_swing": 74
+        },
+        "M3(b)": {
+          "baseline_total_votes": 971,
+          "pct_of_constituency": 24.58,
+          "is_meaningful": true,
+          "winner_party_votes": 507,
+          "winner_party_pct": 52.21,
+          "other_votes": 464,
+          "other_pct": 47.79,
+          "breakeven_absolute_swing": 139
+        },
+        "M3(c)": {
+          "baseline_total_votes": 841,
+          "pct_of_constituency": 21.29,
+          "is_meaningful": true,
+          "winner_party_votes": 573,
+          "winner_party_pct": 68.13,
+          "other_votes": 268,
+          "other_pct": 31.87,
+          "breakeven_absolute_swing": 120
+        }
+      }
+    },
+    "SOUFRIERE": {
+      "status": "contested",
+      "original_name": "Soufriere",
+      "winner": {
+        "party": "UWP",
+        "candidate": "stanislas",
+        "votes": 2568,
+        "pct": 54.93
+      },
+      "runner_up": {
+        "party": "SLP",
+        "candidate": "DALSON+",
+        "votes": 2104,
+        "pct": 45.01
+      },
+      "other_combined": {
+        "votes": 2107,
+        "pct": 45.07
+      },
+      "margin": {
+        "votes": 461,
+        "pct": 9.86
+      },
+      "total_votes": 4675,
+      "summary": {
+        "electors": 7854,
+        "votes_cast": 4671,
+        "turnout_pct": 59.47,
+        "rejected": 113
+      },
+      "breakeven_swing_pct": 4.93,
+      "meaningful_districts": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "H6"
+      ],
+      "all_districts": {
+        "H1": {
+          "baseline_total_votes": 1489,
+          "pct_of_constituency": 31.85,
+          "is_meaningful": true,
+          "winner_party_votes": 946,
+          "winner_party_pct": 63.53,
+          "other_votes": 543,
+          "other_pct": 36.47,
+          "breakeven_absolute_swing": 73
+        },
+        "H2": {
+          "baseline_total_votes": 835,
+          "pct_of_constituency": 17.86,
+          "is_meaningful": true,
+          "winner_party_votes": 497,
+          "winner_party_pct": 59.52,
+          "other_votes": 338,
+          "other_pct": 40.48,
+          "breakeven_absolute_swing": 41
+        },
+        "H3": {
+          "baseline_total_votes": 788,
+          "pct_of_constituency": 16.86,
+          "is_meaningful": true,
+          "winner_party_votes": 275,
+          "winner_party_pct": 34.9,
+          "other_votes": 513,
+          "other_pct": 65.1,
+          "breakeven_absolute_swing": 38
+        },
+        "H4": {
+          "baseline_total_votes": 573,
+          "pct_of_constituency": 12.26,
+          "is_meaningful": true,
+          "winner_party_votes": 342,
+          "winner_party_pct": 59.69,
+          "other_votes": 231,
+          "other_pct": 40.31,
+          "breakeven_absolute_swing": 28
+        },
+        "H5": {
+          "baseline_total_votes": 66,
+          "pct_of_constituency": 1.41,
+          "is_meaningful": false,
+          "winner_party_votes": 28,
+          "winner_party_pct": 42.42,
+          "other_votes": 38,
+          "other_pct": 57.58,
+          "breakeven_absolute_swing": 3
+        },
+        "H6": {
+          "baseline_total_votes": 528,
+          "pct_of_constituency": 11.29,
+          "is_meaningful": true,
+          "winner_party_votes": 198,
+          "winner_party_pct": 37.5,
+          "other_votes": 330,
+          "other_pct": 62.5,
+          "breakeven_absolute_swing": 26
+        },
+        "H7": {
+          "baseline_total_votes": 392,
+          "pct_of_constituency": 8.39,
+          "is_meaningful": false,
+          "winner_party_votes": 278,
+          "winner_party_pct": 70.92,
+          "other_votes": 114,
+          "other_pct": 29.08,
+          "breakeven_absolute_swing": 19
+        }
+      }
+    },
+    "VIEUX FORT NORTH": {
+      "status": "contested",
+      "original_name": "V-Fort North",
+      "winner": {
+        "party": "SLP",
+        "candidate": "JN.BAPTISTE+",
+        "votes": 1748,
+        "pct": 57.09
+      },
+      "runner_up": {
+        "party": "UWP",
+        "candidate": "Ambrose",
+        "votes": 1314,
+        "pct": 42.91
+      },
+      "other_combined": {
+        "votes": 1314,
+        "pct": 42.91
+      },
+      "margin": {
+        "votes": 434,
+        "pct": 14.17
+      },
+      "total_votes": 3062,
+      "summary": {
+        "electors": 6574,
+        "votes_cast": 3062,
+        "turnout_pct": 46.58,
+        "rejected": 53
+      },
+      "breakeven_swing_pct": 7.08,
+      "meaningful_districts": [
+        "L2",
+        "L3",
+        "L4"
+      ],
+      "all_districts": {
+        "L1": {
+          "baseline_total_votes": 222,
+          "pct_of_constituency": 7.25,
+          "is_meaningful": false,
+          "winner_party_votes": 84,
+          "winner_party_pct": 37.84,
+          "other_votes": 138,
+          "other_pct": 62.16,
+          "breakeven_absolute_swing": 15
+        },
+        "L2": {
+          "baseline_total_votes": 1336,
+          "pct_of_constituency": 43.63,
+          "is_meaningful": true,
+          "winner_party_votes": 707,
+          "winner_party_pct": 52.92,
+          "other_votes": 629,
+          "other_pct": 47.08,
+          "breakeven_absolute_swing": 94
+        },
+        "L3": {
+          "baseline_total_votes": 608,
+          "pct_of_constituency": 19.86,
+          "is_meaningful": true,
+          "winner_party_votes": 418,
+          "winner_party_pct": 68.75,
+          "other_votes": 190,
+          "other_pct": 31.25,
+          "breakeven_absolute_swing": 43
+        },
+        "L4": {
+          "baseline_total_votes": 896,
+          "pct_of_constituency": 29.26,
+          "is_meaningful": true,
+          "winner_party_votes": 539,
+          "winner_party_pct": 60.16,
+          "other_votes": 357,
+          "other_pct": 39.84,
+          "breakeven_absolute_swing": 63
+        }
+      }
+    },
+    "VIEUX FORT SOUTH": {
+      "status": "contested",
+      "original_name": "V-Fort South",
+      "winner": {
+        "party": "SLP",
+        "candidate": "ANTHONY+",
+        "votes": 2439,
+        "pct": 53.72
+      },
+      "runner_up": {
+        "party": "UWP",
+        "candidate": "Mondesir",
+        "votes": 2101,
+        "pct": 46.28
+      },
+      "other_combined": {
+        "votes": 2101,
+        "pct": 46.28
+      },
+      "margin": {
+        "votes": 338,
+        "pct": 7.44
+      },
+      "total_votes": 4540,
+      "summary": {
+        "electors": 8693,
+        "votes_cast": 4540,
+        "turnout_pct": 52.23,
+        "rejected": 105
+      },
+      "breakeven_swing_pct": 3.72,
+      "meaningful_districts": [
+        "K1",
+        "K2",
+        "K3",
+        "K4"
+      ],
+      "all_districts": {
+        "K1": {
+          "baseline_total_votes": 1282,
+          "pct_of_constituency": 28.24,
+          "is_meaningful": true,
+          "winner_party_votes": 766,
+          "winner_party_pct": 59.75,
+          "other_votes": 516,
+          "other_pct": 40.25,
+          "breakeven_absolute_swing": 47
+        },
+        "K2": {
+          "baseline_total_votes": 766,
+          "pct_of_constituency": 16.87,
+          "is_meaningful": true,
+          "winner_party_votes": 449,
+          "winner_party_pct": 58.62,
+          "other_votes": 317,
+          "other_pct": 41.38,
+          "breakeven_absolute_swing": 28
+        },
+        "K3": {
+          "baseline_total_votes": 1666,
+          "pct_of_constituency": 36.7,
+          "is_meaningful": true,
+          "winner_party_votes": 825,
+          "winner_party_pct": 49.52,
+          "other_votes": 841,
+          "other_pct": 50.48,
+          "breakeven_absolute_swing": 61
+        },
+        "K4": {
+          "baseline_total_votes": 826,
+          "pct_of_constituency": 18.19,
+          "is_meaningful": true,
+          "winner_party_votes": 399,
+          "winner_party_pct": 48.31,
+          "other_votes": 427,
+          "other_pct": 51.69,
+          "breakeven_absolute_swing": 30
+        }
+      }
+    }
+  },
+  "national_baseline": {
+    "total_votes": 84300,
+    "party_votes": {
+      "UWP": 46187,
+      "SLP": 37148,
+      "IND": 811,
+      "LPM": 154
+    },
+    "party_pct": {
+      "UWP": 54.79,
+      "SLP": 44.07,
+      "IND": 0.96,
+      "LPM": 0.18
+    }
+  },
+  "summary": {
+    "total_constituencies": 17,
+    "contested": 17,
+    "avg_breakeven_swing": 6.72,
+    "closest_races": [
+      [
+        "CASTRIES SOUTH",
+        0.53
+      ],
+      [
+        "DENNERY NORTH",
+        1.53
+      ],
+      [
+        "DENNERY SOUTH",
+        2.61
+      ],
+      [
+        "CASTRIES EAST",
+        2.98
+      ],
+      [
+        "MICOUD NORTH",
+        3.52
+      ]
+    ]
+  }
+}

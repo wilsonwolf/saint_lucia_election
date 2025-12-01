@@ -7,167 +7,167 @@
     "IND": 608,
     "Rejected": 150,
     "Votes Cast": 6746,
-    "Turnout": "73.83%"
+    "Turnout": 73.83
   },
   {
     "Constituency": "Babonneau",
-    "Registered Votes": 7717,
-    "SLP": 1227,
-    "UWP": 2864,
-    "IND": 93,
-    "Rejected": 68,
-    "Votes Cast": 4252,
-    "Turnout": "55.11%"
+    "Registered Votes": 7643,
+    "SLP": 3060,
+    "UWP": 1781,
+    "IND": null,
+    "Rejected": 148,
+    "Votes Cast": 4989,
+    "Turnout": 65.28
   },
   {
     "Constituency": "Castries North",
-    "Registered Votes": 10018,
-    "SLP": 1861,
-    "UWP": 3827,
-    "IND": 56,
-    "Rejected": 162,
-    "Votes Cast": 5906,
-    "Turnout": "58.95%"
+    "Registered Votes": 12188,
+    "SLP": 3960,
+    "UWP": 2604,
+    "IND": null,
+    "Rejected": 85,
+    "Votes Cast": 6649,
+    "Turnout": 54.55
   },
   {
     "Constituency": "Castries East",
-    "Registered Votes": 10740,
-    "SLP": 3685,
-    "UWP": 3049,
-    "IND": 46,
-    "Rejected": 233,
-    "Votes Cast": 7013,
-    "Turnout": "65.28%"
+    "Registered Votes": 12049,
+    "SLP": 4420,
+    "UWP": 2377,
+    "IND": null,
+    "Rejected": 260,
+    "Votes Cast": 7057,
+    "Turnout": 58.57
   },
   {
     "Constituency": "Castries Central",
-    "Registered Votes": 3897,
-    "SLP": 689,
-    "UWP": 2017,
-    "IND": 10,
-    "Rejected": 64,
-    "Votes Cast": 2780,
-    "Turnout": "71.38%"
+    "Registered Votes": 2326,
+    "SLP": 767,
+    "UWP": 718,
+    "IND": null,
+    "Rejected": 13,
+    "Votes Cast": 1498,
+    "Turnout": 64.4
   },
   {
     "Constituency": "Castries South",
-    "Registered Votes": 6244,
-    "SLP": 2444,
-    "UWP": 2016,
-    "IND": 30,
-    "Rejected": 92,
-    "Votes Cast": 4582,
-    "Turnout": "73.40%"
+    "Registered Votes": 5482,
+    "SLP": 2131,
+    "UWP": 1048,
+    "IND": 190,
+    "Rejected": 78,
+    "Votes Cast": 3447,
+    "Turnout": 62.88
   },
   {
-    "Constituency": "Castries South East",
-    "Registered Votes": 6262,
-    "SLP": 182,
-    "UWP": 2160,
-    "IND": 1466,
-    "Rejected": 99,
-    "Votes Cast": 3907,
-    "Turnout": "62.40%"
-  },
-  {
-    "Constituency": "Anse La Raye/Canaries",
-    "Registered Votes": 5833,
-    "SLP": 2298,
-    "UWP": 2164,
-    "IND": 133,
-    "Rejected": 91,
-    "Votes Cast": 4686,
-    "Turnout": "80.32%"
+    "Constituency": "Anse La Raye & Canaries",
+    "Registered Votes": 6228,
+    "SLP": 2813,
+    "UWP": 1469,
+    "IND": null,
+    "Rejected": 58,
+    "Votes Cast": 4340,
+    "Turnout": 69.69
   },
   {
     "Constituency": "Soufriere",
-    "Registered Votes": 5408,
-    "SLP": 2131,
-    "UWP": 1735,
-    "IND": 87,
-    "Rejected": 69,
-    "Votes Cast": 4022,
-    "Turnout": "74.37%"
+    "Registered Votes": 6199,
+    "SLP": 2596,
+    "UWP": 1548,
+    "IND": null,
+    "Rejected": 99,
+    "Votes Cast": 4243,
+    "Turnout": 68.45
   },
   {
     "Constituency": "Choiseul",
-    "Registered Votes": 4362,
-    "SLP": 2116,
-    "UWP": 1237,
-    "IND": 70,
-    "Rejected": 31,
-    "Votes Cast": 3454,
-    "Turnout": "79.21%"
-  },
-  {
-    "Constituency": "Vieux Fort South",
-    "Registered Votes": 7887,
-    "SLP": 4047,
-    "UWP": 1468,
-    "IND": 27,
-    "Rejected": 117,
-    "Votes Cast": 5659,
-    "Turnout": "71.79%"
-  },
-  {
-    "Constituency": "Vieux Fort North",
-    "Registered Votes": 5591,
-    "SLP": 2729,
-    "UWP": 1205,
-    "IND": 53,
-    "Rejected": 48,
-    "Votes Cast": 4035,
-    "Turnout": "72.16%"
+    "Registered Votes": 7150,
+    "SLP": 2818,
+    "UWP": 2346,
+    "IND": null,
+    "Rejected": 105,
+    "Votes Cast": 5269,
+    "Turnout": 73.69
   },
   {
     "Constituency": "Laborie",
-    "Registered Votes": 5208,
-    "SLP": 2661,
-    "UWP": 1269,
-    "IND": 30,
-    "Rejected": 79,
-    "Votes Cast": 4039,
-    "Turnout": "77.60%"
+    "Registered Votes": 4987,
+    "SLP": 2338,
+    "UWP": 1435,
+    "IND": null,
+    "Rejected": 28,
+    "Votes Cast": 3801,
+    "Turnout": 76.22
   },
   {
-    "Constituency": "Micoud North",
-    "Registered Votes": 6914,
-    "SLP": 1622,
-    "UWP": 2818,
-    "IND": 20,
-    "Rejected": 82,
-    "Votes Cast": 4542,
-    "Turnout": "65.68%"
+    "Constituency": "Vieux Fort South",
+    "Registered Votes": 4898,
+    "SLP": 2262,
+    "UWP": 1285,
+    "IND": 9,
+    "Rejected": 43,
+    "Votes Cast": 3599,
+    "Turnout": 73.48
+  },
+  {
+    "Constituency": "Vieux Fort North",
+    "Registered Votes": 4125,
+    "SLP": 2052,
+    "UWP": 730,
+    "IND": null,
+    "Rejected": 68,
+    "Votes Cast": 2850,
+    "Turnout": 69.09
   },
   {
     "Constituency": "Micoud South",
-    "Registered Votes": 7067,
-    "SLP": 1025,
-    "UWP": 3148,
-    "IND": 28,
-    "Rejected": 73,
-    "Votes Cast": 4274,
-    "Turnout": "60.48%"
+    "Registered Votes": 4714,
+    "SLP": 1687,
+    "UWP": 921,
+    "IND": 629,
+    "Rejected": 56,
+    "Votes Cast": 3293,
+    "Turnout": 69.86
   },
   {
-    "Constituency": "Dennery North",
-    "Registered Votes": 7216,
-    "SLP": 2526,
-    "UWP": 2017,
-    "IND": 44,
-    "Rejected": 68,
-    "Votes Cast": 4655,
-    "Turnout": "64.49%"
+    "Constituency": "Micoud North",
+    "Registered Votes": 5223,
+    "SLP": 1668,
+    "UWP": 1828,
+    "IND": 22,
+    "Rejected": 49,
+    "Votes Cast": 3567,
+    "Turnout": 68.29
   },
   {
     "Constituency": "Dennery South",
-    "Registered Votes": 5976,
-    "SLP": 2800,
-    "UWP": 1377,
-    "IND": 29,
-    "Rejected": 57,
-    "Votes Cast": 4263,
-    "Turnout": "71.34%"
+    "Registered Votes": 3368,
+    "SLP": 1404,
+    "UWP": 944,
+    "IND": 36,
+    "Rejected": 25,
+    "Votes Cast": 2409,
+    "Turnout": 71.53
+  },
+  {
+    "Constituency": "Dennery North",
+    "Registered Votes": 3055,
+    "SLP": 2368,
+    "UWP": 1657,
+    "IND": null,
+    "Rejected": 29,
+    "Votes Cast": 4054,
+    "Turnout": 66.95
+  },
+  {
+    "Constituency": "Castries South East",
+    "Registered Votes": 8791,
+    "SLP": 3870,
+    "UWP": 1635,
+    "IND": null,
+    "Rejected": 269,
+    "Votes Cast": 5774,
+    "Turnout": 68.68
   },
   {
     "Constituency": "TOTAL",
@@ -177,6 +177,6 @@
     "IND": 1494,
     "Rejected": 1563,
     "Votes Cast": 73585,
-    "Turnout": "66.55%"
+    "Turnout": 66.55
   }
 ]

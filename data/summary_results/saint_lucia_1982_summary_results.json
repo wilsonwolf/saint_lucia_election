@@ -3,126 +3,108 @@
     "Constituency": "Gros Islet",
     "SLP": 489,
     "UWP": 1558,
-    "PLP": 920,
-    "Total": 2967
+    "PLP": 920
   },
   {
     "Constituency": "Babonneau",
-    "SLP": 163,
-    "UWP": 1880,
-    "PLP": 810,
-    "Total": 2853
+    "SLP": 96,
+    "UWP": 2213,
+    "PLP": 618
   },
   {
     "Constituency": "Castries North",
-    "SLP": 254,
-    "UWP": 1880,
-    "PLP": 767,
-    "Total": 2901
+    "SLP": 265,
+    "UWP": 2803,
+    "PLP": 2396
   },
   {
     "Constituency": "Castries East",
-    "SLP": 926,
-    "UWP": 1335,
-    "PLP": 992,
-    "Total": 3253
+    "SLP": 322,
+    "UWP": 2907,
+    "PLP": 1754
   },
   {
     "Constituency": "Castries Central",
-    "SLP": 182,
-    "UWP": 1612,
-    "PLP": 574,
-    "Total": 2368
+    "SLP": 80,
+    "UWP": 1088,
+    "PLP": 461
   },
   {
     "Constituency": "Castries South",
-    "SLP": 344,
-    "UWP": 1700,
-    "PLP": 859,
-    "Total": 2903
+    "SLP": 78,
+    "UWP": 975,
+    "PLP": 1070
   },
   {
-    "Constituency": "Castries South East",
-    "SLP": 479,
-    "UWP": 2526,
-    "PLP": 137,
-    "Total": 3142
-  },
-  {
-    "Constituency": "Anse La Raye/Canaries",
-    "SLP": 347,
-    "UWP": 1600,
-    "PLP": 742,
-    "Total": 2689
+    "Constituency": "Anse La Raye & Canaries",
+    "SLP": 805,
+    "UWP": 1656,
+    "PLP": 678
   },
   {
     "Constituency": "Soufriere",
-    "SLP": 637,
-    "UWP": 1701,
-    "PLP": 611,
-    "Total": 2949
+    "SLP": 864,
+    "UWP": 1095,
+    "PLP": 795
   },
   {
     "Constituency": "Choiseul",
-    "SLP": 574,
-    "UWP": 1582,
-    "PLP": 571,
-    "Total": 2727
-  },
-  {
-    "Constituency": "Vieux Fort South",
-    "SLP": 2410,
-    "UWP": 1454,
-    "PLP": 657,
-    "Total": 4521
-  },
-  {
-    "Constituency": "Vieux Fort North",
-    "SLP": 1952,
-    "UWP": 924,
-    "PLP": 544,
-    "Total": 3420
+    "SLP": 884,
+    "UWP": 1602,
+    "PLP": 636
   },
   {
     "Constituency": "Laborie",
-    "SLP": 764,
-    "UWP": 1167,
-    "PLP": 660,
-    "Total": 2591
+    "SLP": 1503,
+    "UWP": 1354,
+    "PLP": 363
   },
   {
-    "Constituency": "Micoud North",
-    "SLP": 282,
-    "UWP": 1580,
-    "PLP": 592,
-    "Total": 2454
+    "Constituency": "Vieux Fort South",
+    "SLP": 884,
+    "UWP": 1075,
+    "PLP": 466
+  },
+  {
+    "Constituency": "Vieux Fort North",
+    "SLP": 851,
+    "UWP": 680,
+    "PLP": 195
   },
   {
     "Constituency": "Micoud South",
-    "SLP": 295,
-    "UWP": 1748,
-    "PLP": 390,
-    "Total": 2433
+    "SLP": 169,
+    "UWP": 1529,
+    "PLP": 76
   },
   {
-    "Constituency": "Dennery North",
-    "SLP": 356,
-    "UWP": 1400,
-    "PLP": 714,
-    "Total": 2470
+    "Constituency": "Micoud North",
+    "SLP": 40,
+    "UWP": 2217,
+    "PLP": 113
   },
   {
     "Constituency": "Dennery South",
-    "SLP": 330,
-    "UWP": 1885,
-    "PLP": 596,
-    "Total": 2811
+    "SLP": 693,
+    "UWP": 844,
+    "PLP": 97
+  },
+  {
+    "Constituency": "Dennery North",
+    "SLP": 38,
+    "UWP": 1818,
+    "PLP": 826
+  },
+  {
+    "Constituency": "Castries South East",
+    "SLP": 61,
+    "UWP": 1838,
+    "PLP": 1634
   },
   {
     "Constituency": "TOTAL",
     "SLP": 8122,
     "UWP": 27252,
-    "PLP": 13133,
-    "Total": 48507
+    "PLP": 13133
   }
 ]

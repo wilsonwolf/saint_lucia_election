@@ -1,0 +1,164 @@
+[
+  {
+    "Constituency": "Gros Islet",
+    "Registered Votes": 5331,
+    "SLP": 2302,
+    "UWP": 1669,
+    "PLP": null,
+    "Rejected": 68,
+    "Votes Cast": 4039
+  },
+  {
+    "Constituency": "Babonneau",
+    "Registered Votes": 5384,
+    "SLP": 864,
+    "UWP": 2126,
+    "PLP": null,
+    "Rejected": 70,
+    "Votes Cast": 3060
+  },
+  {
+    "Constituency": "Castries North",
+    "Registered Votes": 10012,
+    "SLP": 2549,
+    "UWP": 2731,
+    "PLP": 375,
+    "Rejected": 49,
+    "Votes Cast": 5705
+  },
+  {
+    "Constituency": "Castries East",
+    "Registered Votes": 9220,
+    "SLP": 1620,
+    "UWP": 2692,
+    "PLP": 400,
+    "Rejected": 81,
+    "Votes Cast": 4793
+  },
+  {
+    "Constituency": "Castries Central",
+    "Registered Votes": 2745,
+    "SLP": 493,
+    "UWP": 903,
+    "PLP": null,
+    "Rejected": 24,
+    "Votes Cast": 1420
+  },
+  {
+    "Constituency": "Castries South",
+    "Registered Votes": 3849,
+    "SLP": 144,
+    "UWP": 1239,
+    "PLP": 935,
+    "Rejected": 57,
+    "Votes Cast": 2375
+  },
+  {
+    "Constituency": "Anse La Raye / Canaries",
+    "Registered Votes": 4943,
+    "SLP": 1747,
+    "UWP": 1741,
+    "PLP": null,
+    "Rejected": 59,
+    "Votes Cast": 3547
+  },
+  {
+    "Constituency": "Soufriere",
+    "Registered Votes": 5243,
+    "SLP": 1938,
+    "UWP": 1633,
+    "PLP": null,
+    "Rejected": 163,
+    "Votes Cast": 3734
+  },
+  {
+    "Constituency": "Choisuel",
+    "Registered Votes": 5621,
+    "SLP": 2127,
+    "UWP": 2023,
+    "PLP": null,
+    "Rejected": 95,
+    "Votes Cast": 4245
+  },
+  {
+    "Constituency": "Laborie",
+    "Registered Votes": 3855,
+    "SLP": 1787,
+    "UWP": 711,
+    "PLP": null,
+    "Rejected": 61,
+    "Votes Cast": 2559
+  },
+  {
+    "Constituency": "Vieux Fort South",
+    "Registered Votes": 3566,
+    "SLP": 1487,
+    "UWP": 1029,
+    "PLP": null,
+    "Rejected": 21,
+    "Votes Cast": 2537
+  },
+  {
+    "Constituency": "Vieux Fort North",
+    "Registered Votes": 3000,
+    "SLP": 1302,
+    "UWP": 566,
+    "PLP": null,
+    "Rejected": 70,
+    "Votes Cast": 1938
+  },
+  {
+    "Constituency": "Micoud South",
+    "Registered Votes": 3337,
+    "SLP": 357,
+    "UWP": 1792,
+    "PLP": null,
+    "Rejected": 54,
+    "Votes Cast": 2203
+  },
+  {
+    "Constituency": "Micoud North",
+    "Registered Votes": 3894,
+    "SLP": 194,
+    "UWP": 2310,
+    "PLP": null,
+    "Rejected": 78,
+    "Votes Cast": 2582
+  },
+  {
+    "Constituency": "Dennery South",
+    "Registered Votes": 2499,
+    "SLP": 1019,
+    "UWP": 919,
+    "PLP": null,
+    "Rejected": 49,
+    "Votes Cast": 1987
+  },
+  {
+    "Constituency": "Dennery North",
+    "Registered Votes": 4496,
+    "SLP": 1403,
+    "UWP": 1801,
+    "PLP": null,
+    "Rejected": 49,
+    "Votes Cast": 3252
+  },
+  {
+    "Constituency": "Castries South East",
+    "Registered Votes": 6262,
+    "SLP": 182,
+    "UWP": 2160,
+    "PLP": 1466,
+    "Rejected": 99,
+    "Votes Cast": 3907
+  },
+  {
+    "Constituency": "TOTAL",
+    "Registered Votes": null,
+    "SLP": null,
+    "UWP": null,
+    "PLP": null,
+    "Rejected": null,
+    "Votes Cast": null
+  }
+]

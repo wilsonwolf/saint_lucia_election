@@ -20,14 +20,15 @@
     "Code": "IND",
     "Total Votes": 1494,
     "% Votes": 2.07,
-    "Candidates": 9,
+    "Candidates": 6,
     "Seats": 0
   },
   {
     "Party": "TOTAL VALID VOTES",
+    "Code": "",
     "Total Votes": 72022,
     "% Votes": 100.0,
-    "Candidates": 43,
+    "Candidates": 40,
     "Seats": 17
   }
 ]

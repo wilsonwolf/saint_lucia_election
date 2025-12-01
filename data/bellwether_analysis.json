@@ -1,0 +1,918 @@
+{
+  "national_results": [
+    {
+      "year": "1979",
+      "winner": "SLP",
+      "seats": 12,
+      "parties": {
+        "SLP": {
+          "seats": 12,
+          "votes": 25292
+        },
+        "UWP": {
+          "seats": 5,
+          "votes": 19706
+        }
+      }
+    },
+    {
+      "year": "1982",
+      "winner": "UWP",
+      "seats": 14,
+      "parties": {
+        "SLP": {
+          "seats": 2,
+          "votes": 8122
+        },
+        "UWP": {
+          "seats": 14,
+          "votes": 27252
+        },
+        "PLP": {
+          "seats": 1,
+          "votes": 13133
+        }
+      }
+    },
+    {
+      "year": "1987_apr6",
+      "winner": "UWP",
+      "seats": 9,
+      "parties": {
+        "SLP": {
+          "seats": 8,
+          "votes": 18889
+        },
+        "UWP": {
+          "seats": 9,
+          "votes": 25892
+        },
+        "PLP": {
+          "seats": 1,
+          "votes": 13133
+        }
+      }
+    },
+    {
+      "year": "1987_apr30",
+      "winner": "UWP",
+      "seats": 9,
+      "parties": {
+        "SLP": {
+          "votes": 21515,
+          "seats": 8
+        },
+        "UWP": {
+          "votes": 28045,
+          "seats": 9
+        },
+        "PLP": {
+          "votes": 3176,
+          "seats": 0
+        }
+      }
+    },
+    {
+      "year": "1992",
+      "winner": "UWP",
+      "seats": 11,
+      "parties": {
+        "SLP": {
+          "seats": 6,
+          "votes": 25560
+        },
+        "UWP": {
+          "seats": 11,
+          "votes": 33543
+        },
+        "PLP": {
+          "seats": 1,
+          "votes": 87
+        },
+        "NA": {
+          "seats": 0,
+          "votes": 252
+        }
+      }
+    },
+    {
+      "year": "1997",
+      "winner": "SLP",
+      "seats": 16,
+      "parties": {
+        "SLP": {
+          "seats": 16,
+          "votes": 44203
+        },
+        "UWP": {
+          "seats": 1,
+          "votes": 26325
+        },
+        "IND": {
+          "seats": 0,
+          "votes": 1494
+        }
+      }
+    },
+    {
+      "year": "2001",
+      "winner": "SLP",
+      "seats": 14,
+      "parties": {
+        "SLP": {
+          "seats": 14,
+          "votes": 34053
+        },
+        "UWP": {
+          "seats": 3,
+          "votes": 23007
+        },
+        "NA": {
+          "seats": 0,
+          "votes": 2191
+        },
+        "STAFF": {
+          "seats": 0,
+          "votes": 231
+        },
+        "FREE": {
+          "seats": 0,
+          "votes": 18
+        },
+        "IND": {
+          "seats": 0,
+          "votes": 1295
+        }
+      }
+    },
+    {
+      "year": "2006",
+      "winner": "UWP",
+      "seats": 11,
+      "parties": {
+        "SLP": {
+          "seats": 6,
+          "votes": 36604
+        },
+        "UWP": {
+          "seats": 11,
+          "votes": 38894
+        },
+        "IND": {
+          "seats": 0,
+          "votes": 358
+        }
+      }
+    },
+    {
+      "year": "2011",
+      "winner": "SLP",
+      "seats": 11,
+      "parties": {
+        "SLP": {
+          "seats": 11,
+          "votes": 42640
+        },
+        "UWP": {
+          "seats": 6,
+          "votes": 38894
+        },
+        "NDM": {
+          "seats": 0,
+          "votes": 156
+        },
+        "LPM": {
+          "seats": 0,
+          "votes": 163
+        },
+        "LG": {
+          "seats": 0,
+          "votes": 17
+        },
+        "IND": {
+          "seats": 0,
+          "votes": 1343
+        }
+      }
+    },
+    {
+      "year": "2016",
+      "winner": "UWP",
+      "seats": 11,
+      "parties": {
+        "SLP": {
+          "seats": 6,
+          "votes": 37172
+        },
+        "UWP": {
+          "seats": 11,
+          "votes": 46165
+        },
+        "LPM": {
+          "seats": 0,
+          "votes": 152
+        },
+        "IND": {
+          "seats": 0,
+          "votes": 813
+        }
+      }
+    },
+    {
+      "year": "2021",
+      "winner": "SLP",
+      "seats": 13,
+      "parties": {
+        "SLP": {
+          "seats": 13,
+          "votes": 43799
+        },
+        "UWP": {
+          "seats": 2,
+          "votes": 37481
+        },
+        "NGP": {
+          "seats": 0,
+          "votes": 271
+        },
+        "IND": {
+          "seats": 2,
+          "votes": 5807
+        }
+      }
+    }
+  ],
+  "bellwether_results": {
+    "bellwethers": [],
+    "near_bellwethers": [
+      {
+        "constituency": "BABONNEAU",
+        "elections_participated": 11,
+        "matches": 10,
+        "misses": 1,
+        "match_rate": 90.9,
+        "break_years": [
+          "1979"
+        ],
+        "break_details": [
+          "1979: voted UWP (national: SLP)"
+        ],
+        "history": [
+          {
+            "year": "1979",
+            "constituency_winner": "UWP",
+            "national_winner": "SLP",
+            "matched": false,
+            "votes": 1706
+          },
+          {
+            "year": "1982",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2213
+          },
+          {
+            "year": "1987_apr6",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2078
+          },
+          {
+            "year": "1987_apr30",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2126
+          },
+          {
+            "year": "1992",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2390
+          },
+          {
+            "year": "1997",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3060
+          },
+          {
+            "year": "2001",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2307
+          },
+          {
+            "year": "2006",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2802
+          },
+          {
+            "year": "2011",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2947
+          },
+          {
+            "year": "2016",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 3788
+          },
+          {
+            "year": "2021",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3245
+          }
+        ]
+      },
+      {
+        "constituency": "CASTRIES NORTH",
+        "elections_participated": 11,
+        "matches": 10,
+        "misses": 1,
+        "match_rate": 90.9,
+        "break_years": [
+          "2021"
+        ],
+        "break_details": [
+          "2021: voted IND (national: SLP)"
+        ],
+        "history": [
+          {
+            "year": "1979",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3207
+          },
+          {
+            "year": "1982",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2803
+          },
+          {
+            "year": "1987_apr6",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2411
+          },
+          {
+            "year": "1987_apr30",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2731
+          },
+          {
+            "year": "1992",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 3511
+          },
+          {
+            "year": "1997",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3960
+          },
+          {
+            "year": "2001",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 1841
+          },
+          {
+            "year": "2006",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2947
+          },
+          {
+            "year": "2011",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2189
+          },
+          {
+            "year": "2016",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 3774
+          },
+          {
+            "year": "2021",
+            "constituency_winner": "IND",
+            "national_winner": "SLP",
+            "matched": false,
+            "votes": 3674
+          }
+        ]
+      },
+      {
+        "constituency": "CASTRIES SOUTH EAST",
+        "elections_participated": 11,
+        "matches": 10,
+        "misses": 1,
+        "match_rate": 90.9,
+        "break_years": [
+          "2011"
+        ],
+        "break_details": [
+          "2011: voted UWP (national: SLP)"
+        ],
+        "history": [
+          {
+            "year": "1979",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2081
+          },
+          {
+            "year": "1982",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 1838
+          },
+          {
+            "year": "1987_apr6",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2004
+          },
+          {
+            "year": "1987_apr30",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2160
+          },
+          {
+            "year": "1992",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2717
+          },
+          {
+            "year": "1997",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3870
+          },
+          {
+            "year": "2001",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2805
+          },
+          {
+            "year": "2006",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 3227
+          },
+          {
+            "year": "2011",
+            "constituency_winner": "UWP",
+            "national_winner": "SLP",
+            "matched": false,
+            "votes": 3518
+          },
+          {
+            "year": "2016",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 4325
+          },
+          {
+            "year": "2021",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3978
+          }
+        ]
+      },
+      {
+        "constituency": "ANSE-LA-RAYE/CANARIES",
+        "elections_participated": 11,
+        "matches": 9,
+        "misses": 2,
+        "match_rate": 81.8,
+        "break_years": [
+          "1987_apr6",
+          "1987_apr30"
+        ],
+        "break_details": [
+          "1987_apr6: voted SLP (national: UWP)",
+          "1987_apr30: voted SLP (national: UWP)"
+        ],
+        "history": [
+          {
+            "year": "1979",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 1606
+          },
+          {
+            "year": "1982",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 1656
+          },
+          {
+            "year": "1987_apr6",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 1532
+          },
+          {
+            "year": "1987_apr30",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 1747
+          },
+          {
+            "year": "1992",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2107
+          },
+          {
+            "year": "1997",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2813
+          },
+          {
+            "year": "2001",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2061
+          },
+          {
+            "year": "2006",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2132
+          },
+          {
+            "year": "2011",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2354
+          },
+          {
+            "year": "2016",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2472
+          },
+          {
+            "year": "2021",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2468
+          }
+        ]
+      },
+      {
+        "constituency": "CASTRIES EAST",
+        "elections_participated": 11,
+        "matches": 9,
+        "misses": 2,
+        "match_rate": 81.8,
+        "break_years": [
+          "2006",
+          "2016"
+        ],
+        "break_details": [
+          "2006: voted SLP (national: UWP)",
+          "2016: voted SLP (national: UWP)"
+        ],
+        "history": [
+          {
+            "year": "1979",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2730
+          },
+          {
+            "year": "1982",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2907
+          },
+          {
+            "year": "1987_apr6",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2481
+          },
+          {
+            "year": "1987_apr30",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2692
+          },
+          {
+            "year": "1992",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 3050
+          },
+          {
+            "year": "1997",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 4420
+          },
+          {
+            "year": "2001",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2926
+          },
+          {
+            "year": "2006",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 2820
+          },
+          {
+            "year": "2011",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3224
+          },
+          {
+            "year": "2016",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 2901
+          },
+          {
+            "year": "2021",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3700
+          }
+        ]
+      },
+      {
+        "constituency": "GROS ISLET",
+        "elections_participated": 11,
+        "matches": 9,
+        "misses": 2,
+        "match_rate": 81.8,
+        "break_years": [
+          "1987_apr30",
+          "1992"
+        ],
+        "break_details": [
+          "1987_apr30: voted SLP (national: UWP)",
+          "1992: voted SLP (national: UWP)"
+        ],
+        "history": [
+          {
+            "year": "1979",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 1553
+          },
+          {
+            "year": "1982",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 1558
+          },
+          {
+            "year": "1987_apr6",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 1694
+          },
+          {
+            "year": "1987_apr30",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 2302
+          },
+          {
+            "year": "1992",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 2715
+          },
+          {
+            "year": "1997",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3989
+          },
+          {
+            "year": "2001",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 3216
+          },
+          {
+            "year": "2006",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 5314
+          },
+          {
+            "year": "2011",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 5242
+          },
+          {
+            "year": "2016",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 6334
+          },
+          {
+            "year": "2021",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 7077
+          }
+        ]
+      },
+      {
+        "constituency": "CHOISEUL",
+        "elections_participated": 10,
+        "matches": 8,
+        "misses": 2,
+        "match_rate": 80.0,
+        "break_years": [
+          "1987_apr6",
+          "2021"
+        ],
+        "break_details": [
+          "1987_apr6: voted SLP (national: UWP)",
+          "2021: voted UWP (national: SLP)"
+        ],
+        "history": [
+          {
+            "year": "1979",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 1683
+          },
+          {
+            "year": "1982",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 1602
+          },
+          {
+            "year": "1987_apr6",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 1831
+          },
+          {
+            "year": "1992",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2509
+          },
+          {
+            "year": "1997",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2818
+          },
+          {
+            "year": "2001",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2209
+          },
+          {
+            "year": "2006",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2586
+          },
+          {
+            "year": "2011",
+            "constituency_winner": "SLP",
+            "national_winner": "SLP",
+            "matched": true,
+            "votes": 2789
+          },
+          {
+            "year": "2016",
+            "constituency_winner": "UWP",
+            "national_winner": "UWP",
+            "matched": true,
+            "votes": 2973
+          },
+          {
+            "year": "2021",
+            "constituency_winner": "UWP",
+            "national_winner": "SLP",
+            "matched": false,
+            "votes": 2846
+          }
+        ]
+      },
+      {
+        "constituency": "CHOISUEL",
+        "elections_participated": 1,
+        "matches": 0,
+        "misses": 1,
+        "match_rate": 0.0,
+        "break_years": [
+          "1987_apr30"
+        ],
+        "break_details": [
+          "1987_apr30: voted SLP (national: UWP)"
+        ],
+        "history": [
+          {
+            "year": "1987_apr30",
+            "constituency_winner": "SLP",
+            "national_winner": "UWP",
+            "matched": false,
+            "votes": 2127
+          }
+        ]
+      }
+    ],
+    "total_elections": 11
+  }
+}
