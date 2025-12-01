@@ -392,7 +392,17 @@ def format_console_output(
     reporting_pct = national.get('reporting_pct', 0)
     live_total = national.get('live_total', 0)
     estimated_total = national.get('estimated_total', 0)
+    baseline_total = national.get('baseline_total', 0)
     lines.append(f"Total Votes Reported: {live_total:,} / ~{estimated_total:,} ({reporting_pct}%)")
+
+    # Turnout comparison vs baseline
+    if baseline_total > 0 and reporting_pct > 0:
+        # Project current turnout to 100% and compare to baseline
+        projected_total = live_total / (reporting_pct / 100) if reporting_pct > 0 else 0
+        turnout_change = ((projected_total - baseline_total) / baseline_total) * 100
+        direction = "UP" if turnout_change > 0 else "DOWN"
+        turnout_str = f"TURNOUT: {direction} {turnout_change:+.1f}% vs {baseline_year} (projected {projected_total:,.0f} total)"
+        lines.append(turnout_str)
     lines.append("")
 
     # Baseline vs Live comparison
