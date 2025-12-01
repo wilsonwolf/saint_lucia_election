@@ -6,20 +6,37 @@ Historical analysis of Saint Lucia elections since independence, with the goal o
 
 ```
 saint_lucia_election/
-├── data/                          # Election data JSON files
-│   ├── summary_results/           # Summary results by party
-│   │   └── *_summary_results.json
-│   ├── vote_distribution/         # Vote distribution by constituency
-│   │   └── *_vote_distribution.json
-│   ├── constituency_maps/         # Constituency mapping data
-│   │   └── saint_lucia_constituencies.json
-│   └── election_night_results/    # Election night results with polling division breakdowns
-│       └── election_results_*.json
-├── analysis/                      # Analysis scripts and notebooks
-├── .venv/                        # Virtual environment (managed by uv)
-├── pyproject.toml                # Project configuration
-├── main.py                       # Main analysis script
-└── scrape_constituency_map.py    # Script to scrape constituency maps
+├── data/                              # Election data JSON files
+│   ├── summary_results/               # Summary results by party
+│   ├── vote_distribution/             # Vote distribution by constituency
+│   ├── constituency_maps/             # Constituency mapping data
+│   ├── election_night_results/        # Historical election night results
+│   ├── swing_thresholds/              # Baseline thresholds for flip detection
+│   ├── live_election_results/         # Live scraped results (gitignored)
+│   └── granular_snapshots/            # Ballot box level snapshots (gitignored)
+│
+├── election_night_monitoring/         # Real-time election monitoring system
+│   ├── orchestrator.py                # Main entry point - coordinates all monitoring
+│   ├── turnout_model.py               # Turnout-based flip prediction model
+│   ├── monitor_live_swings.py         # Console-based live monitoring
+│   ├── generate_swing_charts.py       # Swing analysis chart generation
+│   ├── scrape_live_results.py         # Live results scraper
+│   ├── scrape_results_slu.py          # Primary source scraper
+│   ├── scrape_granular_results.py     # Granular/fallback scraper
+│   ├── alerts.py                      # Desktop/sound notifications
+│   ├── data_reconciler.py             # Multi-source data validation
+│   ├── test_backtest.py               # Backtesting framework
+│   └── README.md                      # Detailed monitoring documentation
+│
+├── scrapers/                          # Historical data scrapers
+│   └── scrape_election_summary_results.py
+│
+├── analysis/                          # Generated analysis output (gitignored)
+├── main.py                            # Main historical analysis script
+├── swing_utils.py                     # Shared swing calculation utilities
+├── generate_swing_thresholds.py       # Generate baseline thresholds
+├── scrape_constituency_map.py         # Constituency mapping scraper
+└── pyproject.toml                     # Project configuration
 ```
 
 ## Setup
@@ -125,4 +142,32 @@ The script will:
 3. Save the results to `data/election_night_results/election_results_{year}.json`
 
 **Note:** These results contain polling division-level data, which is more granular than constituency-level summaries.
+
+## Election Night Monitoring
+
+The `election_night_monitoring/` folder contains a complete real-time monitoring system for election night with turnout-based flip prediction.
+
+### Quick Start (Election Night)
+
+```bash
+source .venv/bin/activate
+python election_night_monitoring/orchestrator.py --interval 300
+```
+
+The orchestrator automatically:
+1. Scrapes from multiple sources with fallback (PRIMARY → SECONDARY → GRANULAR)
+2. Generates swing analysis charts
+3. Runs the turnout model with flip predictions
+4. Sends desktop/sound alerts on state changes
+5. Saves granular snapshots for archive
+
+### Turnout Model
+
+The system uses a turnout-based projection model that:
+- Projects final results under two scenarios (Same as 2021 / Trend-adjusted)
+- Classifies seats as SURE_FLIP, WATCH, or SAFE
+- Uses dynamic thresholds based on % of votes reported
+- Achieved 100% accuracy in backtesting at 50%+ reporting
+
+See `election_night_monitoring/README.md` for detailed documentation.
 
