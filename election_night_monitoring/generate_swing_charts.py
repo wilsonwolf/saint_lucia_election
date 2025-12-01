@@ -15,6 +15,7 @@ Usage:
 
 import argparse
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -47,6 +48,83 @@ COLOR_UWP = '#4ECDC4'  # Teal for UWP
 COLOR_POSITIVE = '#2ECC71'  # Green for positive swing (defending)
 COLOR_NEGATIVE = '#E74C3C'  # Red for negative swing (opposition)
 COLOR_NEUTRAL = '#95A5A6'  # Gray for neutral/unknown
+
+# Constituency mapping for community names
+CONSTITUENCY_MAP_PATH = Path(__file__).parent.parent / "data" / "constituency_maps" / "saint_lucia_constituencies.json"
+_constituency_map_cache = None
+
+
+def load_constituency_map() -> List[Dict]:
+    """Load constituency mapping data (cached)."""
+    global _constituency_map_cache
+    if _constituency_map_cache is None:
+        if CONSTITUENCY_MAP_PATH.exists():
+            with open(CONSTITUENCY_MAP_PATH, 'r', encoding='utf-8') as f:
+                _constituency_map_cache = json.load(f)
+        else:
+            _constituency_map_cache = []
+    return _constituency_map_cache
+
+
+def get_division_community_name(constituency_name: str, division_code: str, max_chars: int = 25) -> str:
+    """
+    Get community name(s) for a polling division.
+
+    Args:
+        constituency_name: Name of the constituency
+        division_code: Polling division code (e.g., "A1(a)")
+        max_chars: Maximum characters for the label
+
+    Returns:
+        Community name string, truncated if needed
+    """
+    const_map = load_constituency_map()
+    if not const_map:
+        return division_code
+
+    # Normalize for matching - strip suffix like " - (A)" from map names
+    const_norm = normalize_constituency_name(constituency_name)
+    div_norm = normalize_polling_division_name(division_code)
+
+    # Find matching constituency
+    for const in const_map:
+        map_const_name = const.get('constituency', '')
+        # Strip the suffix like " – (A)" or " (B)" for matching and normalize spaces
+        map_const_clean = re.sub(r'\s*[\(\[][A-Z][\)\]]\s*$', '', map_const_name)  # Remove (A), [B], etc. at end
+        map_const_clean = re.sub(r'\s*[–-]\s*[\(\[][A-Z][\)\]]\s*$', '', map_const_clean)  # Remove " – (A)" at end
+        map_const_clean = map_const_clean.replace(' / ', '/').strip()  # Normalize slashes
+        map_const_clean = map_const_clean.replace('-', ' ')  # Normalize hyphens to spaces
+        map_const_norm = normalize_constituency_name(map_const_clean)
+        const_norm_clean = const_norm.replace(' ', '').replace('-', '')  # Remove all spaces/hyphens
+        map_norm_clean = map_const_norm.replace(' ', '').replace('-', '')
+        if map_norm_clean == const_norm_clean or const_norm_clean in map_norm_clean:
+            # Find matching division - try exact match first, then base match (e.g., H1 for H1(a))
+            for div in const.get('polling_divisions', []):
+                div_name = div.get('division', '')
+                map_div_norm = normalize_polling_division_name(div_name)
+                # Try exact match or base match (H1 matches H1A, H1B, etc.)
+                if map_div_norm == div_norm or (len(map_div_norm) < len(div_norm) and div_norm.startswith(map_div_norm)):
+                    communities = div.get('communities', [])
+                    if communities:
+                        # Filter out header rows
+                        communities = [c for c in communities if c.upper() != 'COMMUNITIES']
+                        if communities:
+                            # Join first 2-3 communities
+                            if len(communities) == 1:
+                                label = communities[0]
+                            elif len(communities) == 2:
+                                label = f"{communities[0]}, {communities[1]}"
+                            else:
+                                label = f"{communities[0]}, {communities[1]}..."
+
+                            # Truncate if needed
+                            if len(label) > max_chars:
+                                label = label[:max_chars-3] + "..."
+                            return label
+            break
+
+    # Fallback to division code
+    return division_code
 
 
 def load_live_results(results_path: str) -> List[Dict]:
@@ -278,8 +356,9 @@ def create_constituency_chart(
         key=lambda x: x[1].get('swing_pct', 0)
     )
 
-    # Prepare data
-    div_names = [d[0] for d in sorted_divs]
+    # Prepare data - use community names instead of division codes
+    div_codes = [d[0] for d in sorted_divs]
+    div_names = [get_division_community_name(const_name, code, max_chars=30) for code in div_codes]
     swings = [d[1].get('swing_pct', 0) for d in sorted_divs]
     reported = [d[1].get('reported', False) for d in sorted_divs]
     meaningful = [d[1].get('is_meaningful', False) for d in sorted_divs]
