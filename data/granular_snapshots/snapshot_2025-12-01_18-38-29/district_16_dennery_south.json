@@ -1,0 +1,311 @@
+{
+  "district_id": 16,
+  "constituency": "Dennery South",
+  "candidates": [
+    {
+      "name": "EDWARD",
+      "party": "SLP"
+    },
+    {
+      "name": "FULGENCE",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "P1": {
+      "name": "GRANDE RIVIERE SENIOR PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-D",
+          "electors": 363,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "E-H",
+          "electors": 432,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "I-M",
+          "electors": 413,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "N-Z",
+          "electors": 457,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1665,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1665,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "P2": {
+      "name": "RICHFOND INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-D",
+          "electors": 381,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "E-JON",
+          "electors": 527,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JOS-Z",
+          "electors": 570,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1478,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1478,
+      "buckets_total": 3,
+      "buckets_counted": 0
+    },
+    "P3": {
+      "name": "DERNIERE RIVIERE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 467,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-FO",
+          "electors": 425,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "FR-JON",
+          "electors": 439,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JOS-P",
+          "electors": 444,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "R-Z",
+          "electors": 444,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2219,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2219,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    },
+    "P4": {
+      "name": "LA RESSOURCE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-F",
+          "electors": 422,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "G-J",
+          "electors": 340,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "K-Z",
+          "electors": 430,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1192,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1192,
+      "buckets_total": 3,
+      "buckets_counted": 0
+    },
+    "P5": {
+      "name": "AU LEON COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 341,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-G",
+          "electors": 460,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-L",
+          "electors": 432,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-R",
+          "electors": 528,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 475,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2236,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2236,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 8790,
+  "total_votes_cast": 0,
+  "total_polling_divisions": 5,
+  "polling_divisions_counted": 0,
+  "polling_divisions_remaining": 5,
+  "counted_divisions": [],
+  "uncounted_divisions": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5"
+  ],
+  "total_ballot_boxes": 20,
+  "ballot_boxes_counted": 0,
+  "ballot_boxes_remaining": 20,
+  "counted_ballot_boxes": [],
+  "uncounted_ballot_boxes": [
+    "P1:A-D",
+    "P1:E-H",
+    "P1:I-M",
+    "P1:N-Z",
+    "P2:A-D",
+    "P2:E-JON",
+    "P2:JOS-Z",
+    "P3:A-C",
+    "P3:D-FO",
+    "P3:FR-JON",
+    "P3:JOS-P",
+    "P3:R-Z",
+    "P4:A-F",
+    "P4:G-J",
+    "P4:K-Z",
+    "P5:A-C",
+    "P5:D-G",
+    "P5:H-L",
+    "P5:M-R",
+    "P5:S-Z"
+  ],
+  "votes_remaining": 8790
+}

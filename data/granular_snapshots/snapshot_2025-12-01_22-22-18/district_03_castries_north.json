@@ -1,0 +1,561 @@
+{
+  "district_id": 3,
+  "constituency": "Castries North",
+  "candidates": [
+    {
+      "name": "EDWIN",
+      "party": "IND"
+    },
+    {
+      "name": "FEVERIER",
+      "party": "UWP"
+    },
+    {
+      "name": "KING",
+      "party": "IND"
+    },
+    {
+      "name": "MATTHEW",
+      "party": "NCP"
+    },
+    {
+      "name": "STIEDE",
+      "party": "IND"
+    }
+  ],
+  "divisions": {
+    "C1(a)": {
+      "name": "ST. MARY’S COLLEGE AUDITORIUM, VIGIE",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 249,
+          "votes": [
+            0,
+            67,
+            45,
+            0,
+            1
+          ],
+          "rejected": 1,
+          "votes_cast": 114
+        }
+      ],
+      "electors": 249,
+      "votes_cast": 114,
+      "is_counted": true,
+      "votes_remaining": 135,
+      "buckets_total": 1,
+      "buckets_counted": 1
+    },
+    "C1(b)": {
+      "name": "CASTRIES COMPREHENSIVE SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 500,
+          "votes": [
+            1,
+            125,
+            220,
+            4,
+            0
+          ],
+          "rejected": 4,
+          "votes_cast": 354
+        },
+        {
+          "range": "D-G",
+          "electors": 430,
+          "votes": [
+            0,
+            63,
+            95,
+            0,
+            0
+          ],
+          "rejected": 2,
+          "votes_cast": 160
+        },
+        {
+          "range": "H-K",
+          "electors": 405,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "L-O",
+          "electors": 400,
+          "votes": [
+            0,
+            66,
+            101,
+            1,
+            1
+          ],
+          "rejected": 0,
+          "votes_cast": 169
+        },
+        {
+          "range": "P-Z",
+          "electors": 542,
+          "votes": [
+            1,
+            63,
+            111,
+            0,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 176
+        }
+      ],
+      "electors": 2277,
+      "votes_cast": 859,
+      "is_counted": true,
+      "votes_remaining": 1418,
+      "buckets_total": 5,
+      "buckets_counted": 4
+    },
+    "C1(c)": {
+      "name": "WILDLIFE CONSERVATION CENTRE (UNION MINI ZOO)",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 264,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 264,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 264,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "C2": {
+      "name": "PATRICIA JAMES SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-BO",
+          "electors": 453,
+          "votes": [
+            0,
+            48,
+            104,
+            0,
+            5
+          ],
+          "rejected": 4,
+          "votes_cast": 161
+        },
+        {
+          "range": "BR-DA",
+          "electors": 413,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "DE-FO",
+          "electors": 480,
+          "votes": [
+            0,
+            63,
+            118,
+            2,
+            2
+          ],
+          "rejected": 3,
+          "votes_cast": 188
+        },
+        {
+          "range": "FR-JI",
+          "electors": 464,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JN-LE",
+          "electors": 443,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "LI-O",
+          "electors": 477,
+          "votes": [
+            0,
+            48,
+            108,
+            0,
+            6
+          ],
+          "rejected": 2,
+          "votes_cast": 164
+        },
+        {
+          "range": "P-SM",
+          "electors": 448,
+          "votes": [
+            0,
+            48,
+            97,
+            0,
+            1
+          ],
+          "rejected": 0,
+          "votes_cast": 146
+        },
+        {
+          "range": "SN-Z",
+          "electors": 465,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 3643,
+      "votes_cast": 659,
+      "is_counted": true,
+      "votes_remaining": 2984,
+      "buckets_total": 8,
+      "buckets_counted": 4
+    },
+    "C3(a)": {
+      "name": "VIDE BOUTEILLE SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 407,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 407,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 407,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "C3(b)": {
+      "name": "CARELLIE HUMAN RESOURCE CENTRE",
+      "buckets": [
+        {
+          "range": "A-D",
+          "electors": 460,
+          "votes": [
+            0,
+            92,
+            145,
+            3,
+            1
+          ],
+          "rejected": 3,
+          "votes_cast": 244
+        },
+        {
+          "range": "E-I",
+          "electors": 366,
+          "votes": [
+            0,
+            64,
+            113,
+            0,
+            0
+          ],
+          "rejected": 2,
+          "votes_cast": 179
+        },
+        {
+          "range": "J-O",
+          "electors": 443,
+          "votes": [
+            0,
+            76,
+            148,
+            2,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 227
+        },
+        {
+          "range": "P-Z",
+          "electors": 434,
+          "votes": [
+            0,
+            77,
+            151,
+            1,
+            1
+          ],
+          "rejected": 0,
+          "votes_cast": 230
+        }
+      ],
+      "electors": 1703,
+      "votes_cast": 880,
+      "is_counted": true,
+      "votes_remaining": 823,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    },
+    "C4": {
+      "name": "MORNE DU DON SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 353,
+          "votes": [
+            0,
+            38,
+            106,
+            1,
+            1
+          ],
+          "rejected": 0,
+          "votes_cast": 146
+        },
+        {
+          "range": "C-D",
+          "electors": 365,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "E-F",
+          "electors": 345,
+          "votes": [
+            3,
+            33,
+            103,
+            0,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 140
+        },
+        {
+          "range": "G-JN",
+          "electors": 462,
+          "votes": [
+            0,
+            56,
+            128,
+            2,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 186
+        },
+        {
+          "range": "JO-LE",
+          "electors": 414,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "LI-Q",
+          "electors": 453,
+          "votes": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "R-Z",
+          "electors": 554,
+          "votes": [
+            2,
+            76,
+            130,
+            1,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 210
+        }
+      ],
+      "electors": 2946,
+      "votes_cast": 682,
+      "is_counted": true,
+      "votes_remaining": 2264,
+      "buckets_total": 7,
+      "buckets_counted": 4
+    },
+    "C5": {
+      "name": "ST.JOSEPH’S CONVENT PRE-SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 382,
+          "votes": [
+            0,
+            44,
+            94,
+            0,
+            0
+          ],
+          "rejected": 3,
+          "votes_cast": 141
+        },
+        {
+          "range": "F-M",
+          "electors": 439,
+          "votes": [
+            0,
+            53,
+            87,
+            1,
+            0
+          ],
+          "rejected": 10,
+          "votes_cast": 151
+        },
+        {
+          "range": "N-Z",
+          "electors": 300,
+          "votes": [
+            0,
+            36,
+            73,
+            1,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 111
+        }
+      ],
+      "electors": 1121,
+      "votes_cast": 403,
+      "is_counted": true,
+      "votes_remaining": 718,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    }
+  },
+  "total_electors": 12610,
+  "total_votes_cast": 3597,
+  "total_polling_divisions": 8,
+  "polling_divisions_counted": 6,
+  "polling_divisions_remaining": 2,
+  "counted_divisions": [
+    "C1(a)",
+    "C1(b)",
+    "C2",
+    "C3(b)",
+    "C4",
+    "C5"
+  ],
+  "uncounted_divisions": [
+    "C1(c)",
+    "C3(a)"
+  ],
+  "total_ballot_boxes": 30,
+  "ballot_boxes_counted": 20,
+  "ballot_boxes_remaining": 10,
+  "counted_ballot_boxes": [
+    "C1(a):A-Z",
+    "C1(b):A-C",
+    "C1(b):D-G",
+    "C1(b):L-O",
+    "C1(b):P-Z",
+    "C2:A-BO",
+    "C2:DE-FO",
+    "C2:LI-O",
+    "C2:P-SM",
+    "C3(b):A-D",
+    "C3(b):E-I",
+    "C3(b):J-O",
+    "C3(b):P-Z",
+    "C4:A-B",
+    "C4:E-F",
+    "C4:G-JN",
+    "C4:R-Z",
+    "C5:A-E",
+    "C5:F-M",
+    "C5:N-Z"
+  ],
+  "uncounted_ballot_boxes": [
+    "C1(b):H-K",
+    "C1(c):A-Z",
+    "C2:BR-DA",
+    "C2:FR-JI",
+    "C2:JN-LE",
+    "C2:SN-Z",
+    "C3(a):A-Z",
+    "C4:C-D",
+    "C4:JO-LE",
+    "C4:LI-Q"
+  ],
+  "votes_remaining": 9013
+}

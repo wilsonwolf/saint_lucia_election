@@ -1,0 +1,269 @@
+{
+  "district_id": 10,
+  "constituency": "Laborie",
+  "candidates": [
+    {
+      "name": "BAPTISTE",
+      "party": "SLP"
+    },
+    {
+      "name": "JN. PIERRE",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "J1": {
+      "name": "AUGIER COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-CHA",
+          "electors": 438,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "CHE-E",
+          "electors": 406,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-I",
+          "electors": 337,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "K-O",
+          "electors": 353,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "P-Z",
+          "electors": 576,
+          "votes": [
+            186,
+            60
+          ],
+          "rejected": 0,
+          "votes_cast": 246
+        }
+      ],
+      "electors": 2110,
+      "votes_cast": 246,
+      "is_counted": true,
+      "votes_remaining": 1864,
+      "buckets_total": 5,
+      "buckets_counted": 1
+    },
+    "J2": {
+      "name": "LABORIE BOYS SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 415,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-I",
+          "electors": 356,
+          "votes": [
+            144,
+            18
+          ],
+          "rejected": 0,
+          "votes_cast": 162
+        },
+        {
+          "range": "J-L",
+          "electors": 371,
+          "votes": [
+            146,
+            21
+          ],
+          "rejected": 1,
+          "votes_cast": 168
+        },
+        {
+          "range": "M-R",
+          "electors": 318,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 332,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1792,
+      "votes_cast": 330,
+      "is_counted": true,
+      "votes_remaining": 1462,
+      "buckets_total": 5,
+      "buckets_counted": 2
+    },
+    "J3": {
+      "name": "LABORIE GIRLS PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 432,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-Z",
+          "electors": 585,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1017,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1017,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "J4": {
+      "name": "LA GRACE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 422,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-Z",
+          "electors": 361,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 783,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 783,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "J5": {
+      "name": "TEASER’S DANCE HALL (BANSE)",
+      "buckets": [
+        {
+          "range": "A-K",
+          "electors": 454,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "L-Z",
+          "electors": 344,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 798,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 798,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 6500,
+  "total_votes_cast": 576,
+  "total_polling_divisions": 5,
+  "polling_divisions_counted": 2,
+  "polling_divisions_remaining": 3,
+  "counted_divisions": [
+    "J1",
+    "J2"
+  ],
+  "uncounted_divisions": [
+    "J3",
+    "J4",
+    "J5"
+  ],
+  "total_ballot_boxes": 16,
+  "ballot_boxes_counted": 3,
+  "ballot_boxes_remaining": 13,
+  "counted_ballot_boxes": [
+    "J1:P-Z",
+    "J2:D-I",
+    "J2:J-L"
+  ],
+  "uncounted_ballot_boxes": [
+    "J1:A-CHA",
+    "J1:CHE-E",
+    "J1:F-I",
+    "J1:K-O",
+    "J2:A-C",
+    "J2:M-R",
+    "J2:S-Z",
+    "J3:A-I",
+    "J3:J-Z",
+    "J4:A-I",
+    "J4:J-Z",
+    "J5:A-K",
+    "J5:L-Z"
+  ],
+  "votes_remaining": 5924
+}

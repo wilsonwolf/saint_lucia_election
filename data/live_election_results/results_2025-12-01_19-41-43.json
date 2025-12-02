@@ -1,0 +1,968 @@
+{
+  "metadata": {
+    "scraped_at": "2025-12-01T19:41:43.439525",
+    "source_type": "PRIMARY",
+    "record_count": 111
+  },
+  "results": [
+    {
+      "district": "Gros Islet",
+      "District": "Gros Islet",
+      "Candidate": "CASIMIR",
+      "Party": "SLP",
+      "A1(a)": "93",
+      "A1(b)": "126",
+      "A1(c)": "",
+      "A1(d)": "",
+      "A2(a)": "",
+      "A2(b)": "",
+      "A3(a)": "",
+      "A3(b)": "119",
+      "A4(a)": "55",
+      "A4(b)": "213",
+      "Total": "606",
+      "% Total": "65.37%"
+    },
+    {
+      "district": "Gros Islet",
+      "District": "",
+      "Candidate": "JOHNSON",
+      "Party": "UWP",
+      "A1(a)": "42",
+      "A1(b)": "70",
+      "A1(c)": "",
+      "A1(d)": "",
+      "A2(a)": "",
+      "A2(b)": "",
+      "A3(a)": "",
+      "A3(b)": "83",
+      "A4(a)": "31",
+      "A4(b)": "95",
+      "Total": "321",
+      "% Total": "34.63%"
+    },
+    {
+      "district": "Gros Islet",
+      "summary_label": "No. of Electors",
+      "summary_value": "24831"
+    },
+    {
+      "district": "Gros Islet",
+      "summary_label": "Votes Cast",
+      "summary_value": "927"
+    },
+    {
+      "district": "Gros Islet",
+      "summary_label": "Turnout %",
+      "summary_value": "3.73"
+    },
+    {
+      "district": "Gros Islet",
+      "summary_label": "Rejected",
+      "summary_value": "38"
+    },
+    {
+      "district": "Babonneau",
+      "District": "Babonneau",
+      "Candidate": "ESTAPHANE",
+      "Party": "SLP",
+      "B1(a)": "127",
+      "B1(b)": "50",
+      "B1(c)": "",
+      "B2(a)": "",
+      "B2(b)": "",
+      "B3": "132",
+      "B4": "123",
+      "B5(a)": "555",
+      "B5(b)": "",
+      "B6(a)": "107",
+      "B6(b)": "",
+      "Total": "1094",
+      "% Total": "66.67%"
+    },
+    {
+      "district": "Babonneau",
+      "District": "",
+      "Candidate": "PREVILLE",
+      "Party": "UWP",
+      "B1(a)": "98",
+      "B1(b)": "27",
+      "B1(c)": "",
+      "B2(a)": "",
+      "B2(b)": "",
+      "B3": "66",
+      "B4": "37",
+      "B5(a)": "242",
+      "B5(b)": "",
+      "B6(a)": "77",
+      "B6(b)": "",
+      "Total": "547",
+      "% Total": "33.33%"
+    },
+    {
+      "district": "Babonneau",
+      "summary_label": "No. of Electors",
+      "summary_value": "12905"
+    },
+    {
+      "district": "Babonneau",
+      "summary_label": "Votes Cast",
+      "summary_value": "1641"
+    },
+    {
+      "district": "Babonneau",
+      "summary_label": "Turnout %",
+      "summary_value": "12.72"
+    },
+    {
+      "district": "Babonneau",
+      "summary_label": "Rejected",
+      "summary_value": "13"
+    },
+    {
+      "district": "Castries North",
+      "District": "Castries North",
+      "Candidate": "EDWIN",
+      "Party": "IND",
+      "C1(a)": "",
+      "C1(b)": "1",
+      "C1(c)": "",
+      "C2": "1",
+      "C3(a)": "",
+      "C3(b)": "",
+      "C4": "3",
+      "C5": "0",
+      "Total": "5",
+      "% Total": "0.37%"
+    },
+    {
+      "district": "Castries North",
+      "District": "",
+      "Candidate": "FEVERIER",
+      "Party": "UWP",
+      "C1(a)": "",
+      "C1(b)": "126",
+      "C1(c)": "",
+      "C2": "158",
+      "C3(a)": "",
+      "C3(b)": "",
+      "C4": "121",
+      "C5": "36",
+      "Total": "441",
+      "% Total": "32.28%"
+    },
+    {
+      "district": "Castries North",
+      "District": "",
+      "Candidate": "KING",
+      "Party": "IND",
+      "C1(a)": "",
+      "C1(b)": "206",
+      "C1(c)": "",
+      "C2": "299",
+      "C3(a)": "",
+      "C3(b)": "",
+      "C4": "325",
+      "C5": "73",
+      "Total": "903",
+      "% Total": "66.11%"
+    },
+    {
+      "district": "Castries North",
+      "District": "",
+      "Candidate": "MATTHEW",
+      "Party": "NCP",
+      "C1(a)": "",
+      "C1(b)": "0",
+      "C1(c)": "",
+      "C2": "0",
+      "C3(a)": "",
+      "C3(b)": "",
+      "C4": "2",
+      "C5": "1",
+      "Total": "3",
+      "% Total": "0.22%"
+    },
+    {
+      "district": "Castries North",
+      "District": "",
+      "Candidate": "STIEDE",
+      "Party": "IND",
+      "C1(a)": "",
+      "C1(b)": "0",
+      "C1(c)": "",
+      "C2": "13",
+      "C3(a)": "",
+      "C3(b)": "",
+      "C4": "1",
+      "C5": "0",
+      "Total": "14",
+      "% Total": "1.02%"
+    },
+    {
+      "district": "Castries North",
+      "summary_label": "No. of Electors",
+      "summary_value": "12706"
+    },
+    {
+      "district": "Castries North",
+      "summary_label": "Votes Cast",
+      "summary_value": "1366"
+    },
+    {
+      "district": "Castries North",
+      "summary_label": "Turnout %",
+      "summary_value": "10.75"
+    },
+    {
+      "district": "Castries North",
+      "summary_label": "Rejected",
+      "summary_value": "12"
+    },
+    {
+      "district": "Castries East",
+      "District": "Castries East",
+      "Candidate": "CHICOT",
+      "Party": "UWP",
+      "D1": "",
+      "D2": "17",
+      "D3": "",
+      "D4": "",
+      "D5(a)": "",
+      "D5(b)": "66",
+      "D6": "",
+      "Total": "83",
+      "% Total": "17.81%"
+    },
+    {
+      "district": "Castries East",
+      "District": "",
+      "Candidate": "PIERRE",
+      "Party": "SLP",
+      "D1": "",
+      "D2": "105",
+      "D3": "",
+      "D4": "",
+      "D5(a)": "",
+      "D5(b)": "278",
+      "D6": "",
+      "Total": "383",
+      "% Total": "82.19%"
+    },
+    {
+      "district": "Castries East",
+      "summary_label": "No. of Electors",
+      "summary_value": "12861"
+    },
+    {
+      "district": "Castries East",
+      "summary_label": "Votes Cast",
+      "summary_value": "466"
+    },
+    {
+      "district": "Castries East",
+      "summary_label": "Turnout %",
+      "summary_value": "3.62"
+    },
+    {
+      "district": "Castries East",
+      "summary_label": "Rejected",
+      "summary_value": "20"
+    },
+    {
+      "district": "Castries Central",
+      "District": "Castries Central",
+      "Candidate": "CLARKE",
+      "Party": "UWP",
+      "E1": "60",
+      "E2": "96",
+      "E3": "",
+      "E4": "",
+      "E5": "289",
+      "E6(a)": "",
+      "E6(b)": "",
+      "Total": "445",
+      "% Total": "32.58%"
+    },
+    {
+      "district": "Castries Central",
+      "District": "",
+      "Candidate": "FELIX",
+      "Party": "IND",
+      "E1": "7",
+      "E2": "10",
+      "E3": "",
+      "E4": "",
+      "E5": "64",
+      "E6(a)": "",
+      "E6(b)": "",
+      "Total": "81",
+      "% Total": "5.93%"
+    },
+    {
+      "district": "Castries Central",
+      "District": "",
+      "Candidate": "FREDERICK",
+      "Party": "IND",
+      "E1": "66",
+      "E2": "149",
+      "E3": "",
+      "E4": "",
+      "E5": "619",
+      "E6(a)": "",
+      "E6(b)": "",
+      "Total": "834",
+      "% Total": "61.05%"
+    },
+    {
+      "district": "Castries Central",
+      "District": "",
+      "Candidate": "MATTHEW",
+      "Party": "NCP",
+      "E1": "2",
+      "E2": "3",
+      "E3": "",
+      "E4": "",
+      "E5": "1",
+      "E6(a)": "",
+      "E6(b)": "",
+      "Total": "6",
+      "% Total": "0.44%"
+    },
+    {
+      "district": "Castries Central",
+      "summary_label": "No. of Electors",
+      "summary_value": "9104"
+    },
+    {
+      "district": "Castries Central",
+      "summary_label": "Votes Cast",
+      "summary_value": "1366"
+    },
+    {
+      "district": "Castries Central",
+      "summary_label": "Turnout %",
+      "summary_value": "15.00"
+    },
+    {
+      "district": "Castries Central",
+      "summary_label": "Rejected",
+      "summary_value": "16"
+    },
+    {
+      "district": "Castries South",
+      "District": "Castries South",
+      "Candidate": "DESCARTES",
+      "Party": "UWP",
+      "F1": "60",
+      "F2(a)": "68",
+      "F2(b)": "58",
+      "F3": "186",
+      "Total": "372",
+      "% Total": "31.47%"
+    },
+    {
+      "district": "Castries South",
+      "District": "",
+      "Candidate": "HILAIRE",
+      "Party": "SLP",
+      "F1": "123",
+      "F2(a)": "145",
+      "F2(b)": "122",
+      "F3": "410",
+      "Total": "800",
+      "% Total": "67.68%"
+    },
+    {
+      "district": "Castries South",
+      "District": "",
+      "Candidate": "HIRD",
+      "Party": "IND",
+      "F1": "0",
+      "F2(a)": "1",
+      "F2(b)": "0",
+      "F3": "9",
+      "Total": "10",
+      "% Total": "0.85%"
+    },
+    {
+      "district": "Castries South",
+      "summary_label": "No. of Electors",
+      "summary_value": "9795"
+    },
+    {
+      "district": "Castries South",
+      "summary_label": "Votes Cast",
+      "summary_value": "1182"
+    },
+    {
+      "district": "Castries South",
+      "summary_label": "Turnout %",
+      "summary_value": "12.07"
+    },
+    {
+      "district": "Castries South",
+      "summary_label": "Rejected",
+      "summary_value": "46"
+    },
+    {
+      "district": "Anse-La-Raye/Canaries",
+      "District": "Anse-La-Raye/Canaries",
+      "Candidate": "FEDEE",
+      "Party": "UWP",
+      "G1": "91",
+      "G2(a)": "59",
+      "G2(b)": "",
+      "G2(c)": "144",
+      "G3": "",
+      "G4": "110",
+      "Total": "404",
+      "% Total": "40.00%"
+    },
+    {
+      "district": "Anse-La-Raye/Canaries",
+      "District": "",
+      "Candidate": "GIRARD",
+      "Party": "SLP",
+      "G1": "89",
+      "G2(a)": "55",
+      "G2(b)": "",
+      "G2(c)": "198",
+      "G3": "",
+      "G4": "264",
+      "Total": "606",
+      "% Total": "60.00%"
+    },
+    {
+      "district": "Anse-La-Raye/Canaries",
+      "summary_label": "No. of Electors",
+      "summary_value": "8940"
+    },
+    {
+      "district": "Anse-La-Raye/Canaries",
+      "summary_label": "Votes Cast",
+      "summary_value": "1010"
+    },
+    {
+      "district": "Anse-La-Raye/Canaries",
+      "summary_label": "Turnout %",
+      "summary_value": "11.30"
+    },
+    {
+      "district": "Anse-La-Raye/Canaries",
+      "summary_label": "Rejected",
+      "summary_value": "18"
+    },
+    {
+      "district": "Soufriere",
+      "District": "Soufriere",
+      "Candidate": "HIPPOLYTE",
+      "Party": "SLP",
+      "H1": "70",
+      "H2": "227",
+      "H3": "346",
+      "H4": "",
+      "H5": "35",
+      "H6": "",
+      "H7": "",
+      "Total": "678",
+      "% Total": "56.50%"
+    },
+    {
+      "district": "Soufriere",
+      "District": "",
+      "Candidate": "STANISLAS",
+      "Party": "UWP",
+      "H1": "91",
+      "H2": "279",
+      "H3": "116",
+      "H4": "",
+      "H5": "36",
+      "H6": "",
+      "H7": "",
+      "Total": "522",
+      "% Total": "43.50%"
+    },
+    {
+      "district": "Soufriere",
+      "summary_label": "No. of Electors",
+      "summary_value": "8532"
+    },
+    {
+      "district": "Soufriere",
+      "summary_label": "Votes Cast",
+      "summary_value": "1200"
+    },
+    {
+      "district": "Soufriere",
+      "summary_label": "Turnout %",
+      "summary_value": "14.06"
+    },
+    {
+      "district": "Soufriere",
+      "summary_label": "Rejected",
+      "summary_value": "17"
+    },
+    {
+      "district": "Choiseul",
+      "District": "Choiseul",
+      "Candidate": "CHARLES",
+      "Party": "SLP",
+      "I1": "166",
+      "I2": "",
+      "I3": "",
+      "I4": "",
+      "I5": "",
+      "I6": "",
+      "I7(a)": "",
+      "I7(b)": "",
+      "I8": "",
+      "I9": "",
+      "Total": "166",
+      "% Total": "38.16%"
+    },
+    {
+      "district": "Choiseul",
+      "District": "",
+      "Candidate": "FELIX",
+      "Party": "UWP",
+      "I1": "269",
+      "I2": "",
+      "I3": "",
+      "I4": "",
+      "I5": "",
+      "I6": "",
+      "I7(a)": "",
+      "I7(b)": "",
+      "I8": "",
+      "I9": "",
+      "Total": "269",
+      "% Total": "61.84%"
+    },
+    {
+      "district": "Choiseul",
+      "summary_label": "No. of Electors",
+      "summary_value": "9539"
+    },
+    {
+      "district": "Choiseul",
+      "summary_label": "Votes Cast",
+      "summary_value": "435"
+    },
+    {
+      "district": "Choiseul",
+      "summary_label": "Turnout %",
+      "summary_value": "4.56"
+    },
+    {
+      "district": "Choiseul",
+      "summary_label": "Rejected",
+      "summary_value": "31"
+    },
+    {
+      "district": "Laborie",
+      "District": "Laborie",
+      "Candidate": "BAPTISTE",
+      "Party": "SLP",
+      "J1": "",
+      "J2": "",
+      "J3": "",
+      "J4": "",
+      "J5": "",
+      "Total": "0",
+      "% Total": "0.00%"
+    },
+    {
+      "district": "Laborie",
+      "District": "",
+      "Candidate": "JN. PIERRE",
+      "Party": "UWP",
+      "J1": "",
+      "J2": "",
+      "J3": "",
+      "J4": "",
+      "J5": "",
+      "Total": "0",
+      "% Total": "0.00%"
+    },
+    {
+      "district": "Laborie",
+      "summary_label": "No. of Electors",
+      "summary_value": "6996"
+    },
+    {
+      "district": "Laborie",
+      "summary_label": "Votes Cast",
+      "summary_value": "0"
+    },
+    {
+      "district": "Laborie",
+      "summary_label": "Turnout %",
+      "summary_value": "0.00"
+    },
+    {
+      "district": "Laborie",
+      "summary_label": "Rejected",
+      "summary_value": "0"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "District": "Vieux-Fort South",
+      "Candidate": "BUTCHER",
+      "Party": "SLP",
+      "K1": "",
+      "K2": "245",
+      "K3": "158",
+      "K4": "241",
+      "Total": "644",
+      "% Total": "72.77%"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "District": "",
+      "Candidate": "CHARLES",
+      "Party": "IND",
+      "K1": "",
+      "K2": "1",
+      "K3": "1",
+      "K4": "0",
+      "Total": "2",
+      "% Total": "0.23%"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "District": "",
+      "Candidate": "JOHANNES - PAUL",
+      "Party": "UWP",
+      "K1": "",
+      "K2": "80",
+      "K3": "53",
+      "K4": "102",
+      "Total": "235",
+      "% Total": "26.55%"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "District": "",
+      "Candidate": "MELCHOIR",
+      "Party": "IND",
+      "K1": "",
+      "K2": "4",
+      "K3": "0",
+      "K4": "0",
+      "Total": "4",
+      "% Total": "0.45%"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "summary_label": "No. of Electors",
+      "summary_value": "9990"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "summary_label": "Votes Cast",
+      "summary_value": "885"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "summary_label": "Turnout %",
+      "summary_value": "8.86"
+    },
+    {
+      "district": "Vieux-Fort South",
+      "summary_label": "Rejected",
+      "summary_value": "6"
+    },
+    {
+      "district": "Vieux-Fort North",
+      "District": "Vieux-Fort North",
+      "Candidate": "JN BAPTISTE",
+      "Party": "SLP",
+      "L1": "",
+      "L2": "254",
+      "L3": "106",
+      "L4": "",
+      "Total": "360",
+      "% Total": "73.77%"
+    },
+    {
+      "district": "Vieux-Fort North",
+      "District": "",
+      "Candidate": "XAVIER",
+      "Party": "UWP",
+      "L1": "",
+      "L2": "105",
+      "L3": "23",
+      "L4": "",
+      "Total": "128",
+      "% Total": "26.23%"
+    },
+    {
+      "district": "Vieux-Fort North",
+      "summary_label": "No. of Electors",
+      "summary_value": "7205"
+    },
+    {
+      "district": "Vieux-Fort North",
+      "summary_label": "Votes Cast",
+      "summary_value": "488"
+    },
+    {
+      "district": "Vieux-Fort North",
+      "summary_label": "Turnout %",
+      "summary_value": "6.77"
+    },
+    {
+      "district": "Vieux-Fort North",
+      "summary_label": "Rejected",
+      "summary_value": "11"
+    },
+    {
+      "district": "Micoud South",
+      "District": "Micoud South",
+      "Candidate": "CHASTANET",
+      "Party": "UWP",
+      "M1": "",
+      "M2(a)": "110",
+      "M2(b)": "",
+      "M3(a)": "",
+      "M3(b)": "",
+      "M3(c)": "",
+      "Total": "110",
+      "% Total": "68.32%"
+    },
+    {
+      "district": "Micoud South",
+      "District": "",
+      "Candidate": "HARRACKSINGH",
+      "Party": "SLP",
+      "M1": "",
+      "M2(a)": "51",
+      "M2(b)": "",
+      "M3(a)": "",
+      "M3(b)": "",
+      "M3(c)": "",
+      "Total": "51",
+      "% Total": "31.68%"
+    },
+    {
+      "district": "Micoud South",
+      "summary_label": "No. of Electors",
+      "summary_value": "7806"
+    },
+    {
+      "district": "Micoud South",
+      "summary_label": "Votes Cast",
+      "summary_value": "161"
+    },
+    {
+      "district": "Micoud South",
+      "summary_label": "Turnout %",
+      "summary_value": "2.06"
+    },
+    {
+      "district": "Micoud South",
+      "summary_label": "Rejected",
+      "summary_value": "1"
+    },
+    {
+      "district": "Micoud North",
+      "District": "Micoud North",
+      "Candidate": "NOBERT",
+      "Party": "UWP",
+      "N1": "",
+      "N2": "61",
+      "N3": "144",
+      "N4": "61",
+      "N5": "117",
+      "Total": "383",
+      "% Total": "42.89%"
+    },
+    {
+      "district": "Micoud North",
+      "District": "",
+      "Candidate": "NORBERT",
+      "Party": "SLP",
+      "N1": "",
+      "N2": "100",
+      "N3": "248",
+      "N4": "68",
+      "N5": "94",
+      "Total": "510",
+      "% Total": "57.11%"
+    },
+    {
+      "district": "Micoud North",
+      "District": "",
+      "Candidate": "WILSON",
+      "Party": "IND",
+      "N1": "",
+      "N2": "0",
+      "N3": "0",
+      "N4": "0",
+      "N5": "0",
+      "Total": "0",
+      "% Total": "0.00%"
+    },
+    {
+      "district": "Micoud North",
+      "summary_label": "No. of Electors",
+      "summary_value": "8085"
+    },
+    {
+      "district": "Micoud North",
+      "summary_label": "Votes Cast",
+      "summary_value": "893"
+    },
+    {
+      "district": "Micoud North",
+      "summary_label": "Turnout %",
+      "summary_value": "11.05"
+    },
+    {
+      "district": "Micoud North",
+      "summary_label": "Rejected",
+      "summary_value": "14"
+    },
+    {
+      "district": "Dennery South",
+      "District": "Dennery South",
+      "Candidate": "EMILE",
+      "Party": "UWP",
+      "O1": "",
+      "O2": "",
+      "O3": "112",
+      "Total": "112",
+      "% Total": "37.46%"
+    },
+    {
+      "district": "Dennery South",
+      "District": "",
+      "Candidate": "PROSPERE",
+      "Party": "SLP",
+      "O1": "",
+      "O2": "",
+      "O3": "187",
+      "Total": "187",
+      "% Total": "62.54%"
+    },
+    {
+      "district": "Dennery South",
+      "summary_label": "No. of Electors",
+      "summary_value": "5507"
+    },
+    {
+      "district": "Dennery South",
+      "summary_label": "Votes Cast",
+      "summary_value": "299"
+    },
+    {
+      "district": "Dennery South",
+      "summary_label": "Turnout %",
+      "summary_value": "5.43"
+    },
+    {
+      "district": "Dennery South",
+      "summary_label": "Rejected",
+      "summary_value": "12"
+    },
+    {
+      "district": "Dennery North",
+      "District": "Dennery North",
+      "Candidate": "EDWARD",
+      "Party": "SLP",
+      "P1": "101",
+      "P2": "",
+      "P3": "280",
+      "P4": "",
+      "P5": "102",
+      "Total": "483",
+      "% Total": "60.68%"
+    },
+    {
+      "district": "Dennery North",
+      "District": "",
+      "Candidate": "FULGENCE",
+      "Party": "UWP",
+      "P1": "75",
+      "P2": "",
+      "P3": "142",
+      "P4": "",
+      "P5": "96",
+      "Total": "313",
+      "% Total": "39.32%"
+    },
+    {
+      "district": "Dennery North",
+      "summary_label": "No. of Electors",
+      "summary_value": "8861"
+    },
+    {
+      "district": "Dennery North",
+      "summary_label": "Votes Cast",
+      "summary_value": "796"
+    },
+    {
+      "district": "Dennery North",
+      "summary_label": "Turnout %",
+      "summary_value": "8.98"
+    },
+    {
+      "district": "Dennery North",
+      "summary_label": "Rejected",
+      "summary_value": "10"
+    },
+    {
+      "district": "Castries South East",
+      "District": "Castries South East",
+      "Candidate": "JAWAHIR",
+      "Party": "SLP",
+      "Q1": "",
+      "Q2": "",
+      "Q3": "60",
+      "Q4": "",
+      "Q5": "",
+      "Q6(a)": "146",
+      "Q6(b)": "",
+      "Q7": "100",
+      "Total": "306",
+      "% Total": "53.78%"
+    },
+    {
+      "district": "Castries South East",
+      "District": "",
+      "Candidate": "JOSEPH",
+      "Party": "UWP",
+      "Q1": "",
+      "Q2": "",
+      "Q3": "62",
+      "Q4": "",
+      "Q5": "",
+      "Q6(a)": "106",
+      "Q6(b)": "",
+      "Q7": "95",
+      "Total": "263",
+      "% Total": "46.22%"
+    },
+    {
+      "district": "Castries South East",
+      "summary_label": "No. of Electors",
+      "summary_value": "15491"
+    },
+    {
+      "district": "Castries South East",
+      "summary_label": "Votes Cast",
+      "summary_value": "569"
+    },
+    {
+      "district": "Castries South East",
+      "summary_label": "Turnout %",
+      "summary_value": "3.67"
+    },
+    {
+      "district": "Castries South East",
+      "summary_label": "Rejected",
+      "summary_value": "14"
+    }
+  ]
+}

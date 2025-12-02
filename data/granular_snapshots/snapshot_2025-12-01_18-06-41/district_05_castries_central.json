@@ -1,0 +1,435 @@
+{
+  "district_id": 5,
+  "constituency": "Castries Central",
+  "candidates": [
+    {
+      "name": "CLARKE",
+      "party": "UWP"
+    },
+    {
+      "name": "FELIX",
+      "party": "IND"
+    },
+    {
+      "name": "FREDERICK",
+      "party": "IND"
+    },
+    {
+      "name": "MATTHEW",
+      "party": "NCP"
+    }
+  ],
+  "divisions": {
+    "E1": {
+      "name": "CARMEN RENE MEMORIAL SCHOOL",
+      "buckets": [
+        {
+          "range": "A-G",
+          "electors": 449,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-R",
+          "electors": 413,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 176,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1038,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1038,
+      "buckets_total": 3,
+      "buckets_counted": 0
+    },
+    "E2": {
+      "name": "ANGLICAN INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 407,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-L",
+          "electors": 380,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-R",
+          "electors": 244,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 201,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1232,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1232,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "E3": {
+      "name": "R.C.BOYS PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-F",
+          "electors": 405,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "G-L",
+          "electors": 363,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-Z",
+          "electors": 472,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1240,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1240,
+      "buckets_total": 3,
+      "buckets_counted": 0
+    },
+    "E4": {
+      "name": "CASTRIES CONSTITUENCY COUNCIL OFFICE",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 394,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-H",
+          "electors": 422,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "I-M",
+          "electors": 440,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "N-Z",
+          "electors": 476,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1732,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1732,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "E5": {
+      "name": "R.C BOYS INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 498,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-F",
+          "electors": 399,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "G-JE",
+          "electors": 328,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JN-L",
+          "electors": 354,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-P",
+          "electors": 370,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "R-Z",
+          "electors": 380,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2329,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2329,
+      "buckets_total": 6,
+      "buckets_counted": 0
+    },
+    "E6(a)": {
+      "name": "AVE MARIA INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 461,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-J",
+          "electors": 357,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 818,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 818,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "E6(b)": {
+      "name": "AVE MARIA PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "K-O",
+          "electors": 277,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "P-Z",
+          "electors": 360,
+          "votes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 637,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 637,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 9026,
+  "total_votes_cast": 0,
+  "total_polling_divisions": 7,
+  "polling_divisions_counted": 0,
+  "polling_divisions_remaining": 7,
+  "counted_divisions": [],
+  "uncounted_divisions": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "E6(a)",
+    "E6(b)"
+  ],
+  "total_ballot_boxes": 24,
+  "ballot_boxes_counted": 0,
+  "ballot_boxes_remaining": 24,
+  "counted_ballot_boxes": [],
+  "uncounted_ballot_boxes": [
+    "E1:A-G",
+    "E1:H-R",
+    "E1:S-Z",
+    "E2:A-E",
+    "E2:F-L",
+    "E2:M-R",
+    "E2:S-Z",
+    "E3:A-F",
+    "E3:G-L",
+    "E3:M-Z",
+    "E4:A-C",
+    "E4:D-H",
+    "E4:I-M",
+    "E4:N-Z",
+    "E5:A-C",
+    "E5:D-F",
+    "E5:G-JE",
+    "E5:JN-L",
+    "E5:M-P",
+    "E5:R-Z",
+    "E6(a):A-E",
+    "E6(a):F-J",
+    "E6(b):K-O",
+    "E6(b):P-Z"
+  ],
+  "votes_remaining": 9026
+}

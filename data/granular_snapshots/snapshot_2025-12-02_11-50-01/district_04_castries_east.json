@@ -1,0 +1,456 @@
+{
+  "district_id": 4,
+  "constituency": "Castries East",
+  "candidates": [
+    {
+      "name": "CHICOT",
+      "party": "UWP"
+    },
+    {
+      "name": "PIERRE",
+      "party": "SLP"
+    }
+  ],
+  "divisions": {
+    "D1": {
+      "name": "BOCAGE SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-G",
+          "electors": 461,
+          "votes": [
+            50,
+            151
+          ],
+          "rejected": 17,
+          "votes_cast": 218
+        },
+        {
+          "range": "H-M",
+          "electors": 359,
+          "votes": [
+            4,
+            115
+          ],
+          "rejected": 10,
+          "votes_cast": 129
+        },
+        {
+          "range": "N-Z",
+          "electors": 314,
+          "votes": [
+            22,
+            95
+          ],
+          "rejected": 1,
+          "votes_cast": 118
+        }
+      ],
+      "electors": 1134,
+      "votes_cast": 465,
+      "is_counted": true,
+      "votes_remaining": 669,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    },
+    "D2": {
+      "name": "ENTREPOT SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 435,
+          "votes": [
+            48,
+            112
+          ],
+          "rejected": 1,
+          "votes_cast": 161
+        },
+        {
+          "range": "C-D",
+          "electors": 468,
+          "votes": [
+            77,
+            270
+          ],
+          "rejected": 25,
+          "votes_cast": 372
+        },
+        {
+          "range": "E-F",
+          "electors": 490,
+          "votes": [
+            53,
+            149
+          ],
+          "rejected": 1,
+          "votes_cast": 203
+        },
+        {
+          "range": "G-I",
+          "electors": 390,
+          "votes": [
+            31,
+            129
+          ],
+          "rejected": 0,
+          "votes_cast": 160
+        },
+        {
+          "range": "J-K",
+          "electors": 427,
+          "votes": [
+            48,
+            127
+          ],
+          "rejected": 2,
+          "votes_cast": 177
+        },
+        {
+          "range": "L-MAY",
+          "electors": 384,
+          "votes": [
+            36,
+            107
+          ],
+          "rejected": 1,
+          "votes_cast": 144
+        },
+        {
+          "range": "MC-P",
+          "electors": 447,
+          "votes": [
+            38,
+            143
+          ],
+          "rejected": 10,
+          "votes_cast": 191
+        },
+        {
+          "range": "Q-S",
+          "electors": 424,
+          "votes": [
+            37,
+            129
+          ],
+          "rejected": 0,
+          "votes_cast": 166
+        },
+        {
+          "range": "T-Z",
+          "electors": 282,
+          "votes": [
+            17,
+            105
+          ],
+          "rejected": 0,
+          "votes_cast": 122
+        }
+      ],
+      "electors": 3747,
+      "votes_cast": 1696,
+      "is_counted": true,
+      "votes_remaining": 2051,
+      "buckets_total": 9,
+      "buckets_counted": 9
+    },
+    "D3": {
+      "name": "MARCHAND PARISH CENTRE",
+      "buckets": [
+        {
+          "range": "A-J",
+          "electors": 358,
+          "votes": [
+            32,
+            84
+          ],
+          "rejected": 4,
+          "votes_cast": 120
+        },
+        {
+          "range": "K-Z",
+          "electors": 397,
+          "votes": [
+            27,
+            99
+          ],
+          "rejected": 1,
+          "votes_cast": 127
+        }
+      ],
+      "electors": 755,
+      "votes_cast": 247,
+      "is_counted": true,
+      "votes_remaining": 508,
+      "buckets_total": 2,
+      "buckets_counted": 2
+    },
+    "D4": {
+      "name": "BISHOP CHARLES GARCHET R.C. COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "B-C",
+          "electors": 502,
+          "votes": [
+            72,
+            137
+          ],
+          "rejected": 4,
+          "votes_cast": 213
+        },
+        {
+          "range": "D-E",
+          "electors": 410,
+          "votes": [
+            39,
+            122
+          ],
+          "rejected": 3,
+          "votes_cast": 164
+        },
+        {
+          "range": "F-G",
+          "electors": 485,
+          "votes": [
+            45,
+            164
+          ],
+          "rejected": 2,
+          "votes_cast": 211
+        },
+        {
+          "range": "H-JN",
+          "electors": 419,
+          "votes": [
+            31,
+            137
+          ],
+          "rejected": 3,
+          "votes_cast": 171
+        },
+        {
+          "range": "JOH-L",
+          "electors": 507,
+          "votes": [
+            44,
+            145
+          ],
+          "rejected": 0,
+          "votes_cast": 189
+        },
+        {
+          "range": "M-O",
+          "electors": 332,
+          "votes": [
+            29,
+            96
+          ],
+          "rejected": 2,
+          "votes_cast": 127
+        },
+        {
+          "range": "P-R",
+          "electors": 352,
+          "votes": [
+            29,
+            122
+          ],
+          "rejected": 1,
+          "votes_cast": 152
+        },
+        {
+          "range": "T-Z",
+          "electors": 223,
+          "votes": [
+            11,
+            92
+          ],
+          "rejected": 4,
+          "votes_cast": 107
+        }
+      ],
+      "electors": 3230,
+      "votes_cast": 1334,
+      "is_counted": true,
+      "votes_remaining": 1896,
+      "buckets_total": 8,
+      "buckets_counted": 8
+    },
+    "D5(a)": {
+      "name": "PLAYERS PAVILLION, MINDOO PHILLIP PARK",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 472,
+          "votes": [
+            42,
+            140
+          ],
+          "rejected": 6,
+          "votes_cast": 188
+        },
+        {
+          "range": "D-F",
+          "electors": 432,
+          "votes": [
+            26,
+            145
+          ],
+          "rejected": 1,
+          "votes_cast": 172
+        },
+        {
+          "range": "G-J",
+          "electors": 456,
+          "votes": [
+            34,
+            125
+          ],
+          "rejected": 0,
+          "votes_cast": 159
+        }
+      ],
+      "electors": 1360,
+      "votes_cast": 519,
+      "is_counted": true,
+      "votes_remaining": 841,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    },
+    "D5(b)": {
+      "name": "PAN-SHED, BELGRAVE COURT, MARCHAND GROUNDS",
+      "buckets": [
+        {
+          "range": "K-O",
+          "electors": 352,
+          "votes": [
+            14,
+            109
+          ],
+          "rejected": 18,
+          "votes_cast": 141
+        },
+        {
+          "range": "P-SP",
+          "electors": 314,
+          "votes": [
+            25,
+            94
+          ],
+          "rejected": 0,
+          "votes_cast": 119
+        },
+        {
+          "range": "ST-Z",
+          "electors": 237,
+          "votes": [
+            27,
+            75
+          ],
+          "rejected": 2,
+          "votes_cast": 104
+        }
+      ],
+      "electors": 903,
+      "votes_cast": 364,
+      "is_counted": true,
+      "votes_remaining": 539,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    },
+    "D6": {
+      "name": "DU BOULAY BUILDING",
+      "buckets": [
+        {
+          "range": "A-G",
+          "electors": 407,
+          "votes": [
+            43,
+            125
+          ],
+          "rejected": 0,
+          "votes_cast": 168
+        },
+        {
+          "range": "H-M",
+          "electors": 324,
+          "votes": [
+            31,
+            97
+          ],
+          "rejected": 0,
+          "votes_cast": 128
+        },
+        {
+          "range": "N-Z",
+          "electors": 282,
+          "votes": [
+            24,
+            84
+          ],
+          "rejected": 4,
+          "votes_cast": 112
+        }
+      ],
+      "electors": 1013,
+      "votes_cast": 408,
+      "is_counted": true,
+      "votes_remaining": 605,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    }
+  },
+  "total_electors": 12142,
+  "total_votes_cast": 5033,
+  "total_polling_divisions": 7,
+  "polling_divisions_counted": 7,
+  "polling_divisions_remaining": 0,
+  "counted_divisions": [
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5(a)",
+    "D5(b)",
+    "D6"
+  ],
+  "uncounted_divisions": [],
+  "total_ballot_boxes": 31,
+  "ballot_boxes_counted": 31,
+  "ballot_boxes_remaining": 0,
+  "counted_ballot_boxes": [
+    "D1:A-G",
+    "D1:H-M",
+    "D1:N-Z",
+    "D2:A-B",
+    "D2:C-D",
+    "D2:E-F",
+    "D2:G-I",
+    "D2:J-K",
+    "D2:L-MAY",
+    "D2:MC-P",
+    "D2:Q-S",
+    "D2:T-Z",
+    "D3:A-J",
+    "D3:K-Z",
+    "D4:B-C",
+    "D4:D-E",
+    "D4:F-G",
+    "D4:H-JN",
+    "D4:JOH-L",
+    "D4:M-O",
+    "D4:P-R",
+    "D4:T-Z",
+    "D5(a):A-C",
+    "D5(a):D-F",
+    "D5(a):G-J",
+    "D5(b):K-O",
+    "D5(b):P-SP",
+    "D5(b):ST-Z",
+    "D6:A-G",
+    "D6:H-M",
+    "D6:N-Z"
+  ],
+  "uncounted_ballot_boxes": [],
+  "votes_remaining": 7109
+}

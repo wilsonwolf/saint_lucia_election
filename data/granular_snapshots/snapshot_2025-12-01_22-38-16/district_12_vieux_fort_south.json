@@ -1,0 +1,266 @@
+{
+  "district_id": 12,
+  "constituency": "Vieux Fort South",
+  "candidates": [
+    {
+      "name": "JN BAPTISTE",
+      "party": "SLP"
+    },
+    {
+      "name": "XAVIER",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "L1": {
+      "name": "VIGE’ COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 470,
+          "votes": [
+            112,
+            109
+          ],
+          "rejected": 2,
+          "votes_cast": 223
+        }
+      ],
+      "electors": 470,
+      "votes_cast": 223,
+      "is_counted": true,
+      "votes_remaining": 247,
+      "buckets_total": 1,
+      "buckets_counted": 1
+    },
+    "L2": {
+      "name": "PIERROT COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-CE",
+          "electors": 422,
+          "votes": [
+            136,
+            59
+          ],
+          "rejected": 2,
+          "votes_cast": 197
+        },
+        {
+          "range": "CH-D",
+          "electors": 470,
+          "votes": [
+            142,
+            61
+          ],
+          "rejected": 6,
+          "votes_cast": 209
+        },
+        {
+          "range": "E-G",
+          "electors": 426,
+          "votes": [
+            125,
+            52
+          ],
+          "rejected": 5,
+          "votes_cast": 182
+        },
+        {
+          "range": "H-JN",
+          "electors": 424,
+          "votes": [
+            143,
+            47
+          ],
+          "rejected": 3,
+          "votes_cast": 193
+        },
+        {
+          "range": "JO-L",
+          "electors": 403,
+          "votes": [
+            126,
+            42
+          ],
+          "rejected": 11,
+          "votes_cast": 179
+        },
+        {
+          "range": "M-O",
+          "electors": 355,
+          "votes": [
+            112,
+            44
+          ],
+          "rejected": 2,
+          "votes_cast": 158
+        },
+        {
+          "range": "P-SM",
+          "electors": 439,
+          "votes": [
+            140,
+            58
+          ],
+          "rejected": 2,
+          "votes_cast": 200
+        },
+        {
+          "range": "SO-Z",
+          "electors": 400,
+          "votes": [
+            128,
+            58
+          ],
+          "rejected": 3,
+          "votes_cast": 189
+        }
+      ],
+      "electors": 3339,
+      "votes_cast": 1507,
+      "is_counted": true,
+      "votes_remaining": 1832,
+      "buckets_total": 8,
+      "buckets_counted": 8
+    },
+    "L3": {
+      "name": "BELLE VUE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 429,
+          "votes": [
+            255,
+            74
+          ],
+          "rejected": 4,
+          "votes_cast": 333
+        },
+        {
+          "range": "F-L",
+          "electors": 382,
+          "votes": [
+            166,
+            27
+          ],
+          "rejected": 6,
+          "votes_cast": 199
+        },
+        {
+          "range": "M-P",
+          "electors": 278,
+          "votes": [
+            98,
+            29
+          ],
+          "rejected": 1,
+          "votes_cast": 128
+        },
+        {
+          "range": "R-Z",
+          "electors": 271,
+          "votes": [
+            106,
+            23
+          ],
+          "rejected": 3,
+          "votes_cast": 132
+        }
+      ],
+      "electors": 1360,
+      "votes_cast": 792,
+      "is_counted": true,
+      "votes_remaining": 568,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    },
+    "L4": {
+      "name": "GRACE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-CH",
+          "electors": 476,
+          "votes": [
+            157,
+            61
+          ],
+          "rejected": 2,
+          "votes_cast": 220
+        },
+        {
+          "range": "CL-I",
+          "electors": 519,
+          "votes": [
+            181,
+            61
+          ],
+          "rejected": 9,
+          "votes_cast": 251
+        },
+        {
+          "range": "J-O",
+          "electors": 430,
+          "votes": [
+            142,
+            63
+          ],
+          "rejected": 10,
+          "votes_cast": 215
+        },
+        {
+          "range": "P-Z",
+          "electors": 485,
+          "votes": [
+            175,
+            64
+          ],
+          "rejected": 4,
+          "votes_cast": 243
+        }
+      ],
+      "electors": 1910,
+      "votes_cast": 929,
+      "is_counted": true,
+      "votes_remaining": 981,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    }
+  },
+  "total_electors": 7079,
+  "total_votes_cast": 3451,
+  "total_polling_divisions": 4,
+  "polling_divisions_counted": 4,
+  "polling_divisions_remaining": 0,
+  "counted_divisions": [
+    "L1",
+    "L2",
+    "L3",
+    "L4"
+  ],
+  "uncounted_divisions": [],
+  "total_ballot_boxes": 17,
+  "ballot_boxes_counted": 17,
+  "ballot_boxes_remaining": 0,
+  "counted_ballot_boxes": [
+    "L1:A-Z",
+    "L2:A-CE",
+    "L2:CH-D",
+    "L2:E-G",
+    "L2:H-JN",
+    "L2:JO-L",
+    "L2:M-O",
+    "L2:P-SM",
+    "L2:SO-Z",
+    "L3:A-E",
+    "L3:F-L",
+    "L3:M-P",
+    "L3:R-Z",
+    "L4:A-CH",
+    "L4:CL-I",
+    "L4:J-O",
+    "L4:P-Z"
+  ],
+  "uncounted_ballot_boxes": [],
+  "votes_remaining": 3628
+}

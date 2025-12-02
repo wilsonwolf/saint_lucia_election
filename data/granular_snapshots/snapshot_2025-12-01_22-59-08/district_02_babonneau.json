@@ -1,0 +1,526 @@
+{
+  "district_id": 2,
+  "constituency": "Babonneau",
+  "candidates": [
+    {
+      "name": "ESTAPHANE",
+      "party": "SLP"
+    },
+    {
+      "name": "PREVILLE",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "B1(a)": {
+      "name": "BABONNEAU PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 421,
+          "votes": [
+            95,
+            108
+          ],
+          "rejected": 1,
+          "votes_cast": 204
+        },
+        {
+          "range": "D-G",
+          "electors": 374,
+          "votes": [
+            97,
+            90
+          ],
+          "rejected": 0,
+          "votes_cast": 187
+        },
+        {
+          "range": "H-L",
+          "electors": 457,
+          "votes": [
+            127,
+            98
+          ],
+          "rejected": 1,
+          "votes_cast": 226
+        },
+        {
+          "range": "M-Z",
+          "electors": 525,
+          "votes": [
+            137,
+            86
+          ],
+          "rejected": 2,
+          "votes_cast": 225
+        }
+      ],
+      "electors": 1777,
+      "votes_cast": 842,
+      "is_counted": true,
+      "votes_remaining": 935,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    },
+    "B1(b)": {
+      "name": "BALATA COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 193,
+          "votes": [
+            50,
+            27
+          ],
+          "rejected": 0,
+          "votes_cast": 77
+        }
+      ],
+      "electors": 193,
+      "votes_cast": 77,
+      "is_counted": true,
+      "votes_remaining": 116,
+      "buckets_total": 1,
+      "buckets_counted": 1
+    },
+    "B1(c)": {
+      "name": "UNION ORCHID GARDEN",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 326,
+          "votes": [
+            93,
+            48
+          ],
+          "rejected": 3,
+          "votes_cast": 144
+        },
+        {
+          "range": "J-Z",
+          "electors": 315,
+          "votes": [
+            77,
+            63
+          ],
+          "rejected": 3,
+          "votes_cast": 143
+        }
+      ],
+      "electors": 641,
+      "votes_cast": 287,
+      "is_counted": true,
+      "votes_remaining": 354,
+      "buckets_total": 2,
+      "buckets_counted": 2
+    },
+    "B2(a)": {
+      "name": "LA GARE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 425,
+          "votes": [
+            92,
+            129
+          ],
+          "rejected": 4,
+          "votes_cast": 225
+        },
+        {
+          "range": "C-E",
+          "electors": 491,
+          "votes": [
+            93,
+            150
+          ],
+          "rejected": 0,
+          "votes_cast": 243
+        },
+        {
+          "range": "F-I",
+          "electors": 302,
+          "votes": [
+            68,
+            88
+          ],
+          "rejected": 5,
+          "votes_cast": 161
+        },
+        {
+          "range": "J-K",
+          "electors": 424,
+          "votes": [
+            79,
+            133
+          ],
+          "rejected": 1,
+          "votes_cast": 213
+        }
+      ],
+      "electors": 1642,
+      "votes_cast": 842,
+      "is_counted": true,
+      "votes_remaining": 800,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    },
+    "B2(b)": {
+      "name": "LA GARE COMMUNITY CENTRE",
+      "buckets": [
+        {
+          "range": "L-O",
+          "electors": 349,
+          "votes": [
+            75,
+            92
+          ],
+          "rejected": 0,
+          "votes_cast": 167
+        },
+        {
+          "range": "P-R",
+          "electors": 268,
+          "votes": [
+            63,
+            68
+          ],
+          "rejected": 0,
+          "votes_cast": 131
+        },
+        {
+          "range": "S-Z",
+          "electors": 322,
+          "votes": [
+            73,
+            91
+          ],
+          "rejected": 1,
+          "votes_cast": 165
+        }
+      ],
+      "electors": 939,
+      "votes_cast": 463,
+      "is_counted": true,
+      "votes_remaining": 476,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    },
+    "B3": {
+      "name": "BOGUIS COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 306,
+          "votes": [
+            132,
+            66
+          ],
+          "rejected": 1,
+          "votes_cast": 199
+        },
+        {
+          "range": "J-Z",
+          "electors": 426,
+          "votes": [
+            167,
+            93
+          ],
+          "rejected": 3,
+          "votes_cast": 263
+        }
+      ],
+      "electors": 732,
+      "votes_cast": 462,
+      "is_counted": true,
+      "votes_remaining": 270,
+      "buckets_total": 2,
+      "buckets_counted": 2
+    },
+    "B4": {
+      "name": "DES BARRA COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 249,
+          "votes": [
+            123,
+            37
+          ],
+          "rejected": 1,
+          "votes_cast": 161
+        }
+      ],
+      "electors": 249,
+      "votes_cast": 161,
+      "is_counted": true,
+      "votes_remaining": 88,
+      "buckets_total": 1,
+      "buckets_counted": 1
+    },
+    "B5(a)": {
+      "name": "FOND ASSAU COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 316,
+          "votes": [
+            129,
+            50
+          ],
+          "rejected": 0,
+          "votes_cast": 179
+        },
+        {
+          "range": "C-E",
+          "electors": 460,
+          "votes": [
+            168,
+            70
+          ],
+          "rejected": 2,
+          "votes_cast": 240
+        },
+        {
+          "range": "F-I",
+          "electors": 293,
+          "votes": [
+            98,
+            38
+          ],
+          "rejected": 1,
+          "votes_cast": 137
+        },
+        {
+          "range": "J-K",
+          "electors": 332,
+          "votes": [
+            109,
+            57
+          ],
+          "rejected": 3,
+          "votes_cast": 169
+        },
+        {
+          "range": "L-Q",
+          "electors": 501,
+          "votes": [
+            191,
+            69
+          ],
+          "rejected": 3,
+          "votes_cast": 263
+        },
+        {
+          "range": "R-Z",
+          "electors": 476,
+          "votes": [
+            180,
+            77
+          ],
+          "rejected": 1,
+          "votes_cast": 258
+        }
+      ],
+      "electors": 2378,
+      "votes_cast": 1246,
+      "is_counted": true,
+      "votes_remaining": 1132,
+      "buckets_total": 6,
+      "buckets_counted": 6
+    },
+    "B5(b)": {
+      "name": "GARRAND ITC ACCESS CENTRE",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 463,
+          "votes": [
+            158,
+            81
+          ],
+          "rejected": 2,
+          "votes_cast": 241
+        },
+        {
+          "range": "F-J",
+          "electors": 329,
+          "votes": [
+            112,
+            74
+          ],
+          "rejected": 1,
+          "votes_cast": 187
+        },
+        {
+          "range": "K-Z",
+          "electors": 427,
+          "votes": [
+            157,
+            84
+          ],
+          "rejected": 1,
+          "votes_cast": 242
+        }
+      ],
+      "electors": 1219,
+      "votes_cast": 670,
+      "is_counted": true,
+      "votes_remaining": 549,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    },
+    "B6(a)": {
+      "name": "BABONNEAU SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-D",
+          "electors": 407,
+          "votes": [
+            107,
+            77
+          ],
+          "rejected": 3,
+          "votes_cast": 187
+        },
+        {
+          "range": "E-I",
+          "electors": 720,
+          "votes": [
+            222,
+            187
+          ],
+          "rejected": 1,
+          "votes_cast": 410
+        },
+        {
+          "range": "J-L",
+          "electors": 445,
+          "votes": [
+            110,
+            80
+          ],
+          "rejected": 0,
+          "votes_cast": 190
+        },
+        {
+          "range": "M-Z",
+          "electors": 511,
+          "votes": [
+            156,
+            100
+          ],
+          "rejected": 1,
+          "votes_cast": 257
+        }
+      ],
+      "electors": 2083,
+      "votes_cast": 1044,
+      "is_counted": true,
+      "votes_remaining": 1039,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    },
+    "B6(b)": {
+      "name": "BABONNEAU PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-F",
+          "electors": 463,
+          "votes": [
+            135,
+            85
+          ],
+          "rejected": 7,
+          "votes_cast": 227
+        },
+        {
+          "range": "G-M",
+          "electors": 419,
+          "votes": [
+            130,
+            72
+          ],
+          "rejected": 1,
+          "votes_cast": 203
+        },
+        {
+          "range": "N-Z",
+          "electors": 406,
+          "votes": [
+            115,
+            79
+          ],
+          "rejected": 0,
+          "votes_cast": 194
+        }
+      ],
+      "electors": 1288,
+      "votes_cast": 624,
+      "is_counted": true,
+      "votes_remaining": 664,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    }
+  },
+  "total_electors": 13141,
+  "total_votes_cast": 6718,
+  "total_polling_divisions": 11,
+  "polling_divisions_counted": 11,
+  "polling_divisions_remaining": 0,
+  "counted_divisions": [
+    "B1(a)",
+    "B1(b)",
+    "B1(c)",
+    "B2(a)",
+    "B2(b)",
+    "B3",
+    "B4",
+    "B5(a)",
+    "B5(b)",
+    "B6(a)",
+    "B6(b)"
+  ],
+  "uncounted_divisions": [],
+  "total_ballot_boxes": 33,
+  "ballot_boxes_counted": 33,
+  "ballot_boxes_remaining": 0,
+  "counted_ballot_boxes": [
+    "B1(a):A-C",
+    "B1(a):D-G",
+    "B1(a):H-L",
+    "B1(a):M-Z",
+    "B1(b):A-Z",
+    "B1(c):A-I",
+    "B1(c):J-Z",
+    "B2(a):A-B",
+    "B2(a):C-E",
+    "B2(a):F-I",
+    "B2(a):J-K",
+    "B2(b):L-O",
+    "B2(b):P-R",
+    "B2(b):S-Z",
+    "B3:A-I",
+    "B3:J-Z",
+    "B4:A-Z",
+    "B5(a):A-B",
+    "B5(a):C-E",
+    "B5(a):F-I",
+    "B5(a):J-K",
+    "B5(a):L-Q",
+    "B5(a):R-Z",
+    "B5(b):A-E",
+    "B5(b):F-J",
+    "B5(b):K-Z",
+    "B6(a):A-D",
+    "B6(a):E-I",
+    "B6(a):J-L",
+    "B6(a):M-Z",
+    "B6(b):A-F",
+    "B6(b):G-M",
+    "B6(b):N-Z"
+  ],
+  "uncounted_ballot_boxes": [],
+  "votes_remaining": 6423
+}

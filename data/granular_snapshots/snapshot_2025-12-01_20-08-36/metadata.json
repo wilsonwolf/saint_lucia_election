@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-12-01T20:08:36.328837",
+  "districts_scraped": 17,
+  "district_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "progress": {
+    "total_ballot_boxes": 432,
+    "ballot_boxes_counted": 214,
+    "ballot_boxes_remaining": 218,
+    "ballot_box_pct": 49.5,
+    "total_polling_divisions": 110,
+    "polling_divisions_counted": 85,
+    "total_electors": 173709,
+    "total_votes_cast": 41065,
+    "turnout_pct": 23.6
+  },
+  "per_constituency": {
+    "Castries East": {
+      "ballot_boxes_counted": 17,
+      "ballot_boxes_total": 31,
+      "votes_cast": 2550,
+      "electors": 12142
+    },
+    "Vieux Fort North": {
+      "ballot_boxes_counted": 13,
+      "ballot_boxes_total": 19,
+      "votes_cast": 2518,
+      "electors": 7627
+    },
+    "Micoud South": {
+      "ballot_boxes_counted": 12,
+      "ballot_boxes_total": 18,
+      "votes_cast": 2452,
+      "electors": 7842
+    },
+    "Castries North": {
+      "ballot_boxes_counted": 18,
+      "ballot_boxes_total": 30,
+      "votes_cast": 3099,
+      "electors": 12610
+    },
+    "Anse La Raye/Canaries": {
+      "ballot_boxes_counted": 12,
+      "ballot_boxes_total": 22,
+      "votes_cast": 2674,
+      "electors": 8475
+    },
+    "Soufriere": {
+      "ballot_boxes_counted": 7,
+      "ballot_boxes_total": 25,
+      "votes_cast": 1522,
+      "electors": 9387
+    },
+    "Gros Islet": {
+      "ballot_boxes_counted": 21,
+      "ballot_boxes_total": 58,
+      "votes_cast": 3823,
+      "electors": 22653
+    },
+    "Castries South": {
+      "ballot_boxes_counted": 15,
+      "ballot_boxes_total": 22,
+      "votes_cast": 2990,
+      "electors": 8469
+    },
+    "Castries Central": {
+      "ballot_boxes_counted": 12,
+      "ballot_boxes_total": 24,
+      "votes_cast": 1856,
+      "electors": 9026
+    },
+    "Micoud North": {
+      "ballot_boxes_counted": 4,
+      "ballot_boxes_total": 14,
+      "votes_cast": 781,
+      "electors": 5387
+    },
+    "Laborie": {
+      "ballot_boxes_counted": 1,
+      "ballot_boxes_total": 16,
+      "votes_cast": 246,
+      "electors": 6500
+    },
+    "Vieux Fort South": {
+      "ballot_boxes_counted": 8,
+      "ballot_boxes_total": 17,
+      "votes_cast": 1545,
+      "electors": 7079
+    },
+    "Dennery South": {
+      "ballot_boxes_counted": 12,
+      "ballot_boxes_total": 20,
+      "votes_cast": 2769,
+      "electors": 8790
+    },
+    "Babonneau": {
+      "ballot_boxes_counted": 22,
+      "ballot_boxes_total": 33,
+      "votes_cast": 4214,
+      "electors": 12769
+    },
+    "Dennery North": {
+      "ballot_boxes_counted": 8,
+      "ballot_boxes_total": 36,
+      "votes_cast": 1575,
+      "electors": 15341
+    },
+    "Choisuel": {
+      "ballot_boxes_counted": 15,
+      "ballot_boxes_total": 24,
+      "votes_cast": 2889,
+      "electors": 9881
+    },
+    "Castries South East": {
+      "ballot_boxes_counted": 17,
+      "ballot_boxes_total": 23,
+      "votes_cast": 3562,
+      "electors": 9731
+    }
+  }
+}

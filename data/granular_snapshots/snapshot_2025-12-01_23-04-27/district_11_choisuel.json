@@ -1,0 +1,399 @@
+{
+  "district_id": 11,
+  "constituency": "Choisuel",
+  "candidates": [
+    {
+      "name": "BUTCHER",
+      "party": "SLP"
+    },
+    {
+      "name": "CHARLES",
+      "party": "IND"
+    },
+    {
+      "name": "JOHANNES - PAUL",
+      "party": "UWP"
+    },
+    {
+      "name": "MELCHOIR",
+      "party": "IND"
+    }
+  ],
+  "divisions": {
+    "K1": {
+      "name": "VIEUX FORT PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-CH",
+          "electors": 408,
+          "votes": [
+            157,
+            1,
+            36,
+            0
+          ],
+          "rejected": 2,
+          "votes_cast": 196
+        },
+        {
+          "range": "CL-E",
+          "electors": 375,
+          "votes": [
+            157,
+            1,
+            21,
+            0
+          ],
+          "rejected": 4,
+          "votes_cast": 183
+        },
+        {
+          "range": "F-I",
+          "electors": 347,
+          "votes": [
+            149,
+            0,
+            26,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 176
+        },
+        {
+          "range": "J-L",
+          "electors": 410,
+          "votes": [
+            178,
+            2,
+            38,
+            0
+          ],
+          "rejected": 5,
+          "votes_cast": 223
+        },
+        {
+          "range": "M-Q",
+          "electors": 431,
+          "votes": [
+            257,
+            3,
+            108,
+            1
+          ],
+          "rejected": 1,
+          "votes_cast": 370
+        },
+        {
+          "range": "R-Z",
+          "electors": 485,
+          "votes": [
+            179,
+            1,
+            28,
+            1
+          ],
+          "rejected": 9,
+          "votes_cast": 218
+        }
+      ],
+      "electors": 2456,
+      "votes_cast": 1366,
+      "is_counted": true,
+      "votes_remaining": 1090,
+      "buckets_total": 6,
+      "buckets_counted": 6
+    },
+    "K2": {
+      "name": "VIEUX FORT INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-D",
+          "electors": 421,
+          "votes": [
+            154,
+            0,
+            36,
+            2
+          ],
+          "rejected": 1,
+          "votes_cast": 193
+        },
+        {
+          "range": "E-I",
+          "electors": 372,
+          "votes": [
+            91,
+            1,
+            44,
+            2
+          ],
+          "rejected": 1,
+          "votes_cast": 139
+        },
+        {
+          "range": "J-L",
+          "electors": 354,
+          "votes": [
+            119,
+            0,
+            24,
+            1
+          ],
+          "rejected": 6,
+          "votes_cast": 150
+        },
+        {
+          "range": "M-Q",
+          "electors": 321,
+          "votes": [
+            100,
+            1,
+            28,
+            1
+          ],
+          "rejected": 7,
+          "votes_cast": 137
+        },
+        {
+          "range": "R-Z",
+          "electors": 234,
+          "votes": [
+            52,
+            1,
+            34,
+            1
+          ],
+          "rejected": 16,
+          "votes_cast": 104
+        }
+      ],
+      "electors": 1702,
+      "votes_cast": 723,
+      "is_counted": true,
+      "votes_remaining": 979,
+      "buckets_total": 5,
+      "buckets_counted": 5
+    },
+    "K3": {
+      "name": "PLAIN VIEW COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 442,
+          "votes": [
+            149,
+            0,
+            59,
+            0
+          ],
+          "rejected": 3,
+          "votes_cast": 211
+        },
+        {
+          "range": "C-D",
+          "electors": 472,
+          "votes": [
+            173,
+            1,
+            64,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 239
+        },
+        {
+          "range": "E-F",
+          "electors": 455,
+          "votes": [
+            158,
+            0,
+            58,
+            0
+          ],
+          "rejected": 9,
+          "votes_cast": 225
+        },
+        {
+          "range": "G-JA",
+          "electors": 506,
+          "votes": [
+            205,
+            1,
+            69,
+            1
+          ],
+          "rejected": 1,
+          "votes_cast": 277
+        },
+        {
+          "range": "JE-L",
+          "electors": 531,
+          "votes": [
+            222,
+            0,
+            56,
+            0
+          ],
+          "rejected": 3,
+          "votes_cast": 281
+        },
+        {
+          "range": "M-O",
+          "electors": 491,
+          "votes": [
+            159,
+            0,
+            63,
+            1
+          ],
+          "rejected": 1,
+          "votes_cast": 224
+        },
+        {
+          "range": "P-SM",
+          "electors": 449,
+          "votes": [
+            158,
+            1,
+            53,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 213
+        },
+        {
+          "range": "SO-Z",
+          "electors": 300,
+          "votes": [
+            96,
+            0,
+            40,
+            1
+          ],
+          "rejected": 2,
+          "votes_cast": 139
+        }
+      ],
+      "electors": 3646,
+      "votes_cast": 1809,
+      "is_counted": true,
+      "votes_remaining": 1837,
+      "buckets_total": 8,
+      "buckets_counted": 8
+    },
+    "K4": {
+      "name": "VIEUX FORT SECONDARY",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 449,
+          "votes": [
+            167,
+            2,
+            64,
+            1
+          ],
+          "rejected": 5,
+          "votes_cast": 239
+        },
+        {
+          "range": "D-G",
+          "electors": 406,
+          "votes": [
+            117,
+            2,
+            34,
+            1
+          ],
+          "rejected": 23,
+          "votes_cast": 177
+        },
+        {
+          "range": "H-K",
+          "electors": 446,
+          "votes": [
+            126,
+            0,
+            60,
+            0
+          ],
+          "rejected": 5,
+          "votes_cast": 191
+        },
+        {
+          "range": "L-R",
+          "electors": 500,
+          "votes": [
+            163,
+            0,
+            63,
+            0
+          ],
+          "rejected": 1,
+          "votes_cast": 227
+        },
+        {
+          "range": "S-Z",
+          "electors": 276,
+          "votes": [
+            78,
+            0,
+            39,
+            0
+          ],
+          "rejected": 2,
+          "votes_cast": 119
+        }
+      ],
+      "electors": 2077,
+      "votes_cast": 953,
+      "is_counted": true,
+      "votes_remaining": 1124,
+      "buckets_total": 5,
+      "buckets_counted": 5
+    }
+  },
+  "total_electors": 9881,
+  "total_votes_cast": 4851,
+  "total_polling_divisions": 4,
+  "polling_divisions_counted": 4,
+  "polling_divisions_remaining": 0,
+  "counted_divisions": [
+    "K1",
+    "K2",
+    "K3",
+    "K4"
+  ],
+  "uncounted_divisions": [],
+  "total_ballot_boxes": 24,
+  "ballot_boxes_counted": 24,
+  "ballot_boxes_remaining": 0,
+  "counted_ballot_boxes": [
+    "K1:A-CH",
+    "K1:CL-E",
+    "K1:F-I",
+    "K1:J-L",
+    "K1:M-Q",
+    "K1:R-Z",
+    "K2:A-D",
+    "K2:E-I",
+    "K2:J-L",
+    "K2:M-Q",
+    "K2:R-Z",
+    "K3:A-B",
+    "K3:C-D",
+    "K3:E-F",
+    "K3:G-JA",
+    "K3:JE-L",
+    "K3:M-O",
+    "K3:P-SM",
+    "K3:SO-Z",
+    "K4:A-C",
+    "K4:D-G",
+    "K4:H-K",
+    "K4:L-R",
+    "K4:S-Z"
+  ],
+  "uncounted_ballot_boxes": [],
+  "votes_remaining": 5030
+}

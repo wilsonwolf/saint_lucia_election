@@ -1,0 +1,359 @@
+{
+  "district_id": 6,
+  "constituency": "Castries South East",
+  "candidates": [
+    {
+      "name": "DESCARTES",
+      "party": "UWP"
+    },
+    {
+      "name": "HILAIRE",
+      "party": "SLP"
+    },
+    {
+      "name": "HIRD",
+      "party": "IND"
+    }
+  ],
+  "divisions": {
+    "F1": {
+      "name": "FERRY TERMINAL BUILDING, PORT CASTRIES /BANAN",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 416,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "C-D",
+          "electors": 430,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "E-G",
+          "electors": 416,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-JOR",
+          "electors": 446,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JOS-L",
+          "electors": 435,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-Q",
+          "electors": 480,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "R-Z",
+          "electors": 533,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 3156,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 3156,
+      "buckets_total": 7,
+      "buckets_counted": 0
+    },
+    "F2(a)": {
+      "name": "HASCHE BUILDING CAR PARK",
+      "buckets": [
+        {
+          "range": "A-G",
+          "electors": 411,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-Z",
+          "electors": 459,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 870,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 870,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "F2(b)": {
+      "name": "CICERON COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 416,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "C-D",
+          "electors": 436,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "E-F",
+          "electors": 386,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "G-H",
+          "electors": 383,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "I-J",
+          "electors": 458,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "K-MONE",
+          "electors": 386,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "MONG-Q",
+          "electors": 383,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "R-S",
+          "electors": 493,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "T-Z",
+          "electors": 271,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 3612,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 3612,
+      "buckets_total": 9,
+      "buckets_counted": 0
+    },
+    "F3": {
+      "name": "LA CROIX MAINGOT (HESS SCHOOL)",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 414,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-F",
+          "electors": 377,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "G-K",
+          "electors": 447,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "L-P",
+          "electors": 437,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "Q-Z",
+          "electors": 418,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2093,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2093,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 9731,
+  "total_votes_cast": 0,
+  "total_polling_divisions": 4,
+  "polling_divisions_counted": 0,
+  "polling_divisions_remaining": 4,
+  "counted_divisions": [],
+  "uncounted_divisions": [
+    "F1",
+    "F2(a)",
+    "F2(b)",
+    "F3"
+  ],
+  "total_ballot_boxes": 23,
+  "ballot_boxes_counted": 0,
+  "ballot_boxes_remaining": 23,
+  "counted_ballot_boxes": [],
+  "uncounted_ballot_boxes": [
+    "F1:A-B",
+    "F1:C-D",
+    "F1:E-G",
+    "F1:H-JOR",
+    "F1:JOS-L",
+    "F1:M-Q",
+    "F1:R-Z",
+    "F2(a):A-G",
+    "F2(a):H-Z",
+    "F2(b):A-B",
+    "F2(b):C-D",
+    "F2(b):E-F",
+    "F2(b):G-H",
+    "F2(b):I-J",
+    "F2(b):K-MONE",
+    "F2(b):MONG-Q",
+    "F2(b):R-S",
+    "F2(b):T-Z",
+    "F3:A-C",
+    "F3:D-F",
+    "F3:G-K",
+    "F3:L-P",
+    "F3:Q-Z"
+  ],
+  "votes_remaining": 9731
+}

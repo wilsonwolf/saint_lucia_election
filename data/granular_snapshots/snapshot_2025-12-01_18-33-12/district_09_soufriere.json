@@ -1,0 +1,404 @@
+{
+  "district_id": 9,
+  "constituency": "Soufriere",
+  "candidates": [
+    {
+      "name": "CHARLES",
+      "party": "SLP"
+    },
+    {
+      "name": "FELIX",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "I1": {
+      "name": "DELCER COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 423,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-K",
+          "electors": 377,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "L-R",
+          "electors": 291,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 234,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1325,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1325,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "I2": {
+      "name": "MONGOUGE INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 409,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-L",
+          "electors": 385,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-Z",
+          "electors": 431,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1225,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1225,
+      "buckets_total": 3,
+      "buckets_counted": 0
+    },
+    "I3": {
+      "name": "CHOISEUL SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 475,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-L",
+          "electors": 435,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-R",
+          "electors": 358,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 241,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1509,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1509,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "I4": {
+      "name": "DACRETIN COMMUNITY CENTRE",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 442,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-Z",
+          "electors": 394,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 836,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 836,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "I5": {
+      "name": "ROBLOT COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-F",
+          "electors": 428,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "G-Z",
+          "electors": 515,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 943,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 943,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "I6": {
+      "name": "DUGARD COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 456,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 456,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 456,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "I7(a)": {
+      "name": "HANG OUT BAR, JETRINE",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 457,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 457,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 457,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "I7(b)": {
+      "name": "ALICIA THOMAS BUILDING",
+      "buckets": [
+        {
+          "range": "J-Z",
+          "electors": 533,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 533,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 533,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "I8": {
+      "name": "SALTIBUS COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-G",
+          "electors": 433,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-R",
+          "electors": 289,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 349,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1071,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1071,
+      "buckets_total": 3,
+      "buckets_counted": 0
+    },
+    "I9": {
+      "name": "PIAYE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 433,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-Z",
+          "electors": 594,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1027,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1027,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 9382,
+  "total_votes_cast": 0,
+  "total_polling_divisions": 10,
+  "polling_divisions_counted": 0,
+  "polling_divisions_remaining": 10,
+  "counted_divisions": [],
+  "uncounted_divisions": [
+    "I1",
+    "I2",
+    "I3",
+    "I4",
+    "I5",
+    "I6",
+    "I7(a)",
+    "I7(b)",
+    "I8",
+    "I9"
+  ],
+  "total_ballot_boxes": 23,
+  "ballot_boxes_counted": 0,
+  "ballot_boxes_remaining": 23,
+  "counted_ballot_boxes": [],
+  "uncounted_ballot_boxes": [
+    "I1:A-E",
+    "I1:F-K",
+    "I1:L-R",
+    "I1:S-Z",
+    "I2:A-E",
+    "I2:F-L",
+    "I2:M-Z",
+    "I3:A-E",
+    "I3:F-L",
+    "I3:M-R",
+    "I3:S-Z",
+    "I4:A-I",
+    "I4:J-Z",
+    "I5:A-F",
+    "I5:G-Z",
+    "I6:A-Z",
+    "I7(a):A-I",
+    "I7(b):J-Z",
+    "I8:A-G",
+    "I8:H-R",
+    "I8:S-Z",
+    "I9:A-I",
+    "I9:J-Z"
+  ],
+  "votes_remaining": 9382
+}

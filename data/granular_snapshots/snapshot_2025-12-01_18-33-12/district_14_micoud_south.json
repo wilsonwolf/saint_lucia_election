@@ -1,0 +1,311 @@
+{
+  "district_id": 14,
+  "constituency": "Micoud South",
+  "candidates": [
+    {
+      "name": "NOBERT",
+      "party": "UWP"
+    },
+    {
+      "name": "NORBERT",
+      "party": "SLP"
+    },
+    {
+      "name": "WILSON",
+      "party": "IND"
+    }
+  ],
+  "divisions": {
+    "N1": {
+      "name": "PRASLIN COMMUNITY CENTRE",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 461,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 461,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 461,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "N2": {
+      "name": "DECOMMISSIONED MON REPOS R.C. COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 401,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-JN",
+          "electors": 423,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JO-O",
+          "electors": 437,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "P-Z",
+          "electors": 567,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1828,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1828,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "N3": {
+      "name": "PATIENCE COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 380,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-I",
+          "electors": 437,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-L",
+          "electors": 372,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-R",
+          "electors": 383,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 458,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2030,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2030,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    },
+    "N4": {
+      "name": "MICOUD PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 401,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-I",
+          "electors": 430,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-L",
+          "electors": 317,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-Z",
+          "electors": 415,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1563,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1563,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "N5": {
+      "name": "MICOUD SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 476,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-G",
+          "electors": 468,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-MC",
+          "electors": 481,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "ME-Z",
+          "electors": 535,
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1960,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1960,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 7842,
+  "total_votes_cast": 0,
+  "total_polling_divisions": 5,
+  "polling_divisions_counted": 0,
+  "polling_divisions_remaining": 5,
+  "counted_divisions": [],
+  "uncounted_divisions": [
+    "N1",
+    "N2",
+    "N3",
+    "N4",
+    "N5"
+  ],
+  "total_ballot_boxes": 18,
+  "ballot_boxes_counted": 0,
+  "ballot_boxes_remaining": 18,
+  "counted_ballot_boxes": [],
+  "uncounted_ballot_boxes": [
+    "N1:A-Z",
+    "N2:A-E",
+    "N2:F-JN",
+    "N2:JO-O",
+    "N2:P-Z",
+    "N3:A-C",
+    "N3:D-I",
+    "N3:J-L",
+    "N3:M-R",
+    "N3:S-Z",
+    "N4:A-C",
+    "N4:D-I",
+    "N4:J-L",
+    "N4:M-Z",
+    "N5:A-C",
+    "N5:D-G",
+    "N5:H-MC",
+    "N5:ME-Z"
+  ],
+  "votes_remaining": 7842
+}

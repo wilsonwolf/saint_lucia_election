@@ -1,0 +1,789 @@
+{
+  "district_id": 1,
+  "constituency": "Gros Islet",
+  "candidates": [
+    {
+      "name": "CASIMIR",
+      "party": "SLP"
+    },
+    {
+      "name": "JOHNSON",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "A1(a)": {
+      "name": "GROS ISLET PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 397,
+          "votes": [
+            133,
+            47
+          ],
+          "rejected": 11,
+          "votes_cast": 191
+        },
+        {
+          "range": "C-D",
+          "electors": 459,
+          "votes": [
+            119,
+            67
+          ],
+          "rejected": 10,
+          "votes_cast": 196
+        },
+        {
+          "range": "E-F",
+          "electors": 300,
+          "votes": [
+            84,
+            46
+          ],
+          "rejected": 1,
+          "votes_cast": 131
+        },
+        {
+          "range": "G-I",
+          "electors": 610,
+          "votes": [
+            338,
+            132
+          ],
+          "rejected": 1,
+          "votes_cast": 471
+        },
+        {
+          "range": "J-L",
+          "electors": 390,
+          "votes": [
+            143,
+            73
+          ],
+          "rejected": 0,
+          "votes_cast": 216
+        },
+        {
+          "range": "M-O",
+          "electors": 333,
+          "votes": [
+            93,
+            42
+          ],
+          "rejected": 30,
+          "votes_cast": 165
+        },
+        {
+          "range": "P-Z",
+          "electors": 473,
+          "votes": [
+            210,
+            94
+          ],
+          "rejected": 4,
+          "votes_cast": 308
+        }
+      ],
+      "electors": 2962,
+      "votes_cast": 1678,
+      "is_counted": true,
+      "votes_remaining": 1284,
+      "buckets_total": 7,
+      "buckets_counted": 7
+    },
+    "A1(b)": {
+      "name": "SPORTS ACADEMY",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 498,
+          "votes": [
+            165,
+            59
+          ],
+          "rejected": 3,
+          "votes_cast": 227
+        },
+        {
+          "range": "C-D",
+          "electors": 560,
+          "votes": [
+            162,
+            109
+          ],
+          "rejected": 1,
+          "votes_cast": 272
+        },
+        {
+          "range": "E-F",
+          "electors": 404,
+          "votes": [
+            126,
+            70
+          ],
+          "rejected": 1,
+          "votes_cast": 197
+        },
+        {
+          "range": "G-I",
+          "electors": 365,
+          "votes": [
+            100,
+            51
+          ],
+          "rejected": 14,
+          "votes_cast": 165
+        },
+        {
+          "range": "J-K",
+          "electors": 401,
+          "votes": [
+            111,
+            64
+          ],
+          "rejected": 11,
+          "votes_cast": 186
+        },
+        {
+          "range": "M-N",
+          "electors": 426,
+          "votes": [
+            106,
+            95
+          ],
+          "rejected": 1,
+          "votes_cast": 202
+        },
+        {
+          "range": "O-R",
+          "electors": 380,
+          "votes": [
+            123,
+            72
+          ],
+          "rejected": 2,
+          "votes_cast": 197
+        },
+        {
+          "range": "T-Z",
+          "electors": 268,
+          "votes": [
+            79,
+            40
+          ],
+          "rejected": 0,
+          "votes_cast": 119
+        }
+      ],
+      "electors": 3302,
+      "votes_cast": 1565,
+      "is_counted": true,
+      "votes_remaining": 1737,
+      "buckets_total": 8,
+      "buckets_counted": 8
+    },
+    "A1(c)": {
+      "name": "INDIES NIGHT CLUB",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 405,
+          "votes": [
+            94,
+            58
+          ],
+          "rejected": 0,
+          "votes_cast": 152
+        },
+        {
+          "range": "D-G",
+          "electors": 379,
+          "votes": [
+            93,
+            50
+          ],
+          "rejected": 1,
+          "votes_cast": 144
+        },
+        {
+          "range": "H-L",
+          "electors": 400,
+          "votes": [
+            105,
+            51
+          ],
+          "rejected": 3,
+          "votes_cast": 159
+        },
+        {
+          "range": "M-R",
+          "electors": 390,
+          "votes": [
+            90,
+            61
+          ],
+          "rejected": 1,
+          "votes_cast": 152
+        },
+        {
+          "range": "S-Z",
+          "electors": 316,
+          "votes": [
+            61,
+            62
+          ],
+          "rejected": 1,
+          "votes_cast": 124
+        }
+      ],
+      "electors": 1890,
+      "votes_cast": 731,
+      "is_counted": true,
+      "votes_remaining": 1159,
+      "buckets_total": 5,
+      "buckets_counted": 5
+    },
+    "A1(d)": {
+      "name": "AQUATIC CENTRE",
+      "buckets": [
+        {
+          "range": "A-L",
+          "electors": 394,
+          "votes": [
+            107,
+            42
+          ],
+          "rejected": 3,
+          "votes_cast": 152
+        },
+        {
+          "range": "M-Z",
+          "electors": 226,
+          "votes": [
+            47,
+            35
+          ],
+          "rejected": 4,
+          "votes_cast": 86
+        }
+      ],
+      "electors": 620,
+      "votes_cast": 238,
+      "is_counted": true,
+      "votes_remaining": 382,
+      "buckets_total": 2,
+      "buckets_counted": 2
+    },
+    "A2(a)": {
+      "name": "MONCHY COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 353,
+          "votes": [
+            110,
+            49
+          ],
+          "rejected": 27,
+          "votes_cast": 186
+        },
+        {
+          "range": "C-E",
+          "electors": 496,
+          "votes": [
+            179,
+            78
+          ],
+          "rejected": 5,
+          "votes_cast": 262
+        },
+        {
+          "range": "F-JON",
+          "electors": 389,
+          "votes": [
+            141,
+            67
+          ],
+          "rejected": 6,
+          "votes_cast": 214
+        },
+        {
+          "range": "JOS-MIC",
+          "electors": 372,
+          "votes": [
+            133,
+            70
+          ],
+          "rejected": 9,
+          "votes_cast": 212
+        },
+        {
+          "range": "MIT-SPO",
+          "electors": 391,
+          "votes": [
+            132,
+            76
+          ],
+          "rejected": 0,
+          "votes_cast": 208
+        }
+      ],
+      "electors": 2001,
+      "votes_cast": 1082,
+      "is_counted": true,
+      "votes_remaining": 919,
+      "buckets_total": 5,
+      "buckets_counted": 5
+    },
+    "A2(b)": {
+      "name": "DARREN SAMMY STADIUM (Beausejour)",
+      "buckets": [
+        {
+          "range": "A-CHARLERY",
+          "electors": 357,
+          "votes": [
+            147,
+            56
+          ],
+          "rejected": 2,
+          "votes_cast": 205
+        },
+        {
+          "range": "CHARLES-E",
+          "electors": 409,
+          "votes": [
+            178,
+            45
+          ],
+          "rejected": 1,
+          "votes_cast": 224
+        },
+        {
+          "range": "F-G",
+          "electors": 264,
+          "votes": [
+            102,
+            44
+          ],
+          "rejected": 2,
+          "votes_cast": 148
+        },
+        {
+          "range": "H-L",
+          "electors": 491,
+          "votes": [
+            193,
+            79
+          ],
+          "rejected": 2,
+          "votes_cast": 274
+        },
+        {
+          "range": "M-P",
+          "electors": 354,
+          "votes": [
+            150,
+            51
+          ],
+          "rejected": 2,
+          "votes_cast": 203
+        },
+        {
+          "range": "R-Z",
+          "electors": 298,
+          "votes": [
+            106,
+            64
+          ],
+          "rejected": 0,
+          "votes_cast": 170
+        }
+      ],
+      "electors": 2173,
+      "votes_cast": 1224,
+      "is_counted": true,
+      "votes_remaining": 949,
+      "buckets_total": 6,
+      "buckets_counted": 6
+    },
+    "A3(a)": {
+      "name": "GRANDE RIVIERE PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "B-CHARLES",
+          "electors": 463,
+          "votes": [
+            182,
+            59
+          ],
+          "rejected": 1,
+          "votes_cast": 242
+        },
+        {
+          "range": "CHARLOUES-D",
+          "electors": 511,
+          "votes": [
+            135,
+            93
+          ],
+          "rejected": 46,
+          "votes_cast": 274
+        },
+        {
+          "range": "E-F",
+          "electors": 487,
+          "votes": [
+            195,
+            80
+          ],
+          "rejected": 3,
+          "votes_cast": 278
+        },
+        {
+          "range": "G-H",
+          "electors": 340,
+          "votes": [
+            123,
+            48
+          ],
+          "rejected": 0,
+          "votes_cast": 171
+        },
+        {
+          "range": "I-JOR",
+          "electors": 368,
+          "votes": [
+            141,
+            66
+          ],
+          "rejected": 2,
+          "votes_cast": 209
+        },
+        {
+          "range": "JOS-LEN",
+          "electors": 390,
+          "votes": [
+            139,
+            53
+          ],
+          "rejected": 5,
+          "votes_cast": 197
+        }
+      ],
+      "electors": 2559,
+      "votes_cast": 1371,
+      "is_counted": true,
+      "votes_remaining": 1188,
+      "buckets_total": 6,
+      "buckets_counted": 6
+    },
+    "A3(b)": {
+      "name": "GRANDE RIVIERE INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "LEO-MATTHEWS",
+          "electors": 397,
+          "votes": [
+            119,
+            83
+          ],
+          "rejected": 1,
+          "votes_cast": 203
+        },
+        {
+          "range": "MATTY-O",
+          "electors": 391,
+          "votes": [
+            133,
+            83
+          ],
+          "rejected": 0,
+          "votes_cast": 216
+        },
+        {
+          "range": "P-Q",
+          "electors": 359,
+          "votes": [
+            130,
+            54
+          ],
+          "rejected": 1,
+          "votes_cast": 185
+        },
+        {
+          "range": "STANIO-Z",
+          "electors": 281,
+          "votes": [
+            91,
+            43
+          ],
+          "rejected": 3,
+          "votes_cast": 137
+        }
+      ],
+      "electors": 1428,
+      "votes_cast": 741,
+      "is_counted": true,
+      "votes_remaining": 687,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    },
+    "A4(a)": {
+      "name": "CORINTH SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 461,
+          "votes": [
+            134,
+            33
+          ],
+          "rejected": 17,
+          "votes_cast": 184
+        },
+        {
+          "range": "C-D",
+          "electors": 466,
+          "votes": [
+            119,
+            57
+          ],
+          "rejected": 9,
+          "votes_cast": 185
+        },
+        {
+          "range": "E-G",
+          "electors": 450,
+          "votes": [
+            131,
+            64
+          ],
+          "rejected": 3,
+          "votes_cast": 198
+        },
+        {
+          "range": "H-J",
+          "electors": 462,
+          "votes": [
+            135,
+            61
+          ],
+          "rejected": 9,
+          "votes_cast": 205
+        },
+        {
+          "range": "K-MIT",
+          "electors": 398,
+          "votes": [
+            103,
+            54
+          ],
+          "rejected": 1,
+          "votes_cast": 158
+        },
+        {
+          "range": "MOD-Q",
+          "electors": 393,
+          "votes": [
+            107,
+            48
+          ],
+          "rejected": 14,
+          "votes_cast": 169
+        },
+        {
+          "range": "R-S",
+          "electors": 488,
+          "votes": [
+            147,
+            67
+          ],
+          "rejected": 3,
+          "votes_cast": 217
+        },
+        {
+          "range": "T-Z",
+          "electors": 263,
+          "votes": [
+            55,
+            31
+          ],
+          "rejected": 5,
+          "votes_cast": 91
+        }
+      ],
+      "electors": 3381,
+      "votes_cast": 1407,
+      "is_counted": true,
+      "votes_remaining": 1974,
+      "buckets_total": 8,
+      "buckets_counted": 8
+    },
+    "A4(b)": {
+      "name": "CORINTH SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 428,
+          "votes": [
+            160,
+            70
+          ],
+          "rejected": 3,
+          "votes_cast": 233
+        },
+        {
+          "range": "C-D",
+          "electors": 361,
+          "votes": [
+            146,
+            38
+          ],
+          "rejected": 1,
+          "votes_cast": 185
+        },
+        {
+          "range": "E-G",
+          "electors": 378,
+          "votes": [
+            133,
+            59
+          ],
+          "rejected": 2,
+          "votes_cast": 194
+        },
+        {
+          "range": "H-J",
+          "electors": 445,
+          "votes": [
+            169,
+            60
+          ],
+          "rejected": 0,
+          "votes_cast": 229
+        },
+        {
+          "range": "K-N",
+          "electors": 411,
+          "votes": [
+            147,
+            47
+          ],
+          "rejected": 6,
+          "votes_cast": 200
+        },
+        {
+          "range": "O-R",
+          "electors": 284,
+          "votes": [
+            80,
+            36
+          ],
+          "rejected": 0,
+          "votes_cast": 116
+        },
+        {
+          "range": "S-Z",
+          "electors": 330,
+          "votes": [
+            108,
+            42
+          ],
+          "rejected": 0,
+          "votes_cast": 150
+        }
+      ],
+      "electors": 2637,
+      "votes_cast": 1307,
+      "is_counted": true,
+      "votes_remaining": 1330,
+      "buckets_total": 7,
+      "buckets_counted": 7
+    }
+  },
+  "total_electors": 22953,
+  "total_votes_cast": 11344,
+  "total_polling_divisions": 10,
+  "polling_divisions_counted": 10,
+  "polling_divisions_remaining": 0,
+  "counted_divisions": [
+    "A1(a)",
+    "A1(b)",
+    "A1(c)",
+    "A1(d)",
+    "A2(a)",
+    "A2(b)",
+    "A3(a)",
+    "A3(b)",
+    "A4(a)",
+    "A4(b)"
+  ],
+  "uncounted_divisions": [],
+  "total_ballot_boxes": 58,
+  "ballot_boxes_counted": 58,
+  "ballot_boxes_remaining": 0,
+  "counted_ballot_boxes": [
+    "A1(a):A-B",
+    "A1(a):C-D",
+    "A1(a):E-F",
+    "A1(a):G-I",
+    "A1(a):J-L",
+    "A1(a):M-O",
+    "A1(a):P-Z",
+    "A1(b):A-B",
+    "A1(b):C-D",
+    "A1(b):E-F",
+    "A1(b):G-I",
+    "A1(b):J-K",
+    "A1(b):M-N",
+    "A1(b):O-R",
+    "A1(b):T-Z",
+    "A1(c):A-C",
+    "A1(c):D-G",
+    "A1(c):H-L",
+    "A1(c):M-R",
+    "A1(c):S-Z",
+    "A1(d):A-L",
+    "A1(d):M-Z",
+    "A2(a):A-B",
+    "A2(a):C-E",
+    "A2(a):F-JON",
+    "A2(a):JOS-MIC",
+    "A2(a):MIT-SPO",
+    "A2(b):A-CHARLERY",
+    "A2(b):CHARLES-E",
+    "A2(b):F-G",
+    "A2(b):H-L",
+    "A2(b):M-P",
+    "A2(b):R-Z",
+    "A3(a):B-CHARLES",
+    "A3(a):CHARLOUES-D",
+    "A3(a):E-F",
+    "A3(a):G-H",
+    "A3(a):I-JOR",
+    "A3(a):JOS-LEN",
+    "A3(b):LEO-MATTHEWS",
+    "A3(b):MATTY-O",
+    "A3(b):P-Q",
+    "A3(b):STANIO-Z",
+    "A4(a):A-B",
+    "A4(a):C-D",
+    "A4(a):E-G",
+    "A4(a):H-J",
+    "A4(a):K-MIT",
+    "A4(a):MOD-Q",
+    "A4(a):R-S",
+    "A4(a):T-Z",
+    "A4(b):A-B",
+    "A4(b):C-D",
+    "A4(b):E-G",
+    "A4(b):H-J",
+    "A4(b):K-N",
+    "A4(b):O-R",
+    "A4(b):S-Z"
+  ],
+  "uncounted_ballot_boxes": [],
+  "votes_remaining": 11609
+}

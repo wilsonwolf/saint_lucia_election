@@ -1,0 +1,347 @@
+{
+  "district_id": 7,
+  "constituency": "Castries South",
+  "candidates": [
+    {
+      "name": "FEDEE",
+      "party": "UWP"
+    },
+    {
+      "name": "GIRARD",
+      "party": "SLP"
+    }
+  ],
+  "divisions": {
+    "G1": {
+      "name": "ROSEAU COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-COR",
+          "electors": 426,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "COX-E",
+          "electors": 355,
+          "votes": [
+            91,
+            89
+          ],
+          "rejected": 3,
+          "votes_cast": 183
+        },
+        {
+          "range": "F-I",
+          "electors": 308,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "K-P",
+          "electors": 402,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "R-Z",
+          "electors": 432,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1923,
+      "votes_cast": 183,
+      "is_counted": true,
+      "votes_remaining": 1740,
+      "buckets_total": 5,
+      "buckets_counted": 1
+    },
+    "G2(a)": {
+      "name": "MILLET PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 253,
+          "votes": [
+            59,
+            55
+          ],
+          "rejected": 3,
+          "votes_cast": 117
+        },
+        {
+          "range": "J-Z",
+          "electors": 351,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 604,
+      "votes_cast": 117,
+      "is_counted": true,
+      "votes_remaining": 487,
+      "buckets_total": 2,
+      "buckets_counted": 1
+    },
+    "G2(b)": {
+      "name": "CHRISTIAN FAITH ASSEMBLY",
+      "buckets": [
+        {
+          "range": "A-G",
+          "electors": 311,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-Z",
+          "electors": 485,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 796,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 796,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "G2(c)": {
+      "name": "TETE CHEMIN HUMAN RESOURCE CENTRE",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 226,
+          "votes": [
+            68,
+            86
+          ],
+          "rejected": 3,
+          "votes_cast": 157
+        },
+        {
+          "range": "J-Z",
+          "electors": 294,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 520,
+      "votes_cast": 157,
+      "is_counted": true,
+      "votes_remaining": 363,
+      "buckets_total": 2,
+      "buckets_counted": 1
+    },
+    "G3": {
+      "name": "ANSE LA RAYE PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-CHU",
+          "electors": 419,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "CI-F",
+          "electors": 517,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "G-JN",
+          "electors": 416,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JO-MC",
+          "electors": 387,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "ME-P",
+          "electors": 345,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "SO-Z",
+          "electors": 468,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2552,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2552,
+      "buckets_total": 6,
+      "buckets_counted": 0
+    },
+    "G4": {
+      "name": "CANARIES PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 472,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-H",
+          "electors": 452,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "I-LAW",
+          "electors": 428,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "LE-M",
+          "electors": 357,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "N-Z",
+          "electors": 365,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2074,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2074,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 8469,
+  "total_votes_cast": 457,
+  "total_polling_divisions": 6,
+  "polling_divisions_counted": 3,
+  "polling_divisions_remaining": 3,
+  "counted_divisions": [
+    "G1",
+    "G2(a)",
+    "G2(c)"
+  ],
+  "uncounted_divisions": [
+    "G2(b)",
+    "G3",
+    "G4"
+  ],
+  "total_ballot_boxes": 22,
+  "ballot_boxes_counted": 3,
+  "ballot_boxes_remaining": 19,
+  "counted_ballot_boxes": [
+    "G1:COX-E",
+    "G2(a):A-I",
+    "G2(c):A-I"
+  ],
+  "uncounted_ballot_boxes": [
+    "G1:A-COR",
+    "G1:F-I",
+    "G1:K-P",
+    "G1:R-Z",
+    "G2(a):J-Z",
+    "G2(b):A-G",
+    "G2(b):H-Z",
+    "G2(c):J-Z",
+    "G3:A-CHU",
+    "G3:CI-F",
+    "G3:G-JN",
+    "G3:JO-MC",
+    "G3:ME-P",
+    "G3:SO-Z",
+    "G4:A-C",
+    "G4:D-H",
+    "G4:I-LAW",
+    "G4:LE-M",
+    "G4:N-Z"
+  ],
+  "votes_remaining": 8012
+}

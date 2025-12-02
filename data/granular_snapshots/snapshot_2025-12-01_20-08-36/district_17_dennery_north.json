@@ -1,0 +1,525 @@
+{
+  "district_id": 17,
+  "constituency": "Dennery North",
+  "candidates": [
+    {
+      "name": "JAWAHIR",
+      "party": "SLP"
+    },
+    {
+      "name": "JOSEPH",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "Q1": {
+      "name": "SIR ARTHUR LEWIS COMMUNITY COLLEGE",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 346,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "C-E",
+          "electors": 446,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-I",
+          "electors": 352,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-L",
+          "electors": 388,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-P",
+          "electors": 381,
+          "votes": [
+            110,
+            58
+          ],
+          "rejected": 0,
+          "votes_cast": 168
+        },
+        {
+          "range": "R-Z",
+          "electors": 449,
+          "votes": [
+            124,
+            83
+          ],
+          "rejected": 0,
+          "votes_cast": 207
+        }
+      ],
+      "electors": 2362,
+      "votes_cast": 375,
+      "is_counted": true,
+      "votes_remaining": 1987,
+      "buckets_total": 6,
+      "buckets_counted": 2
+    },
+    "Q2": {
+      "name": "TI ROCHER COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-D",
+          "electors": 459,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "E-I",
+          "electors": 355,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-L",
+          "electors": 407,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-R",
+          "electors": 434,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 275,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1930,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1930,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    },
+    "Q3": {
+      "name": "BEXON PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 330,
+          "votes": [
+            88,
+            68
+          ],
+          "rejected": 2,
+          "votes_cast": 158
+        },
+        {
+          "range": "D-E",
+          "electors": 394,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-JN",
+          "electors": 381,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JO-M",
+          "electors": 463,
+          "votes": [
+            142,
+            80
+          ],
+          "rejected": 2,
+          "votes_cast": 224
+        },
+        {
+          "range": "N-R",
+          "electors": 243,
+          "votes": [
+            60,
+            62
+          ],
+          "rejected": 1,
+          "votes_cast": 123
+        },
+        {
+          "range": "S-Z",
+          "electors": 328,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2139,
+      "votes_cast": 505,
+      "is_counted": true,
+      "votes_remaining": 1634,
+      "buckets_total": 6,
+      "buckets_counted": 3
+    },
+    "Q4": {
+      "name": "SDA SCHOOL (RAVINE POISSON)",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 474,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "D-I",
+          "electors": 453,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-M",
+          "electors": 462,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "N-Z",
+          "electors": 429,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1818,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1818,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    },
+    "Q5": {
+      "name": "BEXON INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-CHAR",
+          "electors": 494,
+          "votes": [
+            133,
+            100
+          ],
+          "rejected": 2,
+          "votes_cast": 235
+        },
+        {
+          "range": "CHAS-FE",
+          "electors": 469,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "FI-JON",
+          "electors": 476,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JOS-O",
+          "electors": 502,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "P-Z",
+          "electors": 481,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2422,
+      "votes_cast": 235,
+      "is_counted": true,
+      "votes_remaining": 2187,
+      "buckets_total": 5,
+      "buckets_counted": 1
+    },
+    "Q6(a)": {
+      "name": "BARRE DU CHAUSSEE PRE SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 489,
+          "votes": [
+            146,
+            106
+          ],
+          "rejected": 12,
+          "votes_cast": 264
+        },
+        {
+          "range": "F-L",
+          "electors": 523,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-Z",
+          "electors": 497,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1509,
+      "votes_cast": 264,
+      "is_counted": true,
+      "votes_remaining": 1245,
+      "buckets_total": 3,
+      "buckets_counted": 1
+    },
+    "Q6(b)": {
+      "name": "BELAIR HUMAN RESOURCE DEVELOPMENT CENTRE",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 485,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 485,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 485,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "Q7": {
+      "name": "ODSAN COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-CHER",
+          "electors": 464,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "CHI-E",
+          "electors": 394,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-I",
+          "electors": 436,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-L",
+          "electors": 567,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-P",
+          "electors": 417,
+          "votes": [
+            100,
+            95
+          ],
+          "rejected": 1,
+          "votes_cast": 196
+        },
+        {
+          "range": "Q-Z",
+          "electors": 398,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2676,
+      "votes_cast": 196,
+      "is_counted": true,
+      "votes_remaining": 2480,
+      "buckets_total": 6,
+      "buckets_counted": 1
+    }
+  },
+  "total_electors": 15341,
+  "total_votes_cast": 1575,
+  "total_polling_divisions": 8,
+  "polling_divisions_counted": 5,
+  "polling_divisions_remaining": 3,
+  "counted_divisions": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q6(a)",
+    "Q7"
+  ],
+  "uncounted_divisions": [
+    "Q2",
+    "Q4",
+    "Q6(b)"
+  ],
+  "total_ballot_boxes": 36,
+  "ballot_boxes_counted": 8,
+  "ballot_boxes_remaining": 28,
+  "counted_ballot_boxes": [
+    "Q1:M-P",
+    "Q1:R-Z",
+    "Q3:A-C",
+    "Q3:JO-M",
+    "Q3:N-R",
+    "Q5:A-CHAR",
+    "Q6(a):A-E",
+    "Q7:M-P"
+  ],
+  "uncounted_ballot_boxes": [
+    "Q1:A-B",
+    "Q1:C-E",
+    "Q1:F-I",
+    "Q1:J-L",
+    "Q2:A-D",
+    "Q2:E-I",
+    "Q2:J-L",
+    "Q2:M-R",
+    "Q2:S-Z",
+    "Q3:D-E",
+    "Q3:F-JN",
+    "Q3:S-Z",
+    "Q4:A-C",
+    "Q4:D-I",
+    "Q4:J-M",
+    "Q4:N-Z",
+    "Q5:CHAS-FE",
+    "Q5:FI-JON",
+    "Q5:JOS-O",
+    "Q5:P-Z",
+    "Q6(a):F-L",
+    "Q6(a):M-Z",
+    "Q6(b):A-Z",
+    "Q7:A-CHER",
+    "Q7:CHI-E",
+    "Q7:F-I",
+    "Q7:J-L",
+    "Q7:Q-Z"
+  ],
+  "votes_remaining": 13766
+}

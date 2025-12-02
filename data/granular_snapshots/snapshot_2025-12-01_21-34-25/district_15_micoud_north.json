@@ -1,0 +1,222 @@
+{
+  "district_id": 15,
+  "constituency": "Micoud North",
+  "candidates": [
+    {
+      "name": "EMILE",
+      "party": "UWP"
+    },
+    {
+      "name": "PROSPERE",
+      "party": "SLP"
+    }
+  ],
+  "divisions": {
+    "O1": {
+      "name": "ECO TOURISM BUILDING",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 452,
+          "votes": [
+            120,
+            129
+          ],
+          "rejected": 3,
+          "votes_cast": 252
+        },
+        {
+          "range": "F-L",
+          "electors": 359,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-Z",
+          "electors": 410,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1221,
+      "votes_cast": 252,
+      "is_counted": true,
+      "votes_remaining": 969,
+      "buckets_total": 3,
+      "buckets_counted": 1
+    },
+    "O2": {
+      "name": "DENNERY INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 468,
+          "votes": [
+            133,
+            113
+          ],
+          "rejected": 5,
+          "votes_cast": 251
+        },
+        {
+          "range": "D-E",
+          "electors": 351,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-G",
+          "electors": 440,
+          "votes": [
+            118,
+            114
+          ],
+          "rejected": 14,
+          "votes_cast": 246
+        },
+        {
+          "range": "H-K",
+          "electors": 412,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "L-O",
+          "electors": 361,
+          "votes": [
+            81,
+            102
+          ],
+          "rejected": 8,
+          "votes_cast": 191
+        },
+        {
+          "range": "P-R",
+          "electors": 388,
+          "votes": [
+            88,
+            127
+          ],
+          "rejected": 15,
+          "votes_cast": 230
+        },
+        {
+          "range": "S-Z",
+          "electors": 450,
+          "votes": [
+            120,
+            97
+          ],
+          "rejected": 19,
+          "votes_cast": 236
+        }
+      ],
+      "electors": 2870,
+      "votes_cast": 1154,
+      "is_counted": true,
+      "votes_remaining": 1716,
+      "buckets_total": 7,
+      "buckets_counted": 5
+    },
+    "O3": {
+      "name": "DENNERY SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 396,
+          "votes": [
+            79,
+            142
+          ],
+          "rejected": 0,
+          "votes_cast": 221
+        },
+        {
+          "range": "F-J",
+          "electors": 368,
+          "votes": [
+            90,
+            114
+          ],
+          "rejected": 31,
+          "votes_cast": 235
+        },
+        {
+          "range": "L-R",
+          "electors": 341,
+          "votes": [
+            74,
+            102
+          ],
+          "rejected": 10,
+          "votes_cast": 186
+        },
+        {
+          "range": "S-Z",
+          "electors": 191,
+          "votes": [
+            33,
+            45
+          ],
+          "rejected": 13,
+          "votes_cast": 91
+        }
+      ],
+      "electors": 1296,
+      "votes_cast": 733,
+      "is_counted": true,
+      "votes_remaining": 563,
+      "buckets_total": 4,
+      "buckets_counted": 4
+    }
+  },
+  "total_electors": 5387,
+  "total_votes_cast": 2139,
+  "total_polling_divisions": 3,
+  "polling_divisions_counted": 3,
+  "polling_divisions_remaining": 0,
+  "counted_divisions": [
+    "O1",
+    "O2",
+    "O3"
+  ],
+  "uncounted_divisions": [],
+  "total_ballot_boxes": 14,
+  "ballot_boxes_counted": 10,
+  "ballot_boxes_remaining": 4,
+  "counted_ballot_boxes": [
+    "O1:A-E",
+    "O2:A-C",
+    "O2:F-G",
+    "O2:L-O",
+    "O2:P-R",
+    "O2:S-Z",
+    "O3:A-E",
+    "O3:F-J",
+    "O3:L-R",
+    "O3:S-Z"
+  ],
+  "uncounted_ballot_boxes": [
+    "O1:F-L",
+    "O1:M-Z",
+    "O2:D-E",
+    "O2:H-K"
+  ],
+  "votes_remaining": 3248
+}

@@ -1,0 +1,359 @@
+{
+  "district_id": 8,
+  "constituency": "Anse La Raye/Canaries",
+  "candidates": [
+    {
+      "name": "HIPPOLYTE",
+      "party": "SLP"
+    },
+    {
+      "name": "STANISLAS",
+      "party": "UWP"
+    }
+  ],
+  "divisions": {
+    "H1": {
+      "name": "SOUFRIERE PRIMARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 448,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "C-E",
+          "electors": 420,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-H",
+          "electors": 494,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "I-K",
+          "electors": 368,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "L-O",
+          "electors": 418,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "P-SM",
+          "electors": 295,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "SO-Z",
+          "electors": 273,
+          "votes": [
+            70,
+            91
+          ],
+          "rejected": 1,
+          "votes_cast": 162
+        }
+      ],
+      "electors": 2716,
+      "votes_cast": 162,
+      "is_counted": true,
+      "votes_remaining": 2554,
+      "buckets_total": 7,
+      "buckets_counted": 1
+    },
+    "H2": {
+      "name": "SOUFRIERE INFANT SCHOOL",
+      "buckets": [
+        {
+          "range": "A-C",
+          "electors": 437,
+          "votes": [
+            97,
+            118
+          ],
+          "rejected": 2,
+          "votes_cast": 217
+        },
+        {
+          "range": "D-I",
+          "electors": 432,
+          "votes": [
+            96,
+            124
+          ],
+          "rejected": 2,
+          "votes_cast": 222
+        },
+        {
+          "range": "J-L",
+          "electors": 356,
+          "votes": [
+            82,
+            79
+          ],
+          "rejected": 20,
+          "votes_cast": 181
+        },
+        {
+          "range": "M-P",
+          "electors": 296,
+          "votes": [
+            78,
+            72
+          ],
+          "rejected": 9,
+          "votes_cast": 159
+        },
+        {
+          "range": "R-Z",
+          "electors": 249,
+          "votes": [
+            53,
+            83
+          ],
+          "rejected": 1,
+          "votes_cast": 137
+        }
+      ],
+      "electors": 1770,
+      "votes_cast": 916,
+      "is_counted": true,
+      "votes_remaining": 854,
+      "buckets_total": 5,
+      "buckets_counted": 5
+    },
+    "H3": {
+      "name": "ST. ISIDORE’S HALL",
+      "buckets": [
+        {
+          "range": "A-F",
+          "electors": 426,
+          "votes": [
+            185,
+            86
+          ],
+          "rejected": 2,
+          "votes_cast": 273
+        },
+        {
+          "range": "G-N",
+          "electors": 493,
+          "votes": [
+            293,
+            142
+          ],
+          "rejected": 8,
+          "votes_cast": 443
+        },
+        {
+          "range": "O-Z",
+          "electors": 314,
+          "votes": [
+            161,
+            30
+          ],
+          "rejected": 2,
+          "votes_cast": 193
+        }
+      ],
+      "electors": 1233,
+      "votes_cast": 909,
+      "is_counted": true,
+      "votes_remaining": 324,
+      "buckets_total": 3,
+      "buckets_counted": 3
+    },
+    "H4": {
+      "name": "ETANGS COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-H",
+          "electors": 477,
+          "votes": [
+            146,
+            146
+          ],
+          "rejected": 1,
+          "votes_cast": 293
+        },
+        {
+          "range": "I-Z",
+          "electors": 496,
+          "votes": [
+            160,
+            162
+          ],
+          "rejected": 1,
+          "votes_cast": 323
+        }
+      ],
+      "electors": 973,
+      "votes_cast": 616,
+      "is_counted": true,
+      "votes_remaining": 357,
+      "buckets_total": 2,
+      "buckets_counted": 2
+    },
+    "H5": {
+      "name": "BOUTON COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 122,
+          "votes": [
+            35,
+            36
+          ],
+          "rejected": 0,
+          "votes_cast": 71
+        }
+      ],
+      "electors": 122,
+      "votes_cast": 71,
+      "is_counted": true,
+      "votes_remaining": 51,
+      "buckets_total": 1,
+      "buckets_counted": 1
+    },
+    "H6": {
+      "name": "FOND ST.JACQUES PRIMARY SCHOOL (A)",
+      "buckets": [
+        {
+          "range": "A-JN",
+          "electors": 417,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "JO-Z",
+          "electors": 475,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 892,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 892,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "H7": {
+      "name": "FOND ST.JACQUES PRIMARY SCHOOL (B)",
+      "buckets": [
+        {
+          "range": "A-J",
+          "electors": 480,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "K-Z",
+          "electors": 289,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 769,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 769,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 8475,
+  "total_votes_cast": 2674,
+  "total_polling_divisions": 7,
+  "polling_divisions_counted": 5,
+  "polling_divisions_remaining": 2,
+  "counted_divisions": [
+    "H1",
+    "H2",
+    "H3",
+    "H4",
+    "H5"
+  ],
+  "uncounted_divisions": [
+    "H6",
+    "H7"
+  ],
+  "total_ballot_boxes": 22,
+  "ballot_boxes_counted": 12,
+  "ballot_boxes_remaining": 10,
+  "counted_ballot_boxes": [
+    "H1:SO-Z",
+    "H2:A-C",
+    "H2:D-I",
+    "H2:J-L",
+    "H2:M-P",
+    "H2:R-Z",
+    "H3:A-F",
+    "H3:G-N",
+    "H3:O-Z",
+    "H4:A-H",
+    "H4:I-Z",
+    "H5:A-Z"
+  ],
+  "uncounted_ballot_boxes": [
+    "H1:A-B",
+    "H1:C-E",
+    "H1:F-H",
+    "H1:I-K",
+    "H1:L-O",
+    "H1:P-SM",
+    "H6:A-JN",
+    "H6:JO-Z",
+    "H7:A-J",
+    "H7:K-Z"
+  ],
+  "votes_remaining": 5801
+}

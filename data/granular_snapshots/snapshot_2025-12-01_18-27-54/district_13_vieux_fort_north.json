@@ -1,0 +1,312 @@
+{
+  "district_id": 13,
+  "constituency": "Vieux Fort North",
+  "candidates": [
+    {
+      "name": "CHASTANET",
+      "party": "UWP"
+    },
+    {
+      "name": "HARRACKSINGH",
+      "party": "SLP"
+    }
+  ],
+  "divisions": {
+    "M1": {
+      "name": "DUGARD HUMAN RESOURCE CENTRE",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 371,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-Z",
+          "electors": 441,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 812,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 812,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "M2(a)": {
+      "name": "TI ROCHER MULTI-PURPOSE CENTRE",
+      "buckets": [
+        {
+          "range": "A-B",
+          "electors": 348,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "C-G",
+          "electors": 465,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "H-L",
+          "electors": 347,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "M-R",
+          "electors": 364,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "S-Z",
+          "electors": 271,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1795,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1795,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    },
+    "M2(b)": {
+      "name": "LA COURVILLE PRE SCHOOL",
+      "buckets": [
+        {
+          "range": "A-Z",
+          "electors": 403,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 403,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 403,
+      "buckets_total": 1,
+      "buckets_counted": 0
+    },
+    "M3(a)": {
+      "name": "ANSE GER SECONDARY SCHOOL",
+      "buckets": [
+        {
+          "range": "A-I",
+          "electors": 458,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "K-Z",
+          "electors": 494,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 952,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 952,
+      "buckets_total": 2,
+      "buckets_counted": 0
+    },
+    "M3(b)": {
+      "name": "DESRUISSEAUX COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-D",
+          "electors": 468,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "E-I",
+          "electors": 450,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "J-MA",
+          "electors": 432,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "MC-SP",
+          "electors": 378,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "ST-Z",
+          "electors": 316,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 2044,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 2044,
+      "buckets_total": 5,
+      "buckets_counted": 0
+    },
+    "M3(c)": {
+      "name": "BLANCHARD COMBINED SCHOOL",
+      "buckets": [
+        {
+          "range": "A-E",
+          "electors": 406,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "F-J",
+          "electors": 404,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "K-PA",
+          "electors": 402,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        },
+        {
+          "range": "PE-Z",
+          "electors": 409,
+          "votes": [
+            0,
+            0
+          ],
+          "rejected": 0,
+          "votes_cast": 0
+        }
+      ],
+      "electors": 1621,
+      "votes_cast": 0,
+      "is_counted": false,
+      "votes_remaining": 1621,
+      "buckets_total": 4,
+      "buckets_counted": 0
+    }
+  },
+  "total_electors": 7627,
+  "total_votes_cast": 0,
+  "total_polling_divisions": 6,
+  "polling_divisions_counted": 0,
+  "polling_divisions_remaining": 6,
+  "counted_divisions": [],
+  "uncounted_divisions": [
+    "M1",
+    "M2(a)",
+    "M2(b)",
+    "M3(a)",
+    "M3(b)",
+    "M3(c)"
+  ],
+  "total_ballot_boxes": 19,
+  "ballot_boxes_counted": 0,
+  "ballot_boxes_remaining": 19,
+  "counted_ballot_boxes": [],
+  "uncounted_ballot_boxes": [
+    "M1:A-I",
+    "M1:J-Z",
+    "M2(a):A-B",
+    "M2(a):C-G",
+    "M2(a):H-L",
+    "M2(a):M-R",
+    "M2(a):S-Z",
+    "M2(b):A-Z",
+    "M3(a):A-I",
+    "M3(a):K-Z",
+    "M3(b):A-D",
+    "M3(b):E-I",
+    "M3(b):J-MA",
+    "M3(b):MC-SP",
+    "M3(b):ST-Z",
+    "M3(c):A-E",
+    "M3(c):F-J",
+    "M3(c):K-PA",
+    "M3(c):PE-Z"
+  ],
+  "votes_remaining": 7627
+}
